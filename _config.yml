@@ -20,15 +20,15 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Gabriel L. J."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Gabriel Lima Jacinto"
+description              : "Nous prenons l'habitude de vivre avant d'acquérir celle de penser."
+url                      : https://gabriellimajacinto.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+repository               : gabrielljacinto/gabrielljacinto.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/fav-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Gabriel Lima Jacinto" # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
@@ -68,7 +68,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -113,30 +113,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gabriel Lima Jacinto"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Gabriel, Orion23"
+  avatar           : "/assets/images/profile-pic.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Aspiring Research Scientist"
+  location         : "Brazil"
+  email            : gabriellimajacinto@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/gabriel-lima-jacinto/"
+    - label: "Goodreads"
+      icon: "fab fa-fw fa-goodreads"
+      url: "https://www.goodreads.com/user/show/102268087"
+    - label: "Letterboxd"
+      icon: "fab fa-fw fa-letterboxd"
+      # url: "https://instagram.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/gabrielljacinto"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/orion2342"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-9258-8045"
+    - label: "Lattes"
+      icon: "fab fa-fw fa-book"
+      url: "http://lattes.cnpq.br/7398702131851254"
 
 # Site Footer
 footer:
@@ -144,27 +147,13 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
 
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pages  
+  - files
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -227,7 +216,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/Sao_Paulo" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
@@ -312,14 +301,66 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: # true
+      show_date: true
+      share: false
+      related: false
+  # _library
+  - scope:
+      path: ""
+      type: library
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      show_date: true
+      share: false
+      comment: false 
+      toc: true
+      header:
+        teaser: "/assets/images/teaser-library.jpg" 
+        overlay_image: "/assets/images/teaser-library.jpg" 
+      classes: wide
+  # _essays
+  - scope:
+      path: ""
+      type: essays
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      show_date: true
+      header:
+        overlay_image: "/assets/images/teaser.jpg" 
+      comment: false
+  # _publications
+  - scope:
+      path: ""
+      type: publications
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      share: false
+      show_date: true
+      comments: false
+
+# Gabriel added
+# Collections
+collections:
+  library:
+    output: true
+    permalink: /:collection/:path/
+  essays:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/

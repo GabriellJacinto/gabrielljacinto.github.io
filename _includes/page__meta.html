@@ -1,5 +1,5 @@
 {% assign document = post | default: page %}
-{% if document.read_time or document.show_date %}
+{% if document.read_time or document.show_date or document.tags[0] %}
   <p class="page__meta">
     {% if document.show_date and document.date %}
       {% assign date = document.date %}
@@ -27,5 +27,15 @@
         {% endif %}
       </span>
     {% endif %}
+<!-- Gabriel added -->
+    {% if document.tags %}<span class="page__meta-sep"></span>{% endif %}
+
+    <span class="page__meta-tags">
+      <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} </strong>
+        {% assign tags_sorted = page.tags | sort_natural %}
+      {% for tag_word in tags_sorted %}
+        <a class="page__taxonomy-item p-category" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+      {% endfor %}
+    </span>
   </p>
 {% endif %}

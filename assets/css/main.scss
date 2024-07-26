@@ -7,3 +7,14 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Gabriel added: personalized text colors
+.blue {
+    color: rgb(0, 90, 117);
+  }
+.red {
+    color: mix(rgb(255, 0, 0), $primary-color, 50%);
+  }
+.yellow {
+    color: $primary-color;
+  }

@@ -31,3 +31,6 @@ codekit-config.json
 _asset_bundler_cache
 _site
 _local
+
+# python
+.venv

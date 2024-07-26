@@ -33,16 +33,18 @@ body {
   flex: 1 0 auto;
 }
 
+/* _pages.scss */
+
 .page {
   @include breakpoint($large) {
-    float: inline-end;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-inline-end: $right-sidebar-width-narrow;
+     float: inline-end;
+     width: calc(100% - #{$right-sidebar-width-narrow});
+     padding-inline-end: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-inline-end: $right-sidebar-width;
+     width: calc(100% - #{$right-sidebar-width});
+     padding-inline-end: $right-sidebar-width;
   }
 
   .page__inner-wrap {
@@ -63,6 +65,7 @@ body {
     }
   }
 }
+
 
 .page__title {
   margin-top: 0;
@@ -551,11 +554,43 @@ body {
 .wide {
   .page, .page__related {
     @include breakpoint($large) {
+      float: none;    // disable from .page
+      margin: 0 auto; // center
       padding-inline-end: 0;
     }
 
     @include breakpoint($x-large) {
+      float: none;    // disable from .page
+      margin: 0 auto; // center
       padding-inline-end: 0;
     }
   }
 }
+
+
+/*
+   GPT generated for support for grids, but I don't think it is necessary
+   ========================================================================== */
+
+// .entries-grid {
+//   display: flex;
+//   flex-wrap: wrap;
+//   gap: 20px; /* Adjust the gap as needed */
+// }
+
+// .entries-grid .archive__item {
+//   flex: 1 1 calc(33.333% - 20px); /* Adjust for 3 columns and gap */
+//   box-sizing: border-box;
+// }
+
+// @media (max-width: 768px) {
+//   .entries-grid .archive__item {
+//     flex: 1 1 calc(50% - 20px); /* Adjust for 2 columns on smaller screens */
+//   }
+// }
+
+// @media (max-width: 480px) {
+//   .entries-grid .archive__item {
+//     flex: 1 1 100%; /* Full width on smallest screens */
+//   }
+// }
