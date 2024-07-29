@@ -8,7 +8,8 @@ tags:
 header:
   teaser: /assets/images/branching-out.jpg
   overlay_image: /assets/images/branching-out.jpg
-collection: D.B.W.
+collection: essays
+category: D.B.W.
 permalink: /essays/branching-out
 ---
 	"Friedrich,

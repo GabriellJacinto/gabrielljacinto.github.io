@@ -4,7 +4,7 @@ collection: library
 tags:
 - Machine Learning
 title: "Chapter 1, 2, and 3"
-permalink: /library/teste/
+permalink: /library/homl-1-2-3-chapters/
 category: "Hands On Machine Learning"
 excerpt: "Hands On Machine Learning"
 ---
