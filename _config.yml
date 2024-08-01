@@ -328,7 +328,7 @@ defaults:
       header:
         teaser: "/assets/images/teaser-library.jpg" 
         overlay_image: "/assets/images/teaser-library.jpg" 
-      classes: wide
+      toc_sticky: true
   # _essays
   - scope:
       path: ""
@@ -337,10 +337,13 @@ defaults:
       layout: single
       author_profile: false
       share: false
+      read_time: true
       show_date: true
       header:
         overlay_image: "/assets/images/teaser.jpg" 
       comment: false
+      toc: true
+      toc_sticky: true
   # _publications
   - scope:
       path: ""
@@ -351,8 +354,14 @@ defaults:
       share: false
       show_date: true
       comments: false
+      author_profile: false
+      toc: false
+      toc_sticky: true
+
 
 # Gabriel added
+posts_limit: 4
+
 # Collections
 collections:
   library:

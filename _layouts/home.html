@@ -16,7 +16,8 @@ layout: archive
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
-  {% assign posts = all_posts %}
+  {% assign posts_limit = site.posts_limit | default: 10 %}
+  {% assign posts = all_posts | slice: 0, posts_limit %}
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'grid' %}

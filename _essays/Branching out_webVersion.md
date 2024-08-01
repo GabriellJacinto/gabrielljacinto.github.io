@@ -4,13 +4,14 @@ author: "Gabriel Lima Jacinto"
 excerpt: "D.B.W."
 date: 2024-07-24
 tags:
-  - Poem
+  - Poems
 header:
   teaser: /assets/images/branching-out.jpg
   overlay_image: /assets/images/branching-out.jpg
 collection: essays
 category: D.B.W.
 permalink: /essays/branching-out
+toc: false
 ---
 	"Friedrich,
 	Once more, the Pale Blue Dot stares into the Abyss,  

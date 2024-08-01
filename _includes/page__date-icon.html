@@ -1,6 +1,13 @@
 {% assign document = post | default: page %}
 {% if document.read_time or document.show_date or document.tags[0] %}
   <p class="page__meta">
+    {% assign tag_word = document.tags[0] %}
+    <span class="page__meta-date">
+      <i class="fas fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }}
+      <a class="page__taxonomy-item p-category" rel="tag">{{ tag_word }}</a>
+    </span>
+  </p>
+  <p class="page__meta">
     {% if document.show_date and document.date %}
       {% assign date = document.date %}
       <span class="page__meta-date">

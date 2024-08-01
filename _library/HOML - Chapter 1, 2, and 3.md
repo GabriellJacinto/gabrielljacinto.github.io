@@ -5,6 +5,9 @@ tags:
 - Machine Learning
 title: "Chapter 1, 2, and 3"
 permalink: /library/homl-1-2-3-chapters/
+header:
+  teaser: /assets/images/homl.jpg
+  overlay_image: /assets/images/homl.jpg
 category: "Hands On Machine Learning"
 excerpt: "Hands On Machine Learning"
 ---

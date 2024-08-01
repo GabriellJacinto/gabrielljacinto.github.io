@@ -8,6 +8,7 @@ venue: 'IEEE 30th International Conference on Electronics, Circuits and Systems 
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '/assets/files/ICECS2023__Predição_FinFET.pdf'
 citation: 'Jacinto, G. L. (2023). &quot;Fast and Low-Error Prediction of Logic Gate Cell Characterization.&quot; <i>IEEE 30th International Conference on Electronics, Circuits and Systems (ICECS)</i>.'
+author_profile: false
 tags:
   - Cell Characterization
   - FinFET Devices
