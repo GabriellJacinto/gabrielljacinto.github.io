@@ -17,7 +17,12 @@ layout: archive
   {% assign posts = paginator.posts %}
 {% else %}
   {% assign posts_limit = site.posts_limit | default: 10 %}
-  {% assign posts = all_posts | slice: 0, posts_limit %}
+  
+  <!-- Sort posts by date in descending order -->
+  {% assign sorted_posts = all_posts | sort: 'date' | reverse %}
+  
+  <!-- Slice to get the limit of posts -->
+  {% assign posts = sorted_posts | slice: 0, posts_limit %}
 {% endif %}
 
 {% assign entries_layout = page.entries_layout | default: 'grid' %}
@@ -26,5 +31,6 @@ layout: archive
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
+
 
 {% include paginator.html %}
