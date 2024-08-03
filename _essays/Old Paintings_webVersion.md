@@ -1,7 +1,7 @@
 ---
 title: My Old Paintings
 author: Gabriel Lima Jacinto
-excerpt: Bob Ross Videos
+excerpt: ily Bob Ross
 date:  2017-09-03
 tags:
   - Painting
