@@ -7,7 +7,7 @@ tags:
   - Poems
 header:
   teaser: /assets/images/teaser.jpg
-  overlay_image: /assets/images/teaser.jpg
+  overlay_image: /assets/images/teaser-banner.jpg
 category: "Identity"
 collection: essays
 permalink: /essays/23-revolutions

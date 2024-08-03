@@ -26,7 +26,7 @@ url                      : https://gabriellimajacinto.com/ # the base hostname &
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : gabrielljacinto/gabrielljacinto.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/fav-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/favicon.ico" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Gabriel Lima Jacinto" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -326,8 +326,7 @@ defaults:
       comment: false 
       toc: true
       header:
-        teaser: "/assets/images/teaser-library.jpg" 
-        overlay_image: "/assets/images/teaser-library.jpg" 
+        overlay_image: "/assets/images/teaser-banner.jpg" 
       toc_sticky: true
   # _essays
   - scope:
@@ -340,7 +339,7 @@ defaults:
       read_time: true
       show_date: true
       header:
-        overlay_image: "/assets/images/teaser.jpg" 
+        overlay_image: "/assets/images/teaser-banner.jpg" 
       comment: false
       toc: true
       toc_sticky: true

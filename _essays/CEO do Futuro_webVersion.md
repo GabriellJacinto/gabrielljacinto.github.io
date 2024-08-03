@@ -7,7 +7,7 @@ tags:
   - Projects
 header:
   teaser: /assets/images/teaser.jpg
-  overlay_image: /assets/images/teaser.jpg
+  overlay_image: /assets/images/teaser-banner.jpg
 category: "Leadership"
 collection: essays
 permalink: /essays/ceo-do-futuro
