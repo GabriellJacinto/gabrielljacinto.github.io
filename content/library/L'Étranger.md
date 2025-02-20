@@ -10,16 +10,16 @@
 >2. Segue-se uma rotina normal até que em uma viagem com amigos a uma casa de praia, o homem se envolve em uma confusão com árabes e acaba matando com cinco tiros um deles. Culpa-se o sol forte da praia.
 >3. O homem é preso e julgado em um tribunal absurdo que leva em consideração sua indiferença sobre a morte da mãe e é condenado a guilhotina. 
 
-## Notes
+# Notes
 
-### 🔖 Page 83 
+## 🔖 Page 83 
 
 Esse é o primeiro livro que leio do Camus e a primeira obra dessa saga de obras de vertente existencialista que estou lendo. O que eu sei sobre ele é que ele foi um repórter/escritor/filósofo francês que viveu no início do século XX junto com figuras intelectuais como J.P. Sartre. Eles dois, por sinal, foram muito amigos durante a vida, porém se afastaram um pouco por questões políticas no final de suas carreiras se não estou enganado. Sendo assim, o pensamento filosófico dos dois era muito semelhante em suas premissas, com uma diferença essencial na conclusão. Enquanto os dois concordavam que a vida não possuía sentido por essência, A. Camus conclui que isso faz da existência humana um absurdo e todo o esforço para preencher esse vazio interno que os indivíduos sentem - seja por meio da religião, trabalho, sexo, família etc. - é fútil e o correto seria apenas aceitar o “absurdo” e viver com o fato que nada realmente importa e tudo é apenas um conjunto valores abstratamente construídos. Essa visão de certa forma niilista – um termo que eu acho um tanto quanto simplificador e preguiçoso para tentar resumir esse tipo de obra e que vou evitar usar - é claramente explicitada e refletida nessa obra “O Estrangeiro”, como também em outras mais famosas como “O Mito de Sísifo”.
 
 O personagem principal é um homem (Meursault) que não possui muitas ambições na vida - apesar de já tê-las idealizado quando jovem – e que se apresenta relativamente estável em sua carreira. Como o livro é narrado pelo próprio personagem, é difícil fazer uma análise mais imparcial sobre os fatos e sobre o caráter dele em si. Ainda assim, é notável a crua e cortante indiferença do próprio Meursault para com os acontecimentos de sua vida, o que até agora me parecem frios e distantes de qualquer esboço sentimental. A primeira linha do livro começa com a morte de sua mãe:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/poems-and-quotes/Meursault-descobre-morte-da-mãe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/poems-and-quotes/Meursault-descobre-morte-da-mae" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -102,6 +102,7 @@ Esse tipo de situação volta a se repetir mais tarde, e algumas falas dele refo
 
 </div></div>
 
+
 Há várias outras tentativas de uma conexão sentimental mais profunda sobre o relaciomento do filho com a mãe, mas toda vez que alguma memória aparece, ou é planificada pela narração monótona de Meursault ou é diretamente ignorada por ele e divergida para outro assunto.
 
 
@@ -114,6 +115,7 @@ Há várias outras tentativas de uma conexão sentimental mais profunda sobre o 
 \- [[Albert Camus\|Albert Camus]], `=this.source-or-title`
 
 </div></div>
+
 
 Agora o questionamento que fica é se Meursault realmente se sente indiferente sobre a sua mãe e sua morte ou se ele apenas está ignorando e suprimindo seus sentimentos afetivos por ela por algum medo ou conexão muito forte que o fará vulnerável. Pois, apesar de ele deixar claro que os dois não se falavam muito quando moravam juntos e o próprio dono do asilo onde ela estava assegurá-lo que ela estava mais feliz lá, diversas vezes alguma memória de sua mãe volta à tona e um momento que talvez a mais tardar no livro torne essa dúvida mais clara seja quando ele mata um dos árabes com cinco tiros – fato que ele não consegue deixar claro o porquê de tantos disparos -, já que logo antes do seu “apagão” ele se lembra do funeral de sua mãe. Mas ainda assim pode ser uma mera associação de ideias, já que em ambas as ocasiões o clima estava escaldante e ele estava se sentindo muito mal.
 
@@ -211,14 +213,13 @@ Vejo até o comentário seguinte como uma resposta um tanto quanto sarcástica d
 
 Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ênfase em temas como violência contra a mulher, relação de dependência entre homem e mulher, as diferentes etnias que povoam a região (moura principalmente), a visão da capital Paris em relação as outras regiões da França e atividades comuns da época, como ir ao cinema, matinês e nado. Além disso, algo que percebi no início foi a ênfase na existência dos bondes como um transporte recorrente da época. Em “A Náusea” de Sartre há referências a esses meios de transporte também se não me engano.
 
+## 🔖 Page 123
+Terminei o livro ontem. E sinceramente, que livro bom cara. Definitivamente vai para minha lista de favoritos junto com “O velho e o mar”. A. Camus tem um jeito muito interessante de escrever realmente. É engraçado ver como ele conseguiu criar uma história envolvente e interessante o suficiente que ajuda a defender seu ponto de vista filosófico. Eu não acho que é muito justo tentar dar algum tipo de classificação quantitativa para esse tipo de obra literária, pois, independentemente do valor, ele nunca conseguirá resumir realmente o que eu quero expressar. Acho que eu vou criar um sistema qualitativo para isso eventualmente.
+Antes dessa análise final, um rápido resumo da história de obra. Temos nosso protagonista, que não se interessa de início em dizer seu nome, indo para o funeral de sua recém-falecida mãe. No asilo onde sua mãe tinha passado seus últimos anos, ele conhece três personagens que mais tarde vão prestar depoimentos contra o caso dele: o dono da casa, o porteiro e um amigo próximo que sua mãe tinha feito no asilo. Meursault trata com certa indiferença a morte de sua mãe, chegando até dormir no momento do seu velório e não chorando uma lágrima durante todo o processo. Após o enterro, Meursault volta para sua cidade e mostra para os leitores sua rotina simples, dando ênfase ao processo de crepúsculo da vida de outros cidadãos. Ele logo apresenta outros personagens mais comuns a sua vida, como Marie e seu caso amoroso com ela, Raymon Sintès e sua personalidade violenta e narcisista, Salamano e sua relação de ódio-dependência com seu cachorro e Céleste e seu restaurante. Alguns capítulos depois de aprofundamento da relação desses personagens, o livro nos apresenta com a narrativa principal que irá desencadear os conflitos seguintes: a relação conturbada de Raymond Sintès e sua amante moura. Raymond aparentemente a mantém e estava decepcionado – como ele próprio coloca – que ela não estava agindo da forma como ele esperava. Não consigo dizer se essa mulher é uma prostituta, já que Raymond ainda tinha o boato que ele era um cafetão em suas costas, ou se era só uma mulher qualquer. Acho que isso pode ser resolvido por uma pesquisa mais aprofundada sobre situação social da França na época que a obra foi escrita. De qualquer forma, após Raymond contar sua situação a Meursault, ele concorda em ajudá-lo a ter sua violenta vingança escrevendo uma carta para atraí-la para a casa de Raymond, mas não porque ele concordava com as atitudes de seu amigo, apenas em função de sua simpatia para com Raymond – uma das únicas a ser explicitamente declarada por Meursault. Nesse ínterim, Salamano perde seu cachorro e fica furioso, mas mais devastado por estar sozinho novamente, mesmo maltratando o cachorro todo tempo que ele estava por perto. Quando Raymond consegue sua vingança e agride sua companheira em seu apartamento, logo a polícia é chamada e ele é preso. Contudo, logo mais ele é solto com a ajuda do testemunho de Meursault e principalmente com o estado do sistema penal da época que pouco dava importância para casos de violência contra a mulher como hoje em dia. Ainda assim, as repercussões desse ato fazem com que familiares mulçumanos da moça busquem vingança contra Raymond na mesma moeda. A situação vai escalando aos poucos, começando com perseguições e um encontro mais físico ainda na cidade, até culminar no assassinato de um dos mouros. Antes disso, Meursault chega a receber uma promoção de trabalho para ir trabalhar em Paris, mas mesmo assim fica indiferente ao fato, o que deixa o seu chefe um tanto quanto decepcionado. Raymond o convida a ir passar o dia em uma casa de praia de um amigo seu. Eles saem de manhã com Marie, que acompanha Meursault. A caminho do ônibus, eles avistam um grupo de mouros que os encarava, mas logo partem viajam para a praia e deixam o fato de lado. Na praia eles conhecem o casal amigo de Raymond e Meursault salienta como o clima estava quente durante toda sua estadia na casa. Após o almoço, os homens saem para caminhar e se deparam com um grupo de mulçumanos caminhando em sua direção. Uma briga logo estoura e Raymond é esfaqueado. Eles se desvencilham e voltam para a casa para tratar os ferimentos de Raymond, que furioso está resoluto a acabar com esse problema de uma vez. Ele logo sai da casa novamente, dessa vez armado, mas Meursault insiste sair com ele e toma posse da arma. Eles chegam a encontrar os árabes novamente, mas nada acontece e logo voltam novamente para a casa. Contudo, para evitar o ambiente pesado que estava, Meursault decide ficar do lado de fora e caminha justamente em direção ao local onde os árabes estavam. Ele reclama do calor intenso que relembra o funeral de sua mãe e começa a ter uma espécie de mal súbito. Nesse momento ele reencontra apenas um dos árabes e ao vê-lo sacando uma faca, não hesita e dispara cinco vezes contra o homem, matando instantaneamente. Assim termina a parte I.
+Na parte II, Meursault já está preso e passa os dois primeiros capítulos falando com magistrados e se preparando para o seu julgamento. Ele reflete bastante sobre sua liberdade e felicidade, além de estabelecer um método um tanto quanto peculiar de não enlouquecer sozinho que se trata em notar e decorar nos mínimos detalhes as coisas que o cercavam em seu cárcere. Quando o seu julgamento se inicia é possível notar como teatral, hipócrita e surreal o sistema jurídico encarregado com o seu caso é. Logo de inicio eles fazem questão de afastá-lo o máximo o possível e deixar todo o trabalho para a acusação e a defesa. O que mais agrava o caso é a estratégia argumentativa do promotor que usa como justificativa para o homicídio a morte da mãe de Meursault e sua indiferença para com acontecimentos da vida, taxando-o como um perigo para a sociedade, um assassino de sangue frio. Os testemunhos dos personagens que incialmente foram apresentados no funeral de sua mãe ajudam a corroborar com o caso do promotor, que deseja vê-lo guilhotinado em praça pública. Logo Meursault é condenado e o último capítulo descreve suas últimas reflexões sobre sua vida e a conversa final com o capelão.
+O nome do livro pode ser interpretado de várias formas. Não vou mentir, demorei um pouco até entender porque do nome ‘Estrangeiro’ se não há uma menção explícita ao nome durante a obra. Mas assim que o julgamento começa é possível entender o motivo.
 
->[!page]- Page 123
->Terminei o livro ontem. E sinceramente, que livro bom cara. Definitivamente vai para minha lista de favoritos junto com “O velho e o mar”. A. Camus tem um jeito muito interessante de escrever realmente. É engraçado ver como ele conseguiu criar uma história envolvente e interessante o suficiente que ajuda a defender seu ponto de vista filosófico. Eu não acho que é muito justo tentar dar algum tipo de classificação quantitativa para esse tipo de obra literária, pois, independentemente do valor, ele nunca conseguirá resumir realmente o que eu quero expressar. Acho que eu vou criar um sistema qualitativo para isso eventualmente.
->Antes dessa análise final, um rápido resumo da história de obra. Temos nosso protagonista, que não se interessa de início em dizer seu nome, indo para o funeral de sua recém-falecida mãe. No asilo onde sua mãe tinha passado seus últimos anos, ele conhece três personagens que mais tarde vão prestar depoimentos contra o caso dele: o dono da casa, o porteiro e um amigo próximo que sua mãe tinha feito no asilo. Meursault trata com certa indiferença a morte de sua mãe, chegando até dormir no momento do seu velório e não chorando uma lágrima durante todo o processo. Após o enterro, Meursault volta para sua cidade e mostra para os leitores sua rotina simples, dando ênfase ao processo de crepúsculo da vida de outros cidadãos. Ele logo apresenta outros personagens mais comuns a sua vida, como Marie e seu caso amoroso com ela, Raymon Sintès e sua personalidade violenta e narcisista, Salamano e sua relação de ódio-dependência com seu cachorro e Céleste e seu restaurante. Alguns capítulos depois de aprofundamento da relação desses personagens, o livro nos apresenta com a narrativa principal que irá desencadear os conflitos seguintes: a relação conturbada de Raymond Sintès e sua amante moura. Raymond aparentemente a mantém e estava decepcionado – como ele próprio coloca – que ela não estava agindo da forma como ele esperava. Não consigo dizer se essa mulher é uma prostituta, já que Raymond ainda tinha o boato que ele era um cafetão em suas costas, ou se era só uma mulher qualquer. Acho que isso pode ser resolvido por uma pesquisa mais aprofundada sobre situação social da França na época que a obra foi escrita. De qualquer forma, após Raymond contar sua situação a Meursault, ele concorda em ajudá-lo a ter sua violenta vingança escrevendo uma carta para atraí-la para a casa de Raymond, mas não porque ele concordava com as atitudes de seu amigo, apenas em função de sua simpatia para com Raymond – uma das únicas a ser explicitamente declarada por Meursault. Nesse ínterim, Salamano perde seu cachorro e fica furioso, mas mais devastado por estar sozinho novamente, mesmo maltratando o cachorro todo tempo que ele estava por perto. Quando Raymond consegue sua vingança e agride sua companheira em seu apartamento, logo a polícia é chamada e ele é preso. Contudo, logo mais ele é solto com a ajuda do testemunho de Meursault e principalmente com o estado do sistema penal da época que pouco dava importância para casos de violência contra a mulher como hoje em dia. Ainda assim, as repercussões desse ato fazem com que familiares mulçumanos da moça busquem vingança contra Raymond na mesma moeda. A situação vai escalando aos poucos, começando com perseguições e um encontro mais físico ainda na cidade, até culminar no assassinato de um dos mouros. Antes disso, Meursault chega a receber uma promoção de trabalho para ir trabalhar em Paris, mas mesmo assim fica indiferente ao fato, o que deixa o seu chefe um tanto quanto decepcionado. Raymond o convida a ir passar o dia em uma casa de praia de um amigo seu. Eles saem de manhã com Marie, que acompanha Meursault. A caminho do ônibus, eles avistam um grupo de mouros que os encarava, mas logo partem viajam para a praia e deixam o fato de lado. Na praia eles conhecem o casal amigo de Raymond e Meursault salienta como o clima estava quente durante toda sua estadia na casa. Após o almoço, os homens saem para caminhar e se deparam com um grupo de mulçumanos caminhando em sua direção. Uma briga logo estoura e Raymond é esfaqueado. Eles se desvencilham e voltam para a casa para tratar os ferimentos de Raymond, que furioso está resoluto a acabar com esse problema de uma vez. Ele logo sai da casa novamente, dessa vez armado, mas Meursault insiste sair com ele e toma posse da arma. Eles chegam a encontrar os árabes novamente, mas nada acontece e logo voltam novamente para a casa. Contudo, para evitar o ambiente pesado que estava, Meursault decide ficar do lado de fora e caminha justamente em direção ao local onde os árabes estavam. Ele reclama do calor intenso que relembra o funeral de sua mãe e começa a ter uma espécie de mal súbito. Nesse momento ele reencontra apenas um dos árabes e ao vê-lo sacando uma faca, não hesita e dispara cinco vezes contra o homem, matando instantaneamente. Assim termina a parte I.
->Na parte II, Meursault já está preso e passa os dois primeiros capítulos falando com magistrados e se preparando para o seu julgamento. Ele reflete bastante sobre sua liberdade e felicidade, além de estabelecer um método um tanto quanto peculiar de não enlouquecer sozinho que se trata em notar e decorar nos mínimos detalhes as coisas que o cercavam em seu cárcere. Quando o seu julgamento se inicia é possível notar como teatral, hipócrita e surreal o sistema jurídico encarregado com o seu caso é. Logo de inicio eles fazem questão de afastá-lo o máximo o possível e deixar todo o trabalho para a acusação e a defesa. O que mais agrava o caso é a estratégia argumentativa do promotor que usa como justificativa para o homicídio a morte da mãe de Meursault e sua indiferença para com acontecimentos da vida, taxando-o como um perigo para a sociedade, um assassino de sangue frio. Os testemunhos dos personagens que incialmente foram apresentados no funeral de sua mãe ajudam a corroborar com o caso do promotor, que deseja vê-lo guilhotinado em praça pública. Logo Meursault é condenado e o último capítulo descreve suas últimas reflexões sobre sua vida e a conversa final com o capelão.
->O nome do livro pode ser interpretado de várias formas. Não vou mentir, demorei um pouco até entender porque do nome ‘Estrangeiro’ se não há uma menção explícita ao nome durante a obra. Mas assim que o julgamento começa é possível entender o motivo.
->
->
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -229,9 +230,9 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->Essa sensação de não pertencer ao meio, como um estrangeiro, é algo que passa constantemente por Meursault no livro. Nesse caso em específico, não se trata tanto do fato de sua personalidade atípica, mas sim um produto da própria configuração do sistema judicial que julga o seu caso. Durante o processo inteiro há a obstinada ação de afastá-lo do próprio caso, algo que parece ser um tanto kafkiano à medida que se julga o indivíduo sem agregá-lo ao meio de discussão, o que salienta a prioridade dos próprios agentes judiciais: não na pessoa do qual o caso é sobre, mas no próprio conflito de ego dos próprios indivíduos que deveriam fazer a justiça prevalecer. Esse absurdo chega ao seu cúmulo quando o próprio advogado de Meursault, em seu discurso final, utiliza-se de pronomes na primeira pessoa, como se ele fosse o próprio acusado, uma estratégia retórica para tentar convencer o júri, porém afastando ainda mais Meursault do controle do seu próprio futuro.
->
->
+Essa sensação de não pertencer ao meio, como um estrangeiro, é algo que passa constantemente por Meursault no livro. Nesse caso em específico, não se trata tanto do fato de sua personalidade atípica, mas sim um produto da própria configuração do sistema judicial que julga o seu caso. Durante o processo inteiro há a obstinada ação de afastá-lo do próprio caso, algo que parece ser um tanto kafkiano à medida que se julga o indivíduo sem agregá-lo ao meio de discussão, o que salienta a prioridade dos próprios agentes judiciais: não na pessoa do qual o caso é sobre, mas no próprio conflito de ego dos próprios indivíduos que deveriam fazer a justiça prevalecer. Esse absurdo chega ao seu cúmulo quando o próprio advogado de Meursault, em seu discurso final, utiliza-se de pronomes na primeira pessoa, como se ele fosse o próprio acusado, uma estratégia retórica para tentar convencer o júri, porém afastando ainda mais Meursault do controle do seu próprio futuro.
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -242,9 +243,9 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->No entanto, sinto que o constante sentimento de estrangeirismo ocorre principalmente com Meursault e sua relação com os padrões sociais comportamentais. E mais que isso, eu vejo Meursault como um estrangeiro para com ele mesmo também. Todas as vezes que algo determinante acontecia (seja o homicídio, seja a discussão com o capelão), ele não conseguia por si mesmo explicar o motivo de suas atitudes, o que ressalta o quão alheio de sua própria personalidade ele estava. Ele consegue perceber que foi feliz durante sua vida pelas mais simples experiências, por mais que indiferente a certos acontecimentos, mas isso vem com a consequência da própria falta de autoconhecimento, que acredito que a seu ver pouco importava.
->
-> 
+No entanto, sinto que o constante sentimento de estrangeirismo ocorre principalmente com Meursault e sua relação com os padrões sociais comportamentais. E mais que isso, eu vejo Meursault como um estrangeiro para com ele mesmo também. Todas as vezes que algo determinante acontecia (seja o homicídio, seja a discussão com o capelão), ele não conseguia por si mesmo explicar o motivo de suas atitudes, o que ressalta o quão alheio de sua própria personalidade ele estava. Ele consegue perceber que foi feliz durante sua vida pelas mais simples experiências, por mais que indiferente a certos acontecimentos, mas isso vem com a consequência da própria falta de autoconhecimento, que acredito que a seu ver pouco importava.
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -255,8 +256,8 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->
->
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -267,8 +268,8 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->
-> 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -279,8 +280,8 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->
-> 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -291,9 +292,9 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->Eu não irei transcrever os diálogos finais do livro que achei importante porque eles normalmente estão grifados em uma folha inteira. O que posso dizer é que, se fosse para ter uma leve introdução ao pensamento filosófico de Camus, bastaria ler o último capítulo do livro. É nele que pode se ver sua filosofia mais claramente. A discussão inteira com o capelão é digna de citação, mas vou me limitar a apenas alguns trechos.
->
->
+Eu não irei transcrever os diálogos finais do livro que achei importante porque eles normalmente estão grifados em uma folha inteira. O que posso dizer é que, se fosse para ter uma leve introdução ao pensamento filosófico de Camus, bastaria ler o último capítulo do livro. É nele que pode se ver sua filosofia mais claramente. A discussão inteira com o capelão é digna de citação, mas vou me limitar a apenas alguns trechos.
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -304,8 +305,8 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->
-> 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -316,8 +317,8 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->
->
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -328,8 +329,8 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->
-> 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -340,8 +341,8 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->
->
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -352,8 +353,8 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->
->
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -364,10 +365,10 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->
->Uma última coisa sobre esse livro que quase me passou despercebida é o fato de ele terminar antes de termos uma confirmação concreta de que Meursault realmente foi executado, já que o livro acaba ainda com ele esperando por seu apelo, que nunca chega (cofcofcof **[[Esperando Godot\|Esperando Godot]]** cofcofcof). Isso me faz refletir um pouco como o livro trata a esperança em sua narrativa. Os únicos momentos que Meursault fala sobre isso são os seguintes:
->
->
+
+Uma última coisa sobre esse livro que quase me passou despercebida é o fato de ele terminar antes de termos uma confirmação concreta de que Meursault realmente foi executado, já que o livro acaba ainda com ele esperando por seu apelo, que nunca chega (cofcofcof **[[Esperando Godot\|Esperando Godot]]** cofcofcof). Isso me faz refletir um pouco como o livro trata a esperança em sua narrativa. Os únicos momentos que Meursault fala sobre isso são os seguintes:
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -378,8 +379,8 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->
-> 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -390,6 +391,6 @@ Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ê
 
 </div></div>
 
->
->É como no mito da caixa de Pandora: a esperança é a última que morre.
+
+É como no mito da caixa de Pandora: a esperança é a última que morre.
  
