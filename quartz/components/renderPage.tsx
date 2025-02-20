@@ -8,10 +8,6 @@ import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
-// @ts-ignore
-import mermaidScript from "./scripts/mermaid.inline"
-import mermaidStyle from "./styles/mermaid.inline.scss"
-import { QuartzPluginData } from "../plugins/vfile"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -27,13 +23,12 @@ interface RenderComponents {
 const headerRegex = new RegExp(/h[1-6]/)
 export function pageResources(
   baseDir: FullSlug | RelativeURL,
-  fileData: QuartzPluginData,
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
   const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
 
-  const resources: StaticResources = {
+  return {
     css: [
       {
         content: joinSegments(baseDir, "index.css"),
@@ -53,28 +48,14 @@ export function pageResources(
         script: contentIndexScript,
       },
       ...staticResources.js,
+      {
+        src: joinSegments(baseDir, "postscript.js"),
+        loadTime: "afterDOMReady",
+        moduleType: "module",
+        contentType: "external",
+      },
     ],
   }
-
-  if (fileData.hasMermaidDiagram) {
-    resources.js.push({
-      script: mermaidScript,
-      loadTime: "afterDOMReady",
-      moduleType: "module",
-      contentType: "inline",
-    })
-    resources.css.push({ content: mermaidStyle, inline: true })
-  }
-
-  // NOTE: we have to put this last to make sure spa.inline.ts is the last item.
-  resources.js.push({
-    src: joinSegments(baseDir, "postscript.js"),
-    loadTime: "afterDOMReady",
-    moduleType: "module",
-    contentType: "external",
-  })
-
-  return resources
 }
 
 export function renderPage(
@@ -241,6 +222,7 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
       <body data-slug={slug}>
+        <DappledLight />
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
@@ -252,9 +234,8 @@ export function renderPage(
                   ))}
                 </Header>
                 <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
-                    <BodyComponent {...componentData} />
-                  ))}
+                  {slug !== "index" &&
+                    beforeBody.map((BodyComponent) => <BodyComponent {...componentData} />)}
                 </div>
               </div>
               <Content {...componentData} />
@@ -277,4 +258,51 @@ export function renderPage(
   )
 
   return "<!DOCTYPE html>\n" + render(doc)
+}
+
+function DappledLight() {
+  return (
+    <div id="dappled-light">
+      <div id="glow"></div>
+      <div id="glow-bounce"></div>
+      <div class="perspective">
+        <div id="leaves"></div>
+        <div id="blinds">
+          <div class="shutters">
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+            <div class="shutter"></div>
+          </div>
+          <div class="vertical">
+            <div class="bar"></div>
+            <div class="bar"></div>
+          </div>
+        </div>
+      </div>
+      <div id="progressive-blur">
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+  )
 }

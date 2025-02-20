@@ -1,6 +1,5 @@
 import micromorph from "micromorph"
 import { FullSlug, RelativeURL, getFullSlug, normalizeRelativeURLs } from "../../util/path"
-import { fetchCanonical } from "./util"
 
 // adapted from `micromorph`
 // https://github.com/natemoo-re/micromorph
@@ -60,7 +59,7 @@ let p: DOMParser
 async function navigate(url: URL, isBack: boolean = false) {
   startLoading()
   p = p || new DOMParser()
-  const contents = await fetchCanonical(url)
+  const contents = await fetch(`${url}`)
     .then((res) => {
       const contentType = res.headers.get("content-type")
       if (contentType?.startsWith("text/html")) {

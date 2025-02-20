@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { SimpleSlug } from "./quartz/util/path"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -8,8 +9,14 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/gabrielljacinto",
+      Instagram: "https://www.instagram.com/gabriellimajacinto/",
+      LinkedIn: "https://www.linkedin.com/in/gabriel-lima-jacinto/",
+      Goodreads: "https://www.goodreads.com/user/show/102268087",
+      Kaggle: "https://www.kaggle.com/orion2342",
+      ORCID: "https://orcid.org/0000-0002-9258-8045",
+      Lattes: "http://lattes.cnpq.br/7398702131851254",
+      Email: "mailto:gabriellimajacinto@gmail.com"
     },
   }),
 }
@@ -21,16 +28,31 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recent Writing",
+        limit: 6,
+        filter: (f) => f.slug!.startsWith("library/"),
+        linkToMore: "library/" as SimpleSlug,
+      }),
+    ),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        showTags: false,
+      },
+      globalGraph: {
+        showTags: false,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -44,7 +66,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
   ],
   right: [],
 }
