@@ -1,9 +1,36 @@
 ---
-{"date":"2023-09-03","tags":["book","done","publish"],"topic":"[[Philosophy]]","start":"January 20, 2020","finish":"January 26, 2020","author":"[[Albert Camus]]","year":1942,"sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book","done","publish"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
 ---
 
-[#book, #done, #publish]
-# L'Étranger
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/poems-and-quotes/Sand-Ship-Wreck" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+```poetry
+"And this is how the days go by
+A sand ship slowly bleating // A sand ship slowly sinking
+The shells! Captain's sigh
+No amount of whimpering
+Shall stop her wavering glide
+
+And say I:
+My moonshine,
+the sail's gone,
+the night's alive,
+the crowd's dim,
+the water's high,
+
+This vessel is beautiful // Memories are beautiful
+But never meant to last
+Let's go for a swim
+For the beach is vast"
+```
+\- [[Albert Camus\|Albert Camus]], Sand Ship Wreck (`=this.source`)
+
+</div></div>
+
 
 >[!done]+ How L'Étranger Changed Me
 >Esquecer da morte é recorrente durante a vida, esse livro é um ótimo refresco da inevitabilidade e indiferença do fato. Em certo sentido esse livro me indicou a simplicidade que é viver uma vida sem um propósito, focada apenas no prazer de atividades rotineiras como [[library/poems-and-quotes/Meursault sobre felicidade\|tomar sorvete e ver transeuntes]]. Não me convenceu a aderir a filosofia absurda, mas mostrou um ideal não longe da praticidade.
@@ -81,24 +108,28 @@ Esse tipo de situação volta a se repetir mais tarde, e algumas falas dele refo
 </div></div>
 
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 
-	"Nos convinha muito bem quando Mamãe estava comigo, mas agora que eu estava sozinho era muito grande e movi a mesa de jantar para o meu quarto."
+>[!quote] "Nos convinha muito bem quando Mamãe estava comigo, mas agora que eu estava sozinho era muito grande e movi a mesa de jantar para o meu quarto."
 \- [[Albert Camus\|Albert Camus]], `=this.source-or-title`
+
 
 </div></div>
 
 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 
-	"Me ocorreu que de alguma forma eu tinha passado outro domingo, que Mamãe agora estava enterrada, e amanhã eu voltaria a trabalhar como de costume. Realmente, nada na minha vida havia mudado."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!done] "Me ocorreu que de alguma forma eu tinha passado outro domingo, que Mamãe agora estava enterrada, e amanhã eu voltaria a trabalhar como de costume. Realmente, nada na minha vida havia mudado."
+> \- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+
 
 </div></div>
 
