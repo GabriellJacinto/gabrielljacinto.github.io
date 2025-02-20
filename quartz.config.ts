@@ -60,6 +60,7 @@ const config: QuartzConfig = {
         priority: ["frontmatter", "filesystem"],
       }),
       Plugin.Poetry(),
+      Plugin.Elite(),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, parseTags: false, mermaid: false }),

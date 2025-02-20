@@ -100,6 +100,19 @@ hr {
   }
 }
 
+pre.elite {
+  font-size: 1.2rem;
+  font-family: "Special Elite", monospace;
+  border: none;
+  padding: 0;
+  position: unset;
+}
+
+.meta,
+.content-meta {
+  font-family: "Special Elite", monospace, var(--bodyFont);
+}
+
 pre.poetry {
   font-size: 1.2rem;
   font-family: biro_script_standardRgus;
