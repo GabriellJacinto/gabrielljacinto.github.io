@@ -2,7 +2,7 @@
 {"date":"2023-09-14","tags":["poem","done"],"topic":null,"publish":true,"sr-due":"2025-02-21","sr-interval":1,"sr-ease":230,"PassFrontmatter":true}
 ---
 
-```special
+```elite
 And this is how the days go by
 A sand ship slowly bleating // A sand ship slowly sinking
 The shells! Captain's sigh
