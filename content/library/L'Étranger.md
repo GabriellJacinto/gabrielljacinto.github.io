@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["book","done","publish"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How L'Étranger Changed Me
@@ -19,7 +19,7 @@ Esse é o primeiro livro que leio do Camus e a primeira obra dessa saga de obras
 O personagem principal é um homem (Meursault) que não possui muitas ambições na vida - apesar de já tê-las idealizado quando jovem – e que se apresenta relativamente estável em sua carreira. Como o livro é narrado pelo próprio personagem, é difícil fazer uma análise mais imparcial sobre os fatos e sobre o caráter dele em si. Ainda assim, é notável a crua e cortante indiferença do próprio Meursault para com os acontecimentos de sua vida, o que até agora me parecem frios e distantes de qualquer esboço sentimental. A primeira linha do livro começa com a morte de sua mãe:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/poems-and-quotes/Meursault-descobre-morte-da-mae" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/poems-and-quotes/Meursault-descobre-morte-da-mãe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
