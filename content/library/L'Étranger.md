@@ -15,64 +15,72 @@
 
 ## Notes
 
- >[!page]- Page 83
->Esse é o primeiro livro que leio do Camus e a primeira obra dessa saga de obras de vertente existencialista que estou lendo. O que eu sei sobre ele é que ele foi um repórter/escritor/filósofo francês que viveu no início do século XX junto com figuras intelectuais como J.P. Sartre. Eles dois, por sinal, foram muito amigos durante a vida, porém se afastaram um pouco por questões políticas no final de suas carreiras se não estou enganado. Sendo assim, o pensamento filosófico dos dois era muito semelhante em suas premissas, com uma diferença essencial na conclusão. Enquanto os dois concordavam que a vida não possuía sentido por essência, A. Camus conclui que isso faz da existência humana um absurdo e todo o esforço para preencher esse vazio interno que os indivíduos sentem - seja por meio da religião, trabalho, sexo, família etc. - é fútil e o correto seria apenas aceitar o “absurdo” e viver com o fato que nada realmente importa e tudo é apenas um conjunto valores abstratamente construídos. Essa visão de certa forma niilista – um termo que eu acho um tanto quanto simplificador e preguiçoso para tentar resumir esse tipo de obra e que vou evitar usar - é claramente explicitada e refletida nessa obra “O Estrangeiro”, como também em outras mais famosas como “O Mito de Sísifo”.
->
->O personagem principal é um homem (Meursault) que não possui muitas ambições na vida - apesar de já tê-las idealizado quando jovem – e que se apresenta relativamente estável em sua carreira. Como o livro é narrado pelo próprio personagem, é difícil fazer uma análise mais imparcial sobre os fatos e sobre o caráter dele em si. Ainda assim, é notável a crua e cortante indiferença do próprio Meursault para com os acontecimentos de sua vida, o que até agora me parecem frios e distantes de qualquer esboço sentimental. A primeira linha do livro começa com a morte de sua mãe:
->
->> 
+### 🔖 Page 83 
+
+Esse é o primeiro livro que leio do Camus e a primeira obra dessa saga de obras de vertente existencialista que estou lendo. O que eu sei sobre ele é que ele foi um repórter/escritor/filósofo francês que viveu no início do século XX junto com figuras intelectuais como J.P. Sartre. Eles dois, por sinal, foram muito amigos durante a vida, porém se afastaram um pouco por questões políticas no final de suas carreiras se não estou enganado. Sendo assim, o pensamento filosófico dos dois era muito semelhante em suas premissas, com uma diferença essencial na conclusão. Enquanto os dois concordavam que a vida não possuía sentido por essência, A. Camus conclui que isso faz da existência humana um absurdo e todo o esforço para preencher esse vazio interno que os indivíduos sentem - seja por meio da religião, trabalho, sexo, família etc. - é fútil e o correto seria apenas aceitar o “absurdo” e viver com o fato que nada realmente importa e tudo é apenas um conjunto valores abstratamente construídos. Essa visão de certa forma niilista – um termo que eu acho um tanto quanto simplificador e preguiçoso para tentar resumir esse tipo de obra e que vou evitar usar - é claramente explicitada e refletida nessa obra “O Estrangeiro”, como também em outras mais famosas como “O Mito de Sísifo”.
+
+O personagem principal é um homem (Meursault) que não possui muitas ambições na vida - apesar de já tê-las idealizado quando jovem – e que se apresenta relativamente estável em sua carreira. Como o livro é narrado pelo próprio personagem, é difícil fazer uma análise mais imparcial sobre os fatos e sobre o caráter dele em si. Ainda assim, é notável a crua e cortante indiferença do próprio Meursault para com os acontecimentos de sua vida, o que até agora me parecem frios e distantes de qualquer esboço sentimental. A primeira linha do livro começa com a morte de sua mãe:
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 
-	"Mamãe morreu hoje. Ou, talvez, ontem; Eu não tenho certeza."
+*"Mamãe morreu hoje. Ou, talvez, ontem; Eu não tenho certeza."*
 \- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
 
 </div></div>
 
->
->Apesar de parecer cruel e insípido, logo se esclarece a confusão de Meursault. Como a informação lhe chegou por correio, não havia forma de ter certeza se a carta havia ou não sido atrasada já que o conteúdo em si dizia:
->
->
+
+Apesar de parecer cruel e insípido, logo se esclarece a confusão de Meursault. Como a informação lhe chegou por correio, não havia forma de ter certeza se a carta havia ou não sido atrasada já que o conteúdo em si dizia:
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 
-	“SUA MÃE FALECEU. FUNERAL AMANHÃ.”
+*“SUA MÃE FALECEU. FUNERAL AMANHÃ.”*
 \- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
 
 </div></div>
 
->Camus claramente quis fazer um jogo com o leitor com isso. O tema da morte é algo que aparecerá constantemente nessa obra. Ela começou com isso e terminará com isso.
->Meursault, apesar de sua forma direta e seca de se expressar, deixa claro que sente certo remorso/culpa pela morte de sua mãe quando vai comunicar ao seu patrão que irá se ausentar para o funeral:
->
->
+
+Camus claramente quis fazer um jogo com o leitor com isso. O tema da morte é algo que aparecerá constantemente nessa obra. Ela começou com isso e terminará com isso.
+
+Meursault, apesar de sua forma direta e seca de se expressar, deixa claro que sente certo remorso/culpa pela morte de sua mãe quando vai comunicar ao seu patrão que irá se ausentar para o funeral:
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 
-	"(...) eu tive a impressão que ele parecia irritado, eu disse, sem perguntar: ‘Desculpe, senhor, mas não é minha culpa, você sabe’."
+```python
+"(...) eu tive a impressão que ele parecia irritado, eu disse, sem perguntar: ‘Desculpe, senhor, mas não é minha culpa, você sabe’."
+```
 \- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
 
 </div></div>
 
->Esse tipo de situação volta a se repetir mais tarde, e algumas falas dele reforçam a ideia de que a “Madame Meursault” era mais um peso em suas costas e que a morte dela gerava algum tipo de amargor em seu dia.
->
->
+
+Esse tipo de situação volta a se repetir mais tarde, e algumas falas dele reforçam a ideia de que a “Madame Meursault” era mais um peso em suas costas e que a morte dela gerava algum tipo de amargor em seu dia.
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
 
-	"Eu não estava no país há alguns anos, e me peguei pensando que agradável caminhada eu poderia ter tido, se não fosse pela Mamãe."
+```poetry
+"Eu não estava no país há alguns anos, e me peguei pensando que agradável caminhada eu poderia ter tido, se não fosse pela Mamãe."
+```
 \- [[Albert Camus\|Albert Camus]], `=this.source-or-title`
 
 </div></div>
 
->
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -83,7 +91,7 @@
 
 </div></div>
 
->
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -94,9 +102,9 @@
 
 </div></div>
 
->Há várias outras tentativas de uma conexão sentimental mais profunda sobre o relaciomento do filho com a mãe, mas toda vez que alguma memória aparece, ou é planificada pela narração monótona de Meursault ou é diretamente ignorada por ele e divergida para outro assunto.
->
-> 
+Há várias outras tentativas de uma conexão sentimental mais profunda sobre o relaciomento do filho com a mãe, mas toda vez que alguma memória aparece, ou é planificada pela narração monótona de Meursault ou é diretamente ignorada por ele e divergida para outro assunto.
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -107,15 +115,15 @@
 
 </div></div>
 
->Agora o questionamento que fica é se Meursault realmente se sente indiferente sobre a sua mãe e sua morte ou se ele apenas está ignorando e suprimindo seus sentimentos afetivos por ela por algum medo ou conexão muito forte que o fará vulnerável. Pois, apesar de ele deixar claro que os dois não se falavam muito quando moravam juntos e o próprio dono do asilo onde ela estava assegurá-lo que ela estava mais feliz lá, diversas vezes alguma memória de sua mãe volta à tona e um momento que talvez a mais tardar no livro torne essa dúvida mais clara seja quando ele mata um dos árabes com cinco tiros – fato que ele não consegue deixar claro o porquê de tantos disparos -, já que logo antes do seu “apagão” ele se lembra do funeral de sua mãe. Mas ainda assim pode ser uma mera associação de ideias, já que em ambas as ocasiões o clima estava escaldante e ele estava se sentindo muito mal.
->
->Tentando ver isso pela perspectiva filosófica de Camus, não consigo botar o dedo em qual seria sua intenção aqui em construir um personagem niilista ou apenas indiferente aos fatos que tantas pessoas reagem de forma tão exacerbadamente emocional. Talvez a ideia seja justamente essa? Mostrar como esses tipos de acontecimentos são tão comuns e esperados que quando alguém reage de forma indiferente é visto com egoísta, duro, insensível, insípido e sem nenhum amor pela vida. Um verdadeiro estrangeiro à vida. Porque quase tudo que ocorre com Meursault é tido como comum a todos os seres humanos: morte, casamento, promoção, amizades. É meio complicado chegar a uma conclusão apenas com a Parte I do livro. Ela é meio devagar e ele foca muito em descrever o ambiente em que as coisas acontecem. Talvez a estratégia seja justamente essa, focar na contemplação e fazer um efeito de _slow burn_ porque assim quando algo realmente acontece parece muito mais impactante do que é.
->
->Estou marcado no terceiro capítulo da Parte II. Aqui eu já comecei notar claros detalhes e termos relativos à filosofia existencialista.
->
->Já que Meursault está preso, ele reflete bastante sobre liberdade individual e como isso é totalmente _taken for granted_ quando você é um cidadão com todos seus diretos garantido por um regime estatal. Outra coisa que ele discorre sobre é adaptabilidade; como ele se adaptou com a rotina da prisão e como sua mãe (no início do livro) também havia se adaptado ao asilo. Há várias reflexões dignas de serem ressaltadas que sintetizam esses pensamentos:
->
->
+Agora o questionamento que fica é se Meursault realmente se sente indiferente sobre a sua mãe e sua morte ou se ele apenas está ignorando e suprimindo seus sentimentos afetivos por ela por algum medo ou conexão muito forte que o fará vulnerável. Pois, apesar de ele deixar claro que os dois não se falavam muito quando moravam juntos e o próprio dono do asilo onde ela estava assegurá-lo que ela estava mais feliz lá, diversas vezes alguma memória de sua mãe volta à tona e um momento que talvez a mais tardar no livro torne essa dúvida mais clara seja quando ele mata um dos árabes com cinco tiros – fato que ele não consegue deixar claro o porquê de tantos disparos -, já que logo antes do seu “apagão” ele se lembra do funeral de sua mãe. Mas ainda assim pode ser uma mera associação de ideias, já que em ambas as ocasiões o clima estava escaldante e ele estava se sentindo muito mal.
+
+Tentando ver isso pela perspectiva filosófica de Camus, não consigo botar o dedo em qual seria sua intenção aqui em construir um personagem niilista ou apenas indiferente aos fatos que tantas pessoas reagem de forma tão exacerbadamente emocional. Talvez a ideia seja justamente essa? Mostrar como esses tipos de acontecimentos são tão comuns e esperados que quando alguém reage de forma indiferente é visto com egoísta, duro, insensível, insípido e sem nenhum amor pela vida. Um verdadeiro estrangeiro à vida. Porque quase tudo que ocorre com Meursault é tido como comum a todos os seres humanos: morte, casamento, promoção, amizades. É meio complicado chegar a uma conclusão apenas com a Parte I do livro. Ela é meio devagar e ele foca muito em descrever o ambiente em que as coisas acontecem. Talvez a estratégia seja justamente essa, focar na contemplação e fazer um efeito de _slow burn_ porque assim quando algo realmente acontece parece muito mais impactante do que é.
+
+Estou marcado no terceiro capítulo da Parte II. Aqui eu já comecei notar claros detalhes e termos relativos à filosofia existencialista.
+
+Já que Meursault está preso, ele reflete bastante sobre liberdade individual e como isso é totalmente _taken for granted_ quando você é um cidadão com todos seus diretos garantido por um regime estatal. Outra coisa que ele discorre sobre é adaptabilidade; como ele se adaptou com a rotina da prisão e como sua mãe (no início do livro) também havia se adaptado ao asilo. Há várias reflexões dignas de serem ressaltadas que sintetizam esses pensamentos:
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -126,8 +134,8 @@
 
 </div></div>
 
->
-> 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -138,8 +146,8 @@
 
 </div></div>
 
->
-> 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -150,8 +158,8 @@
 
 </div></div>
 
->
-> 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -162,9 +170,9 @@
 
 </div></div>
 
->Gostei muito dessa ilustração que me lembrou de “[[Esperando Godot\|Esperando Godot]]”, que muito provavelmente tirou a inspiração do cenário daqui:
->
-> 
+Gostei muito dessa ilustração que me lembrou de “[[Esperando Godot\|Esperando Godot]]”, que muito provavelmente tirou a inspiração do cenário daqui:
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -175,9 +183,9 @@
 
 </div></div>
 
->Além disso, é possível ver a figura religiosa em cena pela primeira vez nessa parte, quando o magistrado o interroga sobre suas ações. É engraçado ver como o próprio magistrado está ciente de como a religião serve de uma forma para dar sentido para a vida em si.
->
-> 
+Além disso, é possível ver a figura religiosa em cena pela primeira vez nessa parte, quando o magistrado o interroga sobre suas ações. É engraçado ver como o próprio magistrado está ciente de como a religião serve de uma forma para dar sentido para a vida em si.
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -188,9 +196,9 @@
 
 </div></div>
 
->Vejo até o comentário seguinte como uma resposta um tanto quanto sarcástica do próprio A. Camus aos seus críticos:
->
->
+Vejo até o comentário seguinte como uma resposta um tanto quanto sarcástica do próprio A. Camus aos seus críticos:
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -201,7 +209,8 @@
 
 </div></div>
 
->Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ênfase em temas como violência contra a mulher, relação de dependência entre homem e mulher, as diferentes etnias que povoam a região (moura principalmente), a visão da capital Paris em relação as outras regiões da França e atividades comuns da época, como ir ao cinema, matinês e nado. Além disso, algo que percebi no início foi a ênfase na existência dos bondes como um transporte recorrente da época. Em “A Náusea” de Sartre há referências a esses meios de transporte também se não me engano.
+Sobre a pintura feita da sociedade francesa da época, a Parte I do livro dá ênfase em temas como violência contra a mulher, relação de dependência entre homem e mulher, as diferentes etnias que povoam a região (moura principalmente), a visão da capital Paris em relação as outras regiões da França e atividades comuns da época, como ir ao cinema, matinês e nado. Além disso, algo que percebi no início foi a ênfase na existência dos bondes como um transporte recorrente da época. Em “A Náusea” de Sartre há referências a esses meios de transporte também se não me engano.
+
 
 >[!page]- Page 123
 >Terminei o livro ontem. E sinceramente, que livro bom cara. Definitivamente vai para minha lista de favoritos junto com “O velho e o mar”. A. Camus tem um jeito muito interessante de escrever realmente. É engraçado ver como ele conseguiu criar uma história envolvente e interessante o suficiente que ajuda a defender seu ponto de vista filosófico. Eu não acho que é muito justo tentar dar algum tipo de classificação quantitativa para esse tipo de obra literária, pois, independentemente do valor, ele nunca conseguirá resumir realmente o que eu quero expressar. Acho que eu vou criar um sistema qualitativo para isso eventualmente.
