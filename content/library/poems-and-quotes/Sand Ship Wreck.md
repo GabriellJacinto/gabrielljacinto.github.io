@@ -3,7 +3,7 @@
 ---
 
 ```special
-"And this is how the days go by
+And this is how the days go by
 A sand ship slowly bleating // A sand ship slowly sinking
 The shells! Captain's sigh
 No amount of whimpering
@@ -19,6 +19,6 @@ the water's high,
 This vessel is beautiful // Memories are beautiful
 But never meant to last
 Let's go for a swim
-For the beach is vast"
+For the beach is vast
 ```
 \- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Sand Ship Wreck ([[zettlekasten/D.B.W\|D.B.W]])
