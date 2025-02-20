@@ -4,12 +4,6 @@
 
 [#book, #done, #publish]
 # L'Étranger
-![files/image001 (1).png](../files/image001%20(1).png)
-- [[zettlekasten/Projeto C003\|Projeto C003]]
-- [[zettlekasten/riakOS (Projeto C004)\|riakOS (Projeto C004)]]
-- [[zettlekasten/PIC\|PIC]]
-- [[zettlekasten/UFSC Classes\|UFSC Classes]]
-
 
 >[!done]+ How L'Étranger Changed Me
 >Esquecer da morte é recorrente durante a vida, esse livro é um ótimo refresco da inevitabilidade e indiferença do fato. Em certo sentido esse livro me indicou a simplicidade que é viver uma vida sem um propósito, focada apenas no prazer de atividades rotineiras como [[library/poems-and-quotes/Meursault sobre felicidade\|tomar sorvete e ver transeuntes]]. Não me convenceu a aderir a filosofia absurda, mas mostrou um ideal não longe da praticidade.
@@ -26,7 +20,7 @@
 >
 >O personagem principal é um homem (Meursault) que não possui muitas ambições na vida - apesar de já tê-las idealizado quando jovem – e que se apresenta relativamente estável em sua carreira. Como o livro é narrado pelo próprio personagem, é difícil fazer uma análise mais imparcial sobre os fatos e sobre o caráter dele em si. Ainda assim, é notável a crua e cortante indiferença do próprio Meursault para com os acontecimentos de sua vida, o que até agora me parecem frios e distantes de qualquer esboço sentimental. A primeira linha do livro começa com a morte de sua mãe:
 >
->
+>> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -37,6 +31,7 @@
 
 </div></div>
 
+>
 >Apesar de parecer cruel e insípido, logo se esclarece a confusão de Meursault. Como a informação lhe chegou por correio, não havia forma de ter certeza se a carta havia ou não sido atrasada já que o conteúdo em si dizia:
 >
 >
