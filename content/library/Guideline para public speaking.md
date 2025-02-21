@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-01","tags":["reflexion","done"],"topic":"[[Personal Guidelines]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-01","tags":["reflexion" ],"topic":"[[Personal Guidelines]]","publish":true,"PassFrontmatter":true}
 ---
 
 Just:

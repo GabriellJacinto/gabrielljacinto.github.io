@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["project/idea","backlog"],"topic":"[[Poetry]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["project/idea" ],"topic":"[[Poetry]]","publish":true,"PassFrontmatter":true}
 ---
 
 >[!info] Description
