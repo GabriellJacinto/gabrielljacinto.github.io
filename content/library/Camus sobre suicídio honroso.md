@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["quote","done"],"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["quote" ],"publish":true,"PassFrontmatter":true}
 ---
 
 > [!quote] *(…) o suicídio pode estar ligado a considerações muito mais honrosas. Por exemplo: os suicídios políticos, chamados de protesto, na revolução chinesa.*

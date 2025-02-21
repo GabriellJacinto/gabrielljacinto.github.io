@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-08","tags":["quote","done"],"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-08","tags":["quote" ],"publish":true,"PassFrontmatter":true}
 ---
 
 > [!quote] *Ora na realidade, para o existencialista, não existe outro amor senão aquele que se constrói, não há outra possibilidade de amor do que aquela que se manifesta em amor, não há genialidade senão aquela que se expressa em obras (...)*

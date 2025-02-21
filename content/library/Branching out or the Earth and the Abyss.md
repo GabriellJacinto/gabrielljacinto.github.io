@@ -1,5 +1,5 @@
 ---
-{"date":"2024-07-24","tags":["poem","done"],"topic":null,"publish":true,"PassFrontmatter":true}
+{"date":"2024-07-24","tags":["poem" ],"topic":null,"publish":true,"PassFrontmatter":true}
 ---
 
 ![files/branching-out.jpg](../files/branching-out.jpg)

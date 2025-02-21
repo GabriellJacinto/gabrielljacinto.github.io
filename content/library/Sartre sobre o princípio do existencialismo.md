@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-08","tags":["quote","done"],"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-08","tags":["quote" ],"publish":true,"PassFrontmatter":true}
 ---
 
 > [!quote] *(...) o homem não é nada além do que ele se faz. Esse é o primeiro princípio do existencialismo.*

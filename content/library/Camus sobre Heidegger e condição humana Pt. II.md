@@ -1,5 +1,5 @@
 ---
-{"date":"2023-10-10","tags":["quote","done"],"publish":true,"PassFrontmatter":true}
+{"date":"2023-10-10","tags":["quote" ],"publish":true,"PassFrontmatter":true}
 ---
 
 > [!quote] *Esse professor de filosofia escreve sem tremor e na linguagem mais abstrata do mundo que 'o caráter finito e limitado da existência humana é mais primordial que o próprio homem'.*

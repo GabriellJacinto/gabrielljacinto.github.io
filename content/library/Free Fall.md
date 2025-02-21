@@ -1,5 +1,5 @@
 ---
-{"date":"2023-12-13","tags":["poem","done"],"topic":null,"publish":true,"PassFrontmatter":true}
+{"date":"2023-12-13","tags":["poem" ],"topic":null,"publish":true,"PassFrontmatter":true}
 ---
 
 ```elite

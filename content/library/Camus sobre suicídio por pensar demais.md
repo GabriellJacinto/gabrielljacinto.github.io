@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["quote","done"],"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["quote" ],"publish":true,"PassFrontmatter":true}
 ---
 
 > [!quote] *Começar a pensar é começar a ser atormentado. A sociedade não tem muito a ver com esses começos (…) Raramente alguém se suicida por reflexão (hipótese, no entanto, não descartada)*

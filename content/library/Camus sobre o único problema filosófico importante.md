@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["quote","done"],"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["quote" ],"publish":true,"PassFrontmatter":true}
 ---
 
 > [!quote] *Só existe um problema filosófico realmente sério: o suicídio.*

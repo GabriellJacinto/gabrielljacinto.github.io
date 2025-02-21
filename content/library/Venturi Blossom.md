@@ -1,5 +1,5 @@
 ---
-{"date":"2024-09-22","tags":["poem","done"],"topic":"[[self|Identity]]","publish":true,"PassFrontmatter":true}
+{"date":"2024-09-22","tags":["poem" ],"topic":"[[self|Identity]]","publish":true,"PassFrontmatter":true}
 ---
 
 ```elite

@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-08","tags":["quote","done"],"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-08","tags":["quote" ],"publish":true,"PassFrontmatter":true}
 ---
 
 > [!quote] *Obviamente, muitas pessoas não se mostram ansiosas; mas nossa opinião é que elas mascaram sua angústia e evitam encará-la.*

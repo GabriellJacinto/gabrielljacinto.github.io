@@ -1,5 +1,5 @@
 ---
-{"date":"2024-04-29","tags":["poem","done"],"topic":"[[Absurdism]]","publish":true,"PassFrontmatter":true}
+{"date":"2024-04-29","tags":["poem" ],"topic":"[[Absurdism]]","publish":true,"PassFrontmatter":true}
 ---
 
 	"Mantenha simples.

@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-07","tags":["quote","done"],"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-07","tags":["quote" ],"publish":true,"PassFrontmatter":true}
 ---
 
 > [!quote] *SUA MÃE FALECEU. FUNERAL AMANHÃ.*

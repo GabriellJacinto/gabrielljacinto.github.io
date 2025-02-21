@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["book","done"],"topic":"[[Science Fiction]]","start":"2020-01-16","finish":"2021-01-18","author":"[[Frank Herbert]]","year":1965,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book" ],"topic":"[[Science Fiction]]","start":"2020-01-16","finish":"2021-01-18","author":"[[Frank Herbert]]","year":1965,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How Dune Changed Me

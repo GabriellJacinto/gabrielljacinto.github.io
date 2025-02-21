@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-08","tags":["quote","done"],"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-08","tags":["quote" ],"publish":true,"PassFrontmatter":true}
 ---
 
 > [!quote] *O existencialista não pensará tampouco que o homem pode encontrar auxílio em algum sinal na terra que o oriente, pois considera que o homem é quem decifra, ele mesmo, o sinal como melhor lhe parecer.*

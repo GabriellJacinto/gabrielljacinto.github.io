@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["poem","done"],"topic":"[[Existentialism]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["poem" ],"topic":"[[Existentialism]]","publish":true,"PassFrontmatter":true}
 ---
 
 ![earth-from-saturn.jpg](../files/earth-from-saturn.jpg)
