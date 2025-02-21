@@ -1,9 +1,9 @@
 ---
-{"date":"2023-09-03","tags":["book","done","publish"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book","done"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How L'Étranger Changed Me
->Esquecer da morte é recorrente durante a vida, esse livro é um ótimo refresco da inevitabilidade e indiferença do fato. Em certo sentido esse livro me indicou a simplicidade que é viver uma vida sem um propósito, focada apenas no prazer de atividades rotineiras como [[library/poems-and-quotes/Meursault sobre felicidade\|tomar sorvete e ver transeuntes]]. Não me convenceu a aderir a filosofia absurda, mas mostrou um ideal não longe da praticidade.
+>Esquecer da morte é recorrente durante a vida, esse livro é um ótimo refresco da inevitabilidade e indiferença do fato. Em certo sentido esse livro me indicou a simplicidade que é viver uma vida sem um propósito, focada apenas no prazer de atividades rotineiras como [[library/Meursault sobre felicidade\|tomar sorvete e ver transeuntes]]. Não me convenceu a aderir a filosofia absurda, mas mostrou um ideal não longe da praticidade.
 
 >[!done]+ Three-Sentence Summary
 >1. Um homem descobre que a mãe morreu. Durante o funeral se sente mal e diz que a culpa era do sol, mas de forma geral percebe que o falecimento não mudou muito sua vida. 
@@ -19,7 +19,7 @@ Esse é o primeiro livro que leio do Camus e a primeira obra dessa saga de obras
 O personagem principal é um homem (Meursault) que não possui muitas ambições na vida - apesar de já tê-las idealizado quando jovem – e que se apresenta relativamente estável em sua carreira. Como o livro é narrado pelo próprio personagem, é difícil fazer uma análise mais imparcial sobre os fatos e sobre o caráter dele em si. Ainda assim, é notável a crua e cortante indiferença do próprio Meursault para com os acontecimentos de sua vida, o que até agora me parecem frios e distantes de qualquer esboço sentimental. A primeira linha do livro começa com a morte de sua mãe:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/poems-and-quotes/Meursault-descobre-morte-da-mae" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-descobre-morte-da-mae" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -34,13 +34,14 @@ O personagem principal é um homem (Meursault) que não possui muitas ambições
 Apesar de parecer cruel e insípido, logo se esclarece a confusão de Meursault. Como a informação lhe chegou por correio, não havia forma de ter certeza se a carta havia ou não sido atrasada já que o conteúdo em si dizia:
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Carta-funeraria-para-Meursault" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 > [!quote] *SUA MÃE FALECEU. FUNERAL AMANHÃ.*
-> \- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]] 
+
 
 </div></div>
 
@@ -50,13 +51,13 @@ Camus claramente quis fazer um jogo com o leitor com isso. O tema da morte é al
 Meursault, apesar de sua forma direta e seca de se expressar, deixa claro que sente certo remorso/culpa pela morte de sua mãe quando vai comunicar ao seu patrão que irá se ausentar para o funeral:
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-pede-desculpas-ao-chefe-pela-morte-da-mae" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 > [!quote] *(...) eu tive a impressão que ele parecia irritado, eu disse, sem perguntar: ‘Desculpe, senhor, mas não é minha culpa, você sabe’.*
-> \- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
 
 </div></div>
 
@@ -64,40 +65,39 @@ Meursault, apesar de sua forma direta e seca de se expressar, deixa claro que se
 Esse tipo de situação volta a se repetir mais tarde, e algumas falas dele reforçam a ideia de que a “Madame Meursault” era mais um peso em suas costas e que a morte dela gerava algum tipo de amargor em seu dia.
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-o-efeito-da-morte-de-sua-mae-no-seu-dia" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 >[!quote] *Eu não estava no país há alguns anos, e me peguei pensando que agradável caminhada eu poderia ter tido, se não fosse pela Mamãe.*
-> \- [[Albert Camus\|Albert Camus]], `=this.source-or-title`
-
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
 
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-a-mesa-de-jantar" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 >[!quote] *Nos convinha muito bem quando Mamãe estava comigo, mas agora que eu estava sozinho era muito grande e movi a mesa de jantar para o meu quarto.*
-> \- [[Albert Camus\|Albert Camus]], `=this.source-or-title`
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
 
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-o-impacto-da-morte-de-sua-mae" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 > [!quote] *Me ocorreu que de alguma forma eu tinha passado outro domingo, que Mamãe agora estava enterrada, e amanhã eu voltaria a trabalhar como de costume. Realmente, nada na minha vida havia mudado.*
-> \- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
 
 
 </div></div>
@@ -111,8 +111,9 @@ Há várias outras tentativas de uma conexão sentimental mais profunda sobre o 
 
 
 
-	"Através da parede, veio-me um pequeno chiado, e imaginei que ele estivesse chorando. Por alguma razão, não sei qual, comecei a pensar em minha mãe. Mas tive que acordar cedo no dia seguinte; então, como não estava com fome, eu fiquei sem jantar e fui direto para a cama."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title`
+> [!quote] *Através da parede, veio-me um pequeno chiado, e imaginei que ele estivesse chorando. Por alguma razão, não sei qual, comecei a pensar em minha mãe. Mas tive que acordar cedo no dia seguinte; então, como não estava com fome, eu fiquei sem jantar e fui direto para a cama.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
 
 </div></div>
 
@@ -126,62 +127,67 @@ Estou marcado no terceiro capítulo da Parte II. Aqui eu já comecei notar claro
 Já que Meursault está preso, ele reflete bastante sobre liberdade individual e como isso é totalmente _taken for granted_ quando você é um cidadão com todos seus diretos garantido por um regime estatal. Outra coisa que ele discorre sobre é adaptabilidade; como ele se adaptou com a rotina da prisão e como sua mãe (no início do livro) também havia se adaptado ao asilo. Há várias reflexões dignas de serem ressaltadas que sintetizam esses pensamentos:
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-e-sua-ignorancia" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-	"Eu não quero enxergar e sofri menos que os outros."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Eu não quero enxergar e sofri menos que os outros.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-seu-castigo" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-	"(...) essa privação também fazia parte do meu castigo. Mas, no momento em que entendi, perdi o desejo, por isso deixara de ser um castigo."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *(...) essa privação também fazia parte do meu castigo. Mas, no momento em que entendi, perdi o desejo, por isso deixara de ser um castigo.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-tedio-em-carcere-privado" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-	"Então aprendi que, mesmo depois de um dia de experiência do mundo exterior, um homem poderia facilmente viver cem anos na prisão. Ele teria acumulado memórias suficientes para nunca ficar entediado. Obviamente, de certa forma, isso era uma compensação."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Então aprendi que, mesmo depois de um dia de experiência do mundo exterior, um homem poderia facilmente viver cem anos na prisão. Ele teria acumulado memórias suficientes para nunca ficar entediado. Obviamente, de certa forma, isso era uma compensação.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-sua-rotina-na-prisao" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-	"De fato, durante os últimos meses, devo ter dormido dezesseis ou dezoito horas das vinte e quatro."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *De fato, durante os últimos meses, devo ter dormido dezesseis ou dezoito horas das vinte e quatro.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
 
 </div></div>
 
 Gostei muito dessa ilustração que me lembrou de “[[Esperando Godot\|Esperando Godot]]”, que muito provavelmente tirou a inspiração do cenário daqui:
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-Esperando-Godot-e-arvore-morta" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-	"Eu costumeiramente pensava que tinha sido obrigado a viver no tronco de uma árvore morta, sem nada para fazer além de olhar para o pedaço de céu que estava bem acima, eu me acostumei com isso gradativamente."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Eu costumeiramente pensava que tinha sido obrigado a viver no tronco de uma árvore morta, sem nada para fazer além de olhar para o pedaço de céu que estava bem acima, eu me acostumei com isso gradativamente.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
 
 </div></div>
 
@@ -193,8 +199,9 @@ Além disso, é possível ver a figura religiosa em cena pela primeira vez nessa
 
 
 
-	"Isso era impensável, ele disse; todos os homens creem em Deus, mesmo aqueles que o rejeitam. Disso ele tinha absoluta certeza; se alguma vez chegasse a duvidar disso, sua vida perderia todo o sentido."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Isso era impensável, ele disse; todos os homens creem em Deus, mesmo aqueles que o rejeitam. Disso ele tinha absoluta certeza; se alguma vez chegasse a duvidar disso, sua vida perderia todo o sentido.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
 
 </div></div>
 
@@ -206,8 +213,8 @@ Vejo até o comentário seguinte como uma resposta um tanto quanto sarcástica d
 
 
 
-	"‘Você deseja,’ ele perguntou indignado, ‘minha vida não ter nenhum significado?’ Realmente eu não pude ver como meus desejos faziam parte disso, e eu disse a ele o mesmo."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *‘Você deseja,’ ele perguntou indignado, ‘minha vida não ter nenhum significado?’ Realmente eu não pude ver como meus desejos faziam parte disso, e eu disse a ele o mesmo.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
 
 </div></div>
 
@@ -220,13 +227,14 @@ Na parte II, Meursault já está preso e passa os dois primeiros capítulos fala
 O nome do livro pode ser interpretado de várias formas. Não vou mentir, demorei um pouco até entender porque do nome ‘Estrangeiro’ se não há uma menção explícita ao nome durante a obra. Mas assim que o julgamento começa é possível entender o motivo.
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-se-sente-um-trop" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-	"Isso, sem dúvida, explicava a estranha impressão que tive de ser de trop, uma espécie de intruso."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Isso, sem dúvida, explicava a estranha impressão que tive de ser de trop, uma espécie de intruso.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
 
 </div></div>
 
@@ -238,8 +246,9 @@ Essa sensação de não pertencer ao meio, como um estrangeiro, é algo que pass
 
 
 
-	"O fato de o veredito ser (...) creditado a uma entidade tão vaga quanto o ‘povo francês’ – por que não aos chineses? Ou o povo alemão?"
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *O fato de o veredito ser (...) creditado a uma entidade tão vaga quanto o ‘povo francês’ – por que não aos chineses? Ou o povo alemão?*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]] 
+
 
 </div></div>
 
@@ -251,8 +260,35 @@ No entanto, sinto que o constante sentimento de estrangeirismo ocorre principalm
 
 
 
-	"Eu sempre fui muito absorvido no momento presente, ou no futuro imediato, para pensar no passado."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Eu sempre fui muito absorvido no momento presente, ou no futuro imediato, para pensar no passado.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]] 
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-felicidade" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+> [!quote] *Eu podia ouvir (...) o barulho do vendedor de sorvetes e seu trompete. Fui assaltado por lembranças de uma vida que não era mais minha, mas em que encontrei as alegrias mais simples e duradouras: os cheiros de verão, a parte da cidade que eu amava, um certo céu noturno, os vestidos de Marie e a maneira como ela ria.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-interesses" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+> [!quote] *Mas, embora eu não tivesse tanta certeza sobre o que me interessava, eu tinha absoluta certeza sobre o que não me interessava.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
 
 </div></div>
 
@@ -263,45 +299,61 @@ No entanto, sinto que o constante sentimento de estrangeirismo ocorre principalm
 
 
 
-	"Eu podia ouvir (...) o barulho do vendedor de sorvetes e seu trompete. Fui assaltado por lembranças de uma vida que não era mais minha, mas em que encontrei as alegrias mais simples e duradouras: os cheiros de verão, a parte da cidade que eu amava, um certo céu noturno, os vestidos de Marie e a maneira como ela ria."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Então, eu não sei o que aconteceu, mas algo pareceu quebrar dentro de mim, e eu comecei a gritar o mais alto que podia.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
 
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-	"Mas, embora eu não tivesse tanta certeza sobre o que me interessava, eu tinha absoluta certeza sobre o que não me interessava."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-	"Então, eu não sei o que aconteceu, mas algo pareceu quebrar dentro de mim, e eu comecei a gritar o mais alto que podia."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
 
 </div></div>
 
 Eu não irei transcrever os diálogos finais do livro que achei importante porque eles normalmente estão grifados em uma folha inteira. O que posso dizer é que, se fosse para ter uma leve introdução ao pensamento filosófico de Camus, bastaria ler o último capítulo do livro. É nele que pode se ver sua filosofia mais claramente. A discussão inteira com o capelão é digna de citação, mas vou me limitar a apenas alguns trechos.
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-a-morte" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-	"Já que todos vamos morrer, é óbvio que quando e como não importa. Portanto (e o difícil era não perder de vista todo o raciocínio que entrava nesse ‘portanto’), tive que aceitar a rejeição do meu apelo."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Já que todos vamos morrer, é óbvio que quando e como não importa. Portanto (e o difícil era não perder de vista todo o raciocínio que entrava nesse ‘portanto’), tive que aceitar a rejeição do meu apelo.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-esquecimento" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+> [!quote] *Assim como percebi que as pessoas logo me esqueceriam uma vez que eu estivesse morto. Eu não conseguia nem dizer que isso era difícil de suportar.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-liberdade-de-escolher-fe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+> [!quote] *‘Deus pode ajudá-lo. Todos os homens que vi em sua posição se voltaram para ele em seu tempo de angústia’. Obviamente, respondi, eles tinham a liberdade de fazê-lo, se quisessem.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]] 
+
+
+</div></div>
+
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-o-pecado" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+> [!quote] *Eu disse a ele que não estava consciente de nenhum ‘pecado’; tudo que eu sabia era que eu tinha sido culpado de uma ofensa criminal.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]] 
 
 </div></div>
 
@@ -312,56 +364,22 @@ Eu não irei transcrever os diálogos finais do livro que achei importante porqu
 
 
 
-	"Assim como percebi que as pessoas logo me esqueceriam uma vez que eu estivesse morto. Eu não conseguia nem dizer que isso era difícil de suportar."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Vivendo daquela maneira, como um cadáver, ele não podia ter certeza de estar vivo. (...) Na verdade, eu tinha certeza de mim mesmo, certeza sobre tudo, mais seguro do que ele; certo da minha vida atual e da morte que estava por vir. Isso, sem dúvida, era tudo que eu tinha; mas pelo menos essa certeza era algo em que eu poderia me agarrar.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-a-liberdade-e-a-morte-de-sua-mae" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-	"‘Deus pode ajudá-lo. Todos os homens que vi em sua posição se voltaram para ele em seu tempo de angústia’. Obviamente, respondi, eles tinham a liberdade de fazê-lo, se quisessem."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Com a morte tão próxima, mamãe deve ter se sentido como alguém à beira da liberdade, pronta para recomeçar a vida. Ninguém, ninguém no mundo tinha o direito de chorar por ela.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
 
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-	"Eu disse a ele que não estava consciente de nenhum ‘pecado’; tudo que eu sabia era que eu tinha sido culpado de uma ofensa criminal."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-	 "Vivendo daquela maneira, como um cadáver, ele não podia ter certeza de estar vivo. (...) Na verdade, eu tinha certeza de mim mesmo, certeza sobre tudo, mais seguro do que ele; certo da minha vida atual e da morte que estava por vir. Isso, sem dúvida, era tudo que eu tinha; mas pelo menos essa certeza era algo em que eu poderia me agarrar."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
-
-</div></div>
-
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-	"Com a morte tão próxima, mamãe deve ter se sentido como alguém à beira da liberdade, pronta para recomeçar a vida. Ninguém, ninguém no mundo tinha o direito de chorar por ela."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
 
 </div></div>
 
@@ -369,25 +387,26 @@ Eu não irei transcrever os diálogos finais do livro que achei importante porqu
 Uma última coisa sobre esse livro que quase me passou despercebida é o fato de ele terminar antes de termos uma confirmação concreta de que Meursault realmente foi executado, já que o livro acaba ainda com ele esperando por seu apelo, que nunca chega (cofcofcof **[[Esperando Godot\|Esperando Godot]]** cofcofcof). Isso me faz refletir um pouco como o livro trata a esperança em sua narrativa. Os únicos momentos que Meursault fala sobre isso são os seguintes:
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-esperanca" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-	"Naturalmente, tudo o que a ‘esperança’ poderia significar era ser derrubado na esquina de uma rua ou ser atingido por uma bala nas minhas costas."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Naturalmente, tudo o que a ‘esperança’ poderia significar era ser derrubado na esquina de uma rua ou ser atingido por uma bala nas minhas costas.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
+
 
 </div></div>
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-profere-suas-ultimas-palavras" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-	"Era como se aquela grande onda de raiva tivesse me lavado, me esvaziando de esperança e, olhando para o céu escuro coberto com suas estrelas, pela primeira vez, eu coloquei meu coração aberto para a benigna indiferença do universo. O senti tão parecido comigo, de fato, tão fraternal, me fez perceber que eu tinha sido feliz e que eu ainda era feliz. Para que tudo se realizasse, para me sentir menos solitário, tudo o que restava à esperança era que, no dia da minha execução, houvesse uma enorme multidão de espectadores e que eles me saudassem com gritos de ódio."
-\- [[Albert Camus\|Albert Camus]], `=this.source-or-title` 
+> [!quote] *Era como se aquela grande onda de raiva tivesse me lavado, me esvaziando de esperança e, olhando para o céu escuro coberto com suas estrelas, pela primeira vez, eu coloquei meu coração aberto para a benigna indiferença do universo. O senti tão parecido comigo, de fato, tão fraternal, me fez perceber que eu tinha sido feliz e que eu ainda era feliz. Para que tudo se realizasse, para me sentir menos solitário, tudo o que restava à esperança era que, no dia da minha execução, houvesse uma enorme multidão de espectadores e que eles me saudassem com gritos de ódio.*
+> \- [[Albert Camus\|Meursault]], [[library/L'Étranger\|L'Étranger]]
 
 </div></div>
 

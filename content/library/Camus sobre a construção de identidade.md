@@ -1,0 +1,6 @@
+---
+{"date":"2023-10-10","tags":["quote","done"],"publish":true,"PassFrontmatter":true}
+---
+
+> [!quote] *Efetivamente, sobre o quê e sobre quem posso dizer: 'Eu conheço isto!'? Este coração que há em mim, posso senti-lo e julgo que ele existe. O mundo, posso tocá-lo e também julgo que ele existe. Aí se detém toda a minha ciência, o resto é construção. Pois quando tento captar este eu no qual me asseguro, quando tento defini-lo e resumi-lo, ele é apenas água que escorre entre meus dedos. Posso desenhar, um por um, todos os rostos que ele costuma assumir, todos também que lhe foram dados, esta educação, esta origem, este ardor ou estes silêncios, esta grandeza ou esta baixeza. Mas não se somam os rostos: este coração que é o meu permanecerá indefinível para sempre. O fosso entre a certeza que tenho da minha existência e o conteúdo que tento dar a esta segurança jamais será superado. Para sempre serei estranho a mim mesmo. Em psicologia, tanto quanto em lógica, há verdades, não uma verdade. O 'conhece-te a ti mesmo' de Sócrates tem tanto valor quanto o 'sê virtuoso' dos nossos confessionários. Revelam tanto uma nostalgia quanto uma ignorância. São jogos estéreis sobre grandes temas. Só são legítimos na medida exata em que são aproximativos.*
+> \- [[Albert Camus\|Albert Camus]], [[library/Le Mythe de Sisyphe\|Le Mythe de Sisyphe]] (Pg. 33)
