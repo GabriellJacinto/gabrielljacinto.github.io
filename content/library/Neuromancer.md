@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["book/fiction" ],"topic":"[[Cyberpunk]]","start":"2022-08-01","finish":"2023-03-04","author":"[[Wiliam Gibson]]","year":"1983","sr-due":"2023-12-29","sr-interval":1,"sr-ease":210,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book/fiction","done"],"topic":"[[Cyberpunk]]","start":"2022-08-01","finish":"2023-03-04","author":"[[Wiliam Gibson\|Wiliam Gibson]]","year":"1983","sr-due":"2023-12-29","sr-interval":1,"sr-ease":210,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How Neuromancer Changed Me
@@ -15,7 +15,7 @@
 ## 🔖 Page 311
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/O-Ceu-do-Sprawl" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -32,7 +32,7 @@ Esse livro foi uma montanha russa de entretenimento. Entre descrições confusas
 O mais cômico desse livro é que o autor decidiu contar a história a partir do ponto de vista do personagem principal chamado Case, que é um tipo de hacker, quero dizer, cowboy, porque hacker não era uma palavra que existia ainda em 1983. A questão é que durante boa parte do livro Case não sabe o que exatamente está acontecendo e quem está por trás da missão que ele foi contratado para realizar e assim o leitor também fica, sem saber o que exatamente é o ponto da história. É um instrumento narrativo comum para manter os leitores engajados e interessados na narrativa para saber o que está acontecendo, mas, não sei o porquê, para mim muitas vezes me pareceu monótono demais e teve definitivamente momentos em que não estava prestando atenção nas informações só porque queria acabar com o livro logo, o que é triste porque a partir do momento que ler um livro por entretenimento se torna algo como um incômodo que você faz por obrigação, perde-se o sentido de ler o livro em primeiro lugar. Não é à toa que a maioria das minhas marcações de ideias interessantes se restringiram ao primeiro capítulo.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Gibson-sobre-a-conhecimento-de-neurocirurgia-de-japoneses-e-chineses" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -45,7 +45,7 @@ O mais cômico desse livro é que o autor decidiu contar a história a partir do
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Gibson-e-transumanismo-em-Neuromancer" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -73,7 +73,7 @@ O mais cômico desse livro é que o autor decidiu contar a história a partir do
 Esse sentimento de que parecia que o autor estava enrolando para criar mais conteúdo sem propósito para a história só para fazer o livro ter mais de 100 páginas se confirmou para mim quando ele mesmo resumiu a trama narrativa inteira em uma frase.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Case-deduz-o-plano-de-Armitage" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -87,7 +87,7 @@ Esse sentimento de que parecia que o autor estava enrolando para criar mais cont
 O mesmo ocorre com a finalização da missão, o autor novamente dá um resumo em um parágrafo do que aconteceu, como se fossem aqueles créditos que passam ao final de um filme baseados em fatos reais para explicar o que aconteceu com as pessoas envolvidas.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Gibson-explica-que-fim-teve-cada-personagem" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -105,7 +105,7 @@ O personagem que dá título ao livro só aparece no final da obra também, que 
 Essa é uma coisa que me aconteceu após ler a obra. Eu lembro muito mais dos personagens que vamos acompanhando, porque é com eles que passamos a maior parte do tempo, do que dos personagens que dirigem a trama (as IAs e as grandes corporações). O que é irônico porque no prefácio Gibson comenta justamente sobre seu receio de o que aconteceria com a obra caso ele tivesse previsto o uso de celulares sem fio ao invés de ter criado um rede conectada fisicamente. 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Gibson-sobre-celulares-sem-fio-em-Neuromancer" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -133,7 +133,7 @@ Para mim isso aconteceu de qualquer jeito, só troca as tecnologias. Mas, ainda 
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Um-medo-morbido-de-morrer" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -147,7 +147,7 @@ Para mim isso aconteceu de qualquer jeito, só troca as tecnologias. Mas, ainda 
 Uma outra frase que aderi ao meu repertório e de cunho mais filosófico foi a própria forma como a IA Wintermute se descreve, apesar de que aqui estou tirando a frase um pouco de contexto, mas para a discussão que quero é o irrelevante. 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Wintermute-se-define" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 

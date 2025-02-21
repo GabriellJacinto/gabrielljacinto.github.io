@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["book" ],"topic":"[[Philosophy]]","start":"2020-02-22","finish":"2020-03-06","author":"[[Jean-Paul Sartre]]","year":1946,"sr-due":"2024-01-22","sr-interval":25,"sr-ease":270,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book","done"],"topic":"[[Philosophy]]","start":"2020-02-22","finish":"2020-03-06","author":"[[Jean-Paul Sartre\|Jean-Paul Sartre]]","year":1946,"sr-due":"2024-01-22","sr-interval":25,"sr-ease":270,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How L’existentialisme est un Humanisme Changed Me
@@ -23,7 +23,7 @@ O livro é uma espécie de transcrição de um congresso que Sartre realizou com
 Nesse tipo de obra do século XX é interessante ver como a doutrina marxista está muito disseminada na sociedade (lembrou-me um pouco os comentários de “A Máquina do Tempo” de Wells) e como a militância, principalmente juvenil, é importante para o movimento. Acredita-se que seja esse um dos motivos dos ataques marxistas – o existencialismo estava evitando o engajamento dos mais jovens. Já a crítica dos cristãos é mais simples de ser entendida. Pode-se esperar algo diferente quando alguém fala que a existência ou não existência de seu deus pouco importa para a vida humana? 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-seu-ateismo-existencial" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -39,7 +39,7 @@ Por isso que é sempre muito importante tentar entender qual é realmente a inte
 O conteúdo geral do livro era algo que eu já sabia, porém tive alguns insights sobre a filosofia existencialista que a eventual corrosão do tempo nos faz esquecer. O take away mais importante que tive foi justamente da premissa/axioma que dá origem ao existencialismo em si: 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-o-principio-do-existencialismo" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -53,7 +53,7 @@ O conteúdo geral do livro era algo que eu já sabia, porém tive alguns insight
 Quer dizer: a existência precede a essência. O indivíduo primeiro nasce e depois se define como indivíduo. Por algum tempo já, eu tinha começado a achar que o existencialismo partia do ponto que a vida não tinha sentido pré-definido e, apesar de também ser verdade para essa filosofia, isso se trata mais de uma consequência do que uma constatação axiomática. Eu até estranhei o fato de, durante o livro, Sartre quase não falar que o sentido da vida é atribuído individualmente, sendo a única ocasião que encontrei tal discussão foi mais ao fim da obra:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-o-sentido-da-vida" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -69,7 +69,7 @@ O grifo “a priori” é meu, pois é justamente aí que o existencialismo dive
 Essa questão de atribuição de valor individual é constante no livro após a apresentação da premissa filosófica. A partir disso, Sartre entra brevemente em algumas consequências diretas dessa constatação.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-sinais" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -83,7 +83,7 @@ Essa questão de atribuição de valor individual é constante no livro após a 
 This hits close to home, já que até os meus 14 anos de idade eu havia criado uma grande quantidade de explicações, filosofias e interpretações que pudessem justificar e me ajudar a navegar na realidade que eu vivia. Ahh... e as histórias que inventa para legitimar tudo isso. Era realmente digno de material onírico. Houve um ponto onde eu até lembro ter pensando que as minhas tentativas de criar alguma interpretação que fizesse sentido era uma consequência de eu ter evitado seguir em um caminho mais religioso que a minha própria escola pregava. Isso fez com que eu acreditasse, por um breve tempo, que realmente é inerente ao ser humano aderir a algum tipo de credo. Acontece que o próprio fato de eu estar tentando criar explicações originais e o próprio fato de muitos escolherem o credo como significado para suas realidades (minha escola incluída) é uma tentativa de atribuir sentido às suas dimensões e lidar com o vazio que é a existência.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-a-construcao-de-sentimentos" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -97,7 +97,7 @@ This hits close to home, já que até os meus 14 anos de idade eu havia criado u
 Esse trecho é tão genial, é um ótimo argumento para discussões do tipo “ser racional vs ser emocional”. Eu já perdi a conta de quantas vezes me descrevem como uma pessoa racional/lógica. Sempre achei fútil esse tipo de rotulação, pois ela me soa dicotomicamente excludente, ou seja, ou sou um ou sou outro. Obviamente eu posso ser muito bem os dois, e na realidade somos todos os dois, todos com sentimentos, todos seres racionais. É tão absurda essa formulação que muitas vezes as pessoas que a fazem nem percebem a consequência direta disso: se eu sou racional e não emocional, logo você é emocional e irracional. Enfim, quanto à tomada de decisões, essa citação sintetiza muito bem o problema em levar argumentos baseados em sentimentos para definir uma ação. Acaba por ser paradoxal, já que o sentimento atribuído ao argumento foi gerado por uma ação anterior, e nesse caso sentimentos só serão gerados a partir de algum tipo de engajamento, então como posso me basear em y para fazer x se y só é gerado a partir de um resultado de x? A resposta: teoricamente não se pode, praticamente é possível, porém a medida escolhida é arriscada e não é a mais bem sucedida na maioria das vezes. 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-amor-e-genialidade" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -109,7 +109,7 @@ Esse trecho é tão genial, é um ótimo argumento para discussões do tipo “s
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-acao-e-engajamento" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -130,7 +130,7 @@ Eu pessoalmente nunca cheguei a acreditar na ideia de que uma pessoa nasce com u
 Nessa conjuntura, podemos até mesmo expandir a discussão para, depois das construções individuais, as construções que fazemos coletivamente como um grupo: as construções sociais. Mas quero ler [[O Ser e o Nada\|O Ser e o Nada]] antes de me aprofundar nessa questão.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-a-relacao-entre-desamparo-e-angustia" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -144,7 +144,7 @@ Nessa conjuntura, podemos até mesmo expandir a discussão para, depois das cons
 O livro é repleto de alegorias, metáforas e exemplos pessoais que Sartre traz para defender seu ponto de vista. Histórias são ótimas para engajar o ouvinte e servem de um poderoso instrumento retórico se puder ser generalizado de alguma forma. A história que Sartre apresenta e que antecede essa citação é sobre o jesuíta que Sartre encontrou em seu período de cárcere (não sabia que ele tinha sido preso, preciso pesquisar sobre). Esse é um trecho tão genial que ilustra como que nossas interpretações pessoais sobre supostos “sinais” moldam nossa passagem consciente na terra. No caso, o jesuíta virou jesuíta, pois ele achava que, pelo fato de aos 18 anos não ter feito nenhuma realização que o distinguisse, ele havia falhado e que isso seria um sinal. Mas um sinal para o que exatamente? Ele mesmo atribuiu um sentido supersticioso ao sinal e que a religião era realmente o caminho correto. Sartre interpreta toda essa ocorrência como uma consequência do desamparo por não haver realmente um sinal absoluto como guia e da angústia que vem logo em seguida com o fato de depararmos com a responsabilidade de sermos o próprio guia.  
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-fuga-da-ansiedade-da-maioria" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -160,7 +160,7 @@ A solução mais simples, claro, é tentar preencher esse vazio de significado c
 Tenho outros tópicos para entender melhor com leituras futuras que Sartre comenta brevemente na obra. A diferença entre condição humana e natureza humana não me é muito clara ainda, o que compreendi é para ele o termo "natureza" implica essência e logo não há natureza humana, não há nada que nos define humano a não ser aquilo que definimos por nós mesmos durante o decorrer da história. Aí que entraria a questão de condição humana, que é o estado que a definição de humanidade se encontra no presente e que possui caráter transiente. Outras definições de termos que também são de importância vital e que não me ficaram explícitas no contexto da filosofia são palavras como a causalidade, a gratuidade e o engajamento - que estão relacionados entre si. Além disso, o argumento que defende a responsabilidade não só sobre suas escolhas mas sobre a consequência delas e logo implicando na responsabilidade a todos os humanos não me é convincente o suficiente, seja porque é fraca seja porque não entendi o raciocínio. Acho que é aí que a grande questão do existencialismo ser um humanismo se solidifica, mas ainda assim tenho dificuldade em ver como cada um é responsável pela escolha do outro, a consequência é clara e inevitável, mas o que tenho a ver com a vida dos outros? Nada, creio eu, sou apenas responsável pelas minhas escolhas e não de outros. As citações abaixo talvez contextualizem um pouco e possam guiar na justificativa do argumento de Sartre. De qualquer forma, serão tópicos para explorar em outro tempo.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-responsabilidade-e-humanismo" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -173,7 +173,7 @@ Tenho outros tópicos para entender melhor com leituras futuras que Sartre comen
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-o-cogito-se-reconhecer-em-terceiros" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -187,7 +187,7 @@ Tenho outros tópicos para entender melhor com leituras futuras que Sartre comen
 A grande surpresa para mim desse livro foi nessa segunda citação. É de uma poesia imensa dizer que minha existência não é capaz de se ater apenas em si, mas é preciso um segunda para que minha consciência se reconheça como real. Não se pode existir sem o outro. O outro é tão essencial para minha noção de si quanto minha _[[self\|self]]_. Achei um ótimo argumento contra o [[Solipsism\|solipsismo]]. Por isso que Sartre odeia essa postulação epistemológica. É impressionante o quão influente é o pensamento de [[Descartes\|Descartes]]. Outro nome que aparece recorrentemente é do [[Kant\|Kant]]. 
  
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-sobre-engajamento-pessoal-e-esperanca" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -200,7 +200,7 @@ A grande surpresa para mim desse livro foi nessa segunda citação. É de uma po
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Sartre-e-cogito-ergo-sum-como-verdade-absoluta" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 

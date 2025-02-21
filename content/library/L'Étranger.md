@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["book"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book","done"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How L'Étranger Changed Me
@@ -19,7 +19,7 @@ Esse é o primeiro livro que leio do Camus e a primeira obra dessa saga de obras
 O personagem principal é um homem (Meursault) que não possui muitas ambições na vida - apesar de já tê-las idealizado quando jovem – e que se apresenta relativamente estável em sua carreira. Como o livro é narrado pelo próprio personagem, é difícil fazer uma análise mais imparcial sobre os fatos e sobre o caráter dele em si. Ainda assim, é notável a crua e cortante indiferença do próprio Meursault para com os acontecimentos de sua vida, o que até agora me parecem frios e distantes de qualquer esboço sentimental. A primeira linha do livro começa com a morte de sua mãe:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-descobre-morte-da-mae" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -34,7 +34,7 @@ O personagem principal é um homem (Meursault) que não possui muitas ambições
 Apesar de parecer cruel e insípido, logo se esclarece a confusão de Meursault. Como a informação lhe chegou por correio, não havia forma de ter certeza se a carta havia ou não sido atrasada já que o conteúdo em si dizia:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Carta-funeraria-para-Meursault" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -51,7 +51,7 @@ Camus claramente quis fazer um jogo com o leitor com isso. O tema da morte é al
 Meursault, apesar de sua forma direta e seca de se expressar, deixa claro que sente certo remorso/culpa pela morte de sua mãe quando vai comunicar ao seu patrão que irá se ausentar para o funeral:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-pede-desculpas-ao-chefe-pela-morte-da-mae" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -65,7 +65,7 @@ Meursault, apesar de sua forma direta e seca de se expressar, deixa claro que se
 Esse tipo de situação volta a se repetir mais tarde, e algumas falas dele reforçam a ideia de que a “Madame Meursault” era mais um peso em suas costas e que a morte dela gerava algum tipo de amargor em seu dia.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-o-efeito-da-morte-de-sua-mae-no-seu-dia" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -78,7 +78,7 @@ Esse tipo de situação volta a se repetir mais tarde, e algumas falas dele refo
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-a-mesa-de-jantar" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -91,7 +91,7 @@ Esse tipo de situação volta a se repetir mais tarde, e algumas falas dele refo
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-o-impacto-da-morte-de-sua-mae" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -127,7 +127,7 @@ Estou marcado no terceiro capítulo da Parte II. Aqui eu já comecei notar claro
 Já que Meursault está preso, ele reflete bastante sobre liberdade individual e como isso é totalmente _taken for granted_ quando você é um cidadão com todos seus diretos garantido por um regime estatal. Outra coisa que ele discorre sobre é adaptabilidade; como ele se adaptou com a rotina da prisão e como sua mãe (no início do livro) também havia se adaptado ao asilo. Há várias reflexões dignas de serem ressaltadas que sintetizam esses pensamentos:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-e-sua-ignorancia" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -140,7 +140,7 @@ Já que Meursault está preso, ele reflete bastante sobre liberdade individual e
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-seu-castigo" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -153,7 +153,7 @@ Já que Meursault está preso, ele reflete bastante sobre liberdade individual e
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-tedio-em-carcere-privado" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -166,7 +166,7 @@ Já que Meursault está preso, ele reflete bastante sobre liberdade individual e
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-sua-rotina-na-prisao" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -180,7 +180,7 @@ Já que Meursault está preso, ele reflete bastante sobre liberdade individual e
 Gostei muito dessa ilustração que me lembrou de “[[Esperando Godot\|Esperando Godot]]”, que muito provavelmente tirou a inspiração do cenário daqui:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-Esperando-Godot-e-arvore-morta" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -227,7 +227,7 @@ Na parte II, Meursault já está preso e passa os dois primeiros capítulos fala
 O nome do livro pode ser interpretado de várias formas. Não vou mentir, demorei um pouco até entender porque do nome ‘Estrangeiro’ se não há uma menção explícita ao nome durante a obra. Mas assim que o julgamento começa é possível entender o motivo.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-se-sente-um-trop" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -268,7 +268,7 @@ No entanto, sinto que o constante sentimento de estrangeirismo ocorre principalm
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-felicidade" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -281,7 +281,7 @@ No entanto, sinto que o constante sentimento de estrangeirismo ocorre principalm
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-interesses" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -308,7 +308,7 @@ No entanto, sinto que o constante sentimento de estrangeirismo ocorre principalm
 Eu não irei transcrever os diálogos finais do livro que achei importante porque eles normalmente estão grifados em uma folha inteira. O que posso dizer é que, se fosse para ter uma leve introdução ao pensamento filosófico de Camus, bastaria ler o último capítulo do livro. É nele que pode se ver sua filosofia mais claramente. A discussão inteira com o capelão é digna de citação, mas vou me limitar a apenas alguns trechos.
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-a-morte" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -321,7 +321,7 @@ Eu não irei transcrever os diálogos finais do livro que achei importante porqu
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-esquecimento" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -334,7 +334,7 @@ Eu não irei transcrever os diálogos finais do livro que achei importante porqu
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-liberdade-de-escolher-fe" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -347,7 +347,7 @@ Eu não irei transcrever os diálogos finais do livro que achei importante porqu
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-o-pecado" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -372,7 +372,7 @@ Eu não irei transcrever os diálogos finais do livro que achei importante porqu
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-a-liberdade-e-a-morte-de-sua-mae" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -387,7 +387,7 @@ Eu não irei transcrever os diálogos finais do livro que achei importante porqu
 Uma última coisa sobre esse livro que quase me passou despercebida é o fato de ele terminar antes de termos uma confirmação concreta de que Meursault realmente foi executado, já que o livro acaba ainda com ele esperando por seu apelo, que nunca chega (cofcofcof **[[Esperando Godot\|Esperando Godot]]** cofcofcof). Isso me faz refletir um pouco como o livro trata a esperança em sua narrativa. Os únicos momentos que Meursault fala sobre isso são os seguintes:
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-sobre-esperanca" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
@@ -400,7 +400,7 @@ Uma última coisa sobre esse livro que quase me passou despercebida é o fato de
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-profere-suas-ultimas-palavras" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
