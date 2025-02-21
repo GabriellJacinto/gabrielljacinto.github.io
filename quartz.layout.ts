@@ -43,6 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
         linkToMore: "library/" as SimpleSlug,
       }),
     ),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
     Component.Graph({
@@ -53,7 +54,6 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: false,
       },
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
