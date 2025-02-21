@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["book/fiction"],"topic":"[[Cyberpunk]]","start":"2022-08-01","finish":"2023-03-04","author":"[[Wiliam Gibson\|Wiliam Gibson]]","year":"1983","sr-due":"2023-12-29","sr-interval":1,"sr-ease":210,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book/fiction"],"topic":"[[Cyberpunk]]","start":"2022-08-01","finish":"2023-03-04","author":"[[Wiliam Gibson]]","year":"1983","sr-due":"2023-12-29","sr-interval":1,"sr-ease":210,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How Neuromancer Changed Me
