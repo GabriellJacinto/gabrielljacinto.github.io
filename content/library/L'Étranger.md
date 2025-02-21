@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["book","done"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How L'Étranger Changed Me
