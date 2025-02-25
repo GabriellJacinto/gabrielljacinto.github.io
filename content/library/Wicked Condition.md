@@ -64,4 +64,4 @@ But I shall **become the abyss** this rock gazes upon!
 huh...
 So this is it.
 ```
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Wicked Condition 
+\- [[\|Gabriel Lima Jacinto]], Wicked Condition 

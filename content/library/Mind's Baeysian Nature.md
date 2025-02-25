@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["idea" ],"topic":"[[Choice]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["thought" ],"topic":"[[Choice]]","publish":true,"PassFrontmatter":true}
 ---
 
 There is something about the nature of conditionality that has been floating around my head in these last years, I couldn't really expand upon the idea because I lacked information and direction to what exactly I was pondering so much about. I guess the own nature of personal choice-making is something that interests me, especially since it relates so much to [[Existentialism\|Existentialism]]. It wasn't until I took a course on [[Computational Neuroscience\|Computational Neuroscience]] ([[Neuromatch\|Neuromatch]]) that I realized that the brain it self can be modeled as a [[Bayesian Distribution\|Bayesian Distribution]] of priors and posteriors. 

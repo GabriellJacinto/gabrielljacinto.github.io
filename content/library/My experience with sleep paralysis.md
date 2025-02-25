@@ -1,5 +1,5 @@
 ---
-{"date":"2022-07-25","tags":["idea" ],"topic":"[[Dreams]]","publish":true,"PassFrontmatter":true}
+{"date":"2022-07-25","tags":["thought" ],"topic":"[[Dreams]]","publish":true,"PassFrontmatter":true}
 ---
 
 I think I died today. And the world as well.

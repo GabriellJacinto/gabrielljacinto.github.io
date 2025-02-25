@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-09","tags":["idea/open-questions" ],"topic":"[[Free Will]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-09","tags":["thought/open-question" ],"topic":"[[Free Will]]","publish":true,"PassFrontmatter":true}
 ---
 
 

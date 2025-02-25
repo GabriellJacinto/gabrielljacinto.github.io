@@ -158,7 +158,7 @@ Uma outra frase que aderi ao meu repertório e de cunho mais filosófico foi a p
 
 </div></div>
 
-Essa perspectiva é muito interessante, por que sempre tinha a noção de que o que nos define são as ações que decidimos tomar com as informações que temos ([[zettlekasten/Mind's Baeysian Nature\|Mind's Baeysian Nature]]). Talvez realmente tão importante quanto, ou até mais (debatível), do que as informações condicionais que temos, são as informações que *não* temos, pois isso determina o nosso nível de consciência.
+Essa perspectiva é muito interessante, por que sempre tinha a noção de que o que nos define são as ações que decidimos tomar com as informações que temos ([[library/Mind's Baeysian Nature\|Mind's Baeysian Nature]]). Talvez realmente tão importante quanto, ou até mais (debatível), do que as informações condicionais que temos, são as informações que *não* temos, pois isso determina o nosso nível de consciência.
 
 O que nos define é nosso nível de consciência, ou melhor, a falta dela. Essa sim parece ser a premissa, pois ela precede até mesmo a definição de propósito. O que será que pesa mais? O que temos ou o que não temos?
 

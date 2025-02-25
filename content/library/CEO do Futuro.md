@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-08","tags":["post-mortem" ],"topic":"[[Leadership]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-08","tags":["project/post-mortem" ],"topic":"[[Leadership]]","publish":true,"PassFrontmatter":true}
 ---
 
 [[2020\|2020]]

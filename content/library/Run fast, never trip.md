@@ -21,4 +21,4 @@ Because even the moon is a
 shooting star when it falls
 after all.
 ```
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Run fast, never trip
+\- [[\|Gabriel Lima Jacinto]], Run fast, never trip

@@ -1,33 +1,38 @@
 ---
-title: "gabriellimajacinto.com"
-tags:
-  - evergreen
+{"title":"gabriellimajacinto.com","description":"I'm not just a computer scientist; I'm a passionate individual who blends technical expertise with a diverse range of interests and community engagement.","tags":["dashboard"],"publish":true,"PassFrontmatter":true}
 ---
+
+
+> [!abstract]- Current Fascinations
+> 1. Neuromorphic Systems
+> 2. Brain-computer Interfaces
+> 3. Surfing
+> 4. Loop Improvisation
+> 5. Silly dad jokes & Magic tricks
+
 ```poetry
-Welcome!
+Hello, you little stalker!
 ```
 
-I’m Gabriel, a dedicated, communicative, and charismatic nerdy dude with a passion for both software and hardware exploration. I am driven by a profound sense of purpose to apply my expertise to develop innovative solutions that can alleviate the burden of cognitive disorders and improve the quality of life for affected individuals.
+I'm Gabriel, a tech-loving, library-dwelling, talkative nerd with a knack for both software and hardware.
 
-> [!done]- Current Fascinations
-> 1. Neuromorphic Systems            
-> 2. Brain-computer Interfaces      
-> 3. Artificial Intelligence        
-> 4. Neuroscience    
-> 5. Calisthenics and Surfing
-> 6. Avant-indie and Jazz
-> 7. Magic
-> 8. Absurdism and Humanism
+<!-- Presently working on (...) @ (...) -->
 
-In my spare time, I'm not only a dedicated student and professional but also a Clown Doctor, bringing joy and laughter to those in need. Additionally, I find balance playing the saxophone and guitar.
+When I’m not buried in books, I’m either making people laugh as a [[library/NUHAS\|Clown Doctor]], jamming on [[library/Live Loops\|multiple instruments]], or chasing my next [[adrenaline rush\|adrenaline rush]].
 
-I'm not just a computer scientist; I'm a passionate individual who blends technical expertise with a diverse range of interests and community engagement.
+> [!tip] [[library/Kernel Logs\|Latest Kernel Developments]]
+> - `December, 2024` I travalled to Salvador, Bahia!
+> - `October, 2024` I got a Stereo Mind Game Vinyl!
+> - `August, 2024` I moved to a new apartment!
 
-As far as 'about' pages go, I hope this acts as an open invitation into the many winding paths throughout this garden. Here are some places you may want to visit:
+Feel free to explore the many winding paths of this linked space. If I may suggest, the best way to navigate all the content is through the [tag index](/tags/) or the [recent writing](/library/) index if you prefer a bit of ordered chaos. However, if you truly thrive on entropy - *you mischievous soul* - click on the Graph View!
 
-- [The oak letter desk](/posts/): a collection of my favourite [[thoughts/writing|writing]];
-- [The hand-crafted workbench](thoughts/craft.md): craft I am proud of (websites, talks, workshops, projects, etc.);
-- [The bookshelf on the far wall](/books): books that are in some state of read, being read, or to be read.
+Still undecided? Check out these collections:
+- [[library/The Radio Silence Atrium\|The Radio Silence Atrium]]: a collection of my favorite thoughts and stream-of-consciousness musings, etched into writing;
+- [[library/The Fool's Workbench\|The Fool's Workbench]]: a collection of projects and ideas I've worked on or am currently tinkering with;
+- [[library/D.B.W\|Dreadfully Beautiful Works]]: a collection of my favorite melancholy;
+- [[library/The Creaking Shelf\|The Creaking Shelf]]: a peek into my ever-growing book collection.
+- [[library/The Silver Screen Hub\|The Silver Screen Hub]]: a curated space for all things visual and audible—movies, music, series, podcasts, and games.
 
 ```poetry
 - Gabe :)

@@ -12,4 +12,4 @@ And the windless storm lashes wildly.
 Chest's open. I am not afraid of it anymore.
 ```
 
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Venturi Blossom
+\- [[\|Gabriel Lima Jacinto]], Venturi Blossom

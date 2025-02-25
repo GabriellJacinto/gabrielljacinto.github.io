@@ -7,18 +7,21 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
+  footer: Component.DesktopOnly(Component.Footer({
     links: {
+      Email: "mailto:gabriellimajacinto@gmail.com",
       GitHub: "https://github.com/gabrielljacinto",
-      Instagram: "https://www.instagram.com/gabriellimajacinto/",
-      LinkedIn: "https://www.linkedin.com/in/gabriel-lima-jacinto/",
-      Goodreads: "https://www.goodreads.com/user/show/102268087",
       Kaggle: "https://www.kaggle.com/orion2342",
+      Curriculum_Vitae: "https://gabrielljacinto.com/cv/",
       ORCID: "https://orcid.org/0000-0002-9258-8045",
       Lattes: "http://lattes.cnpq.br/7398702131851254",
-      Email: "mailto:gabriellimajacinto@gmail.com"
+      Goodreads: "https://www.goodreads.com/user/show/102268087",
+      Letterboxd: "https://letterboxd.com/gabrielljacinto/",
+      LinkedIn: "https://www.linkedin.com/in/gabriel-lima-jacinto/",
+      Instagram: "https://www.instagram.com/gabriellimajacinto/",
     },
   }),
+  )
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -49,9 +52,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph({
       localGraph: {
         showTags: false,
+        fontSize: 1,
       },
       globalGraph: {
-        showTags: false,
+        showTags: true,
+        repelForce: 0.05,
+        fontSize: 1,
+
       },
     }),
     Component.Backlinks(),

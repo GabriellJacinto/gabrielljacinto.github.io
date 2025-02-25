@@ -24,4 +24,4 @@ Yet what am I to be when roots rot new bright horizons?
 Always,
     DBW.
 ```
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Branching out or the Earth and the Abyss ([[zettlekasten/D.B.W\|D.B.W]])
+\- [[\|Gabriel Lima Jacinto]], Branching out or the Earth and the Abyss ([[library/D.B.W\|D.B.W]])

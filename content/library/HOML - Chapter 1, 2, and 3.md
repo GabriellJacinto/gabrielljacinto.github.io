@@ -1,5 +1,5 @@
 ---
-{"date":"2023-12-12","tags":["lesson"],"topic":"[[Machine Learnig]]","class":"[[Courses#^ddc1b1|Hands-On Machine Learning]]","professor":"Aurélien Géron","place":"Coffee Shop","publish":true,"PassFrontmatter":true}
+{"date":"2023-12-12","tags":["info/lesson"],"topic":"[[Machine Learnig]]","class":"[[Courses#^ddc1b1|Hands-On Machine Learning]]","professor":"Aurélien Géron","place":"Coffee Shop","publish":true,"PassFrontmatter":true}
 ---
 
 # Types of Machine Learning Systems

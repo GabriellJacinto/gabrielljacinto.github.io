@@ -14,4 +14,4 @@ the morning star shines enviously
 
 But this teetering bulb of dread and dream is too busy to notice.
 ```
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Eye see ([[zettlekasten/D.B.W\|D.B.W]])
+\- [[\|Gabriel Lima Jacinto]], Eye see ([[library/D.B.W\|D.B.W]])

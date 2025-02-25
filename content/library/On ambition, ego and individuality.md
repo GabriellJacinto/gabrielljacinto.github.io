@@ -1,5 +1,5 @@
 ---
-{"date":"2023-04-21","tags":["reflexion" ],"topic":"[[Ego]]","sr-due":"2024-07-15","sr-interval":29,"sr-ease":246,"publish":true,"PassFrontmatter":true}
+{"date":"2023-04-21","tags":["thought"],"topic":"[[Ego]]","sr-due":"2024-07-15","sr-interval":29,"sr-ease":246,"publish":true,"PassFrontmatter":true}
 ---
 
 Ambição trata-se de um desejo, um desejo minimamente planejado. Um desejo sem um plano é apenas um sonho, algo que se imagina mas não se põe em prática. Por meio da prática a ambição se torna um objetivo. O ego, na sua definição mais tradicional, é o que dita o desejo e logo, essa ambição. A nossa natureza como um ser individual é a fonte primária do ego.

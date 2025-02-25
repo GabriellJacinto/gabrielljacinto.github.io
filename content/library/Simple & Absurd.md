@@ -8,4 +8,4 @@ O resto...?
 
 Colocamos em cima do absurdo.
 ```
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Simple & Absurd
+\- [[\|Gabriel Lima Jacinto]], Simple & Absurd

@@ -22,4 +22,4 @@ But never meant to last
 Let's go for a swim
 For the beach is vast
 ```
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Sand Ship Wreck ([[zettlekasten/D.B.W\|D.B.W]])
+\- [[\|Gabriel Lima Jacinto]], Sand Ship Wreck ([[library/D.B.W\|D.B.W]])

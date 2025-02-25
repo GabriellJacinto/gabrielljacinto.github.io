@@ -33,4 +33,4 @@ Let the insecurities dissolve
 Because once the path is clear
 You'll reach your goal.
 ```
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Free fall ([[zettlekasten/Visual Poetry\|Visual Poetry]])
+\- [[\|Gabriel Lima Jacinto]], Free fall ([[library/Visual Poetry\|Visual Poetry]])

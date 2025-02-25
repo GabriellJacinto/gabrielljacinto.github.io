@@ -15,4 +15,4 @@ Again
 Windless storm
 Mute stir
 ```
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], 23 REVOLUTIONS!
+\- [[\|Gabriel Lima Jacinto]], 23 REVOLUTIONS!

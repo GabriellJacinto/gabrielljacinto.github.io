@@ -1,5 +1,5 @@
 ---
-{"date":"2023-02-18","tags":["reflexion" ],"topic":"[[Reading]]","sr-due":"2024-09-23","sr-interval":93,"sr-ease":230,"publish":true,"PassFrontmatter":true}
+{"date":"2023-02-18","tags":["thought"],"topic":"[[Reading]]","sr-due":"2024-09-23","sr-interval":93,"sr-ease":230,"publish":true,"PassFrontmatter":true}
 ---
 
 I'm used to read but very slowly because of how I process the info. My reasoning is too lateral sometimes, but that is how I can better use my brain. 
