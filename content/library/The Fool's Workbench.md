@@ -2,3 +2,27 @@
 {"date":"2025-02-25","tags":["dashboard"],"topic":"[[Projects]]","publish":true,"PassFrontmatter":true}
 ---
 
+A beautiful assembly of half-built dreams, questionable experiments, and the occasional stroke of genius. Here lies a collection of projects—some finished, some forever in progress, all part of the [[library/Reality is a SandBox\|grand sandbox adventure]].
+# Work In Progress
+| Date         | Title                                                       | Description                                                  | Topic                                |
+| ------------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------ |
+| Mar 20, 2024 | [[library/PIC\|PIC]]                                     | \-                                                           | \-                                   |
+| Feb 29, 2024 | [[library/NUHAS\|NUHAS]]                                 | \-                                                           | [[Social Project\|Social Project]]   |
+| Sep 3, 2023  | [[library/Projeto C003\|Projeto C003]]                   | \-                                                           | [[AAA Project\|AAA Project]]         |
+| Sep 3, 2023  | [[library/GAKKO\|GAKKO]]                                 | \-                                                           | [[Extracurricular\|Extracurricular]] |
+| Sep 3, 2023  | [[library/D.B.W\|D.B.W]]                                 | \-                                                           | [[Poetry\|Poetry]]                   |
+| Sep 3, 2023  | [[library/riakOS (Projeto C004)\|riakOS (Projeto C004)]] | Solução em Software para Controle de Progresso de Atividades | [[AAA Project\|AAA Project]]         |
+
+
+# Completed
+| Date         | Title                                                       | Description                                                                                              | Topic                                                      |
+| ------------ | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Oct 22, 2023 | [[library/LASCON 2023\|LASCON 2023]]                     | \-                                                                                                       | [[Computational Neuroscience\|Computational Neuroscience]] |
+| Nov 9, 2023  | [[library/SaveIt - Video Logger\|SaveIt - Video Logger]] | \-                                                                                                       | [[AAA Project\|AAA Project]]                               |
+| Sep 3, 2023  | [[library/Three Friends\|Three Friends]]                 | Script that I wrote for a shot film festival during high school as the last assignment before graduation | [[Script\|Script]]                                         |
+| Sep 8, 2023  | [[library/Eductus - Mentoriza\|Eductus - Mentoriza]]     | \-                                                                                                       | [[Mentorship\|Mentorship]]                                 |
+| Sep 8, 2023  | [[library/Cientista Beta\|Cientista Beta]]               | \-                                                                                                       | [[Mentorship\|Mentorship]]                                 |
+| Sep 8, 2023  | [[library/CEO do Futuro\|CEO do Futuro]]                 | \-                                                                                                       | [[Leadership\|Leadership]]                                 |
+| Sep 8, 2023  | [[library/BSBMUN\|BSBMUN]]                               | \-                                                                                                       | [[Debate\|Debate]]                                         |
+| Oct 11, 2023 | [[library/A Culpa é das Risidas\|A Culpa é das Risidas]] | Roteiro de comédia que redigi para a apresentação do NUHAS na SEPEX 2023.                                | [[Script\|Script]]                                         |
+

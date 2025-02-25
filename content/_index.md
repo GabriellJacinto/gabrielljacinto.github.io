@@ -30,7 +30,6 @@ Feel free to explore the many winding paths of this linked space. If I may sugge
 Still undecided? Check out these collections:
 - [[library/The Radio Silence Atrium\|The Radio Silence Atrium]]: a collection of my favorite thoughts and stream-of-consciousness musings, etched into writing;
 - [[library/The Fool's Workbench\|The Fool's Workbench]]: a collection of projects and ideas I've worked on or am currently tinkering with;
-- [[library/D.B.W\|Dreadfully Beautiful Works]]: a collection of my favorite melancholy;
 - [[library/The Creaking Shelf\|The Creaking Shelf]]: a peek into my ever-growing book collection.
 - [[library/The Silver Screen Hub\|The Silver Screen Hub]]: a curated space for all things visual and audible—movies, music, series, podcasts, and games.
 
