@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["project/idea","in-progress"],"topic":"[[Poetry]]","publish":true,"description":"Creative experiment in weaving words, sound, and visuals into a single, evocative experience.","PassFrontmatter":true}
+{"date":"2023-09-03","tags":["project/idea"],"topic":"[[Poetry]]","publish":true,"description":"Creative experiment in weaving words, sound, and visuals into a single, evocative experience.","PassFrontmatter":true}
 ---
 
 >[!info] Description

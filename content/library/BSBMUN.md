@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-08","tags":["project/post-mortem","done"],"topic":"[[Debate]]","publish":true,"description":"Brasília's Model United Nations","PassFrontmatter":true}
+{"date":"2023-09-08","tags":["project/post-mortem"],"topic":"[[Debate]]","publish":true,"description":"Brasília's Model United Nations","PassFrontmatter":true}
 ---
 
 [[2016\|2016]]

@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-08","tags":["project/post-mortem","done"],"topic":"[[Mentorship]]","publish":true,"description":"Programa de Mentoria para Jovens Cientistas","PassFrontmatter":true}
+{"date":"2023-09-08","tags":["project/post-mortem", ],"topic":"[[Mentorship]]","publish":true,"description":"Programa de Mentoria para Jovens Cientistas","PassFrontmatter":true}
 ---
 
 [[2016\|2016]]
