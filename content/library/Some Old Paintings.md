@@ -4,7 +4,7 @@
 
 >[!info] Back in the day when I tried following Bob Ross Tutorials
 
-![[old-paintings.pdf]]
+![[files/old-paintings.pdf]]
 
 
 ---

@@ -17,6 +17,7 @@ export const sharedPageComponents: SharedLayout = {
       Lattes: "http://lattes.cnpq.br/7398702131851254",
       Goodreads: "https://www.goodreads.com/user/show/102268087",
       Letterboxd: "https://letterboxd.com/gabrielljacinto/",
+      Musescore: "https://musescore.com/user/35849468",
       LinkedIn: "https://www.linkedin.com/in/gabriel-lima-jacinto/",
       Instagram: "https://www.instagram.com/gabriellimajacinto/",
     },
