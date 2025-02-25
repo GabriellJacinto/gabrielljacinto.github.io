@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-08","tags":["project/post-mortem" ],"topic":"[[Mentorship]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-08","tags":["project/post-mortem","done"],"topic":"[[Mentorship]]","publish":true,"description":"Mentoria para Estudantes em Situação de Vulnerabilidade Social durante a Pandemia","PassFrontmatter":true}
 ---
 
 [[2020\|2020]]

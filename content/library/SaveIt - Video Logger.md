@@ -1,5 +1,5 @@
 ---
-{"date":"2023-11-09","tags":["project" ],"topic":"[[AAA Project]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-11-09","tags":["project","done"],"topic":"[[AAA Project]]","publish":true,"description":"Video Logging Desktop App","PassFrontmatter":true}
 ---
 
 >[!info] Description

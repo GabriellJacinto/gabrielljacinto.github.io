@@ -1,11 +1,11 @@
 ---
-{"date":"2023-09-03","tags":["project" ],"topic":"[[Script]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["project","done"],"topic":"[[Script]]","publish":true,"description":"Script that I wrote for a shot film festival during high school as the last assignment before graduation","PassFrontmatter":true}
 ---
 
->[!info] Description
+>[!info] Descrição
 > Script that I wrote for a shot film festival during high school as the last assignment before graduation
 
-![[files/three-friends.pdf]]
+![[three-friends.pdf]]
 
 ---
 # References
