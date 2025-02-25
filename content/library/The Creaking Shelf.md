@@ -9,8 +9,6 @@ A (mostly) up-to-date list of books I at some point, have wanted to read, am rea
 
 | Date         | Title                                                                                                                     | Author                                                   | Topic                                                |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------- |
-| Feb 25, 2025 | [[library/Os miseráveis\|Os miseráveis]]                                                                               | [[Victor Hugo\|Victor Hugo]]                             | [[French Revolution\|French Revolution]]             |
-| Feb 25, 2025 | [[library/O Pequeno Príncipe\|O Pequeno Príncipe]]                                                                     | [[Antoine De Saint-exupéry\|Antoine De Saint-exupéry]]   | [[Philosophy\|Philosophy]]                           |
 | Feb 25, 2025 | [[library/Being and Nothingness\|Being and Nothingness]]                                                               | [[Jean-Paul Sartre\|Jean-Paul Sartre]]                   | [[Philosophy\|Philosophy]]                           |
 | Feb 25, 2025 | [[library/Anam Cara\|Anam Cara]]                                                                                       | [[John O'Donohue\|John O'Donohue]]                       | [[Spirituality\|Spirituality]]                       |
 | Feb 25, 2025 | [[library/Cem anos de solidão\|Cem anos de solidão]]                                                                   | [[Gabriel García Márquez\|Gabriel García Márquez]]       | [[Magical Realism\|Magical Realism]]                 |
@@ -72,6 +70,7 @@ A (mostly) up-to-date list of books I at some point, have wanted to read, am rea
 | Feb 25, 2025 | [[library/Billions Billions\|Billions & Billions]]                                                                     | [[Carl Sagan\|Carl Sagan]]                               | [[Science\|Science]]                                 |
 | Feb 25, 2025 | [[library/Dragons of Eden\|Dragons of Eden]]                                                                           | [[Carl Sagan\|Carl Sagan]]                               | [[Science\|Science]]                                 |
 | Feb 25, 2025 | [[library/Do Not Go Gentle Into That Good Night\|Do Not Go Gentle Into That Good Night]]                               | [[Dylan Thomas\|Dylan Thomas]]                           | [[Poetry\|Poetry]]                                   |
+| Feb 25, 2025 | [[library/O Pequeno Príncipe\|O Pequeno Príncipe]]                                                                     | [[Antoine De Saint-exupéry\|Antoine De Saint-exupéry]]   | [[Philosophy\|Philosophy]]                           |
 
 # On the Backpack
 | Date         | Title                                                                                    | Author                                           | Topic                                |
@@ -102,6 +101,7 @@ A (mostly) up-to-date list of books I at some point, have wanted to read, am rea
 | Aug 6, 2016  | [[library/O Cavaleiro Inexistente\|O Cavaleiro Inexistente]]                       | [[Italo Calvino\|Italo Calvino]]                   | [[Magical Realism\|Magical Realism]]                 |
 | Jul 1, 2016  | [[library/Vidas secas\|Vidas secas]]                                               | [[Graciliano Ramos\|Graciliano Ramos]]             | [[Regionalismo\|Regionalismo]]                       |
 | Jul 25, 2015 | [[library/Memórias Póstumas de Brás Cubas\|Memórias Póstumas de Brás Cubas]]       | [[Machado de Assis\|Machado de Assis]]             | [[Realism\|Realism]]                                 |
+| Mar 1, 2015  | [[library/Os miseráveis\|Os miseráveis]]                                           | [[Victor Hugo\|Victor Hugo]]                       | [[French Revolution\|French Revolution]]             |
 | Feb 25, 2015 | [[library/A Metamorfose\|A Metamorfose]]                                           | [[Frans Kafka\|Frans Kafka]]                       | [[Absurdism\|Absurdism]]                             |
 | Jul 25, 2014 | [[library/O menino do pijama listrado\|O menino do pijama listrado]]               | [[John Boyne\|John Boyne]]                         | [[Second World War\|Second World War]]               |
 | Dec 25, 2013 | [[library/A Study in Scarlet\|A Study in Scarlet]]                                 | [[Arthur Conan Doyle\|Arthur Conan Doyle]]         | [[Mistery\|Mistery]]                                 |
