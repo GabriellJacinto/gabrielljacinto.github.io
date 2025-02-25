@@ -74,4 +74,4 @@ I call upon independence.
 
 The Phase Equalizer.
 ```
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], The Phase Equalizer.
+\- [[\|Gabriel Lima Jacinto]], The Phase Equalizer.
