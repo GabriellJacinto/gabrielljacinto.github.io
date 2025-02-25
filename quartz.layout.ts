@@ -51,12 +51,12 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
       localGraph: {
-        showTags: false,
+        showTags: true,
         fontSize: 1,
       },
       globalGraph: {
         showTags: true,
-        repelForce: 0.05,
+        repelForce: 0.6,
         fontSize: 1,
 
       },
