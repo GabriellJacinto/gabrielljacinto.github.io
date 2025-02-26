@@ -97,13 +97,14 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
     async emit(ctx, content, resources): Promise<FilePath[]> {
       const cfg = ctx.cfg.configuration
       const fps: FilePath[] = []
-      const allFiles = content.map((c) => c[1].data)
+      const allFiles = content.map((c) => c[1].data) //.filter((file) => !file.frontmatter?.tags?.includes("dashboard")) // Exclude files tagged with #dashboard
 
       let containsIndex = false
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         if (slug === "index") {
           containsIndex = true
+          // continue
         }
 
         const externalResources = pageResources(pathToRoot(slug), resources)
@@ -131,7 +132,7 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
       if (!containsIndex && !ctx.argv.fastRebuild) {
         console.log(
           chalk.yellow(
-            `\nWarning: you seem to be missing an \`index.md\` home page file at the root of your \`${ctx.argv.directory}\` folder. This may cause errors when deploying.`,
+            `\n[Content] Warning: you seem to be missing an \`index.md\` home page file at the root of your \`${ctx.argv.directory}\` folder. This may cause errors when deploying.`,
           ),
         )
       }

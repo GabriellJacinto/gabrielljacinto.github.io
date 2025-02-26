@@ -24,6 +24,10 @@ export default {
     backlinks: {
       title: "Backlinks",
       noBacklinksFound: "No backlinks found",
+    },    
+    dashboards: {
+      title: "Collections",
+      noItemsFound: "No items found",
     },
     themeToggle: {
       lightMode: "Light mode",

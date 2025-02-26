@@ -40,8 +40,6 @@ export const sharedPageComponents: SharedLayout = {
   ),
 };
 
-
-
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -76,51 +74,10 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: true,
         repelForce: 0.6,
         fontSize: 1,
-
       },
     }),
-    Component.Backlinks(),
-  ],
-}
-
-export const dashboardContentPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
-    Component.MobileOnly(Component.TableOfContents()),
-  ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(
-      Component.RecentNotes({
-        title: "Recent Writing",
-        limit: 3,
-        filter: (f) => f.slug!.startsWith("library/"),
-        linkToMore: "library/" as SimpleSlug,
-      }),
-    ),
-    Component.DesktopOnly(Component.TableOfContents()),
-  ],
-  right: [
-    Component.Graph({
-      localGraph: {
-        showTags: true,
-        fontSize: 1,
-      },
-      globalGraph: {
-        showTags: true,
-        repelForce: 0.6,
-        fontSize: 1,
-      },
-    }),
-    Component.Dashboards({
-      title: "Dashboards",
-    }),
+    Component.Dashboards(),
+    // Component.Backlinks(),
   ],
 }
 
@@ -136,3 +93,42 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+// export const dashboardContentPageLayout: PageLayout = {
+  //   beforeBody: [
+  //     Component.Breadcrumbs(),
+  //     Component.ArticleTitle(),
+  //     Component.ContentMeta(),
+  //     Component.TagList(),
+  //     Component.MobileOnly(Component.TableOfContents()),
+  //   ],
+  //   left: [
+  //     Component.PageTitle(),
+  //     Component.MobileOnly(Component.Spacer()),
+  //     Component.Search(),
+  //     Component.Darkmode(),
+  //     Component.DesktopOnly(
+  //       Component.RecentNotes({
+  //         title: "Recent Writing",
+  //         limit: 3,
+  //         filter: (f) => f.slug!.startsWith("library/"),
+  //         linkToMore: "library/" as SimpleSlug,
+  //       }),
+  //     ),
+  //     Component.DesktopOnly(Component.TableOfContents()),
+  //   ],
+  //   right: [
+  //     Component.Graph({
+  //       localGraph: {
+  //         showTags: true,
+  //         fontSize: 1,
+  //       },
+  //       globalGraph: {
+  //         showTags: true,
+  //         repelForce: 0.6,
+  //         fontSize: 1,
+  //       },
+  //     }),
+  //     Component.Dashboards(),
+  //   ],
+  // }
