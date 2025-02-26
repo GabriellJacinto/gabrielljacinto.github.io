@@ -27,6 +27,10 @@ export interface Translation {
       title: string
       noBacklinksFound: string
     }
+    dashboards: {
+      title: string
+      noItemsFound: string
+    }
     themeToggle: {
       lightMode: string
       darkMode: string

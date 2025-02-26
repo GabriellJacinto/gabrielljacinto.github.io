@@ -20,11 +20,13 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
+import Dashboards from "./Dashboards"
 
 export {
   ArticleTitle,
   Content,
   TagContent,
+  Dashboards,
   FolderContent,
   Darkmode,
   Head,
@@ -45,3 +47,4 @@ export {
   Breadcrumbs,
   Comments,
 }
+
