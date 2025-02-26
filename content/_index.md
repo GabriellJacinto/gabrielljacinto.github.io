@@ -11,7 +11,7 @@
 > 5. Silly dad jokes & Magic tricks
 
 ```poetry
-Hello, you little stalker!
+Hey there, you little stalker!
 ```
 
 I'm a tech-loving, library-dwelling, talkative nerd with a knack for both software and hardware.
