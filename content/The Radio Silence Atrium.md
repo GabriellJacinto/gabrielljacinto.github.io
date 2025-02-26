@@ -27,9 +27,10 @@ Thoughts that refuse to fade—ideas, reflections, and musings that have lingere
 
 # **Phantom Signals**
 Questions without clear origins or destinations, drifting through the brain static. Some are whispers from the subconscious, others are unanswered calls. Here lie the mysteries, paradoxes, and curiosities that haunt the mind, still searching for resolution.
-| Date      | Title                                                                                                                                                                                     | Topic                          |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| Sep, 2023 | [[library/How intelligent are spiders compared to other predators\|How intelligent are spiders compared to other predators]]                                                           | [[Intelligence\|Intelligence]] |
-| Sep, 2023 | [[library/Livre Arbítrio é um comportamento emergente\|Livre Arbítrio é um comportamento emergente]]                                                                                   | [[Free Will\|Free Will]]       |
-| Sep, 2023 | [[library/Identidade pessoal é definida mais precisamente pelo o que sei ou pelo o que não sei\|Identidade pessoal é definida mais precisamente pelo o que sei ou pelo o que não sei]] | [[self\|Identity]]             |
+| Date      | Title                                                                                                                                                                                              | Topic                          |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| Sep, 2023 | [[library/How intelligent are spiders compared to other predators\|How intelligent are spiders compared to other predators]]                                                                    | [[Intelligence\|Intelligence]] |
+| Sep, 2023 | [[library/Livre Arbítrio é um comportamento emergente\|Livre Arbítrio é um comportamento emergente]]                                                                                            | [[Free Will\|Free Will]]       |
+| Sep, 2023 | [[library/Identidade pessoal é definida mais precisamente pelo o que sei ou pelo o que não sei\|Identidade pessoal é definida mais precisamente pelo o que sei ou pelo o que não sei]]          | [[self\|Identity]]             |
+| Jul, 2023 | [[_Tablet/_library/Eu imagino se existe uma forma melhor de mensurar o tempo que não seja por contagem.\|Eu imagino se existe uma forma melhor de mensurar o tempo que não seja por contagem.]] | [[Time\|Time]]                 |
 
