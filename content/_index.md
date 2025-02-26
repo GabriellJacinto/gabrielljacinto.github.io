@@ -14,7 +14,7 @@
 Hello, you little stalker!
 ```
 
-I'm Gabriel, a tech-loving, library-dwelling, talkative nerd with a knack for both software and hardware.
+I'm a tech-loving, library-dwelling, talkative nerd with a knack for both software and hardware.
 
 <!-- Presently working on (...) @ (...) -->
 
