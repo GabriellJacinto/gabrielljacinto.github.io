@@ -11,10 +11,10 @@ Tinkering, testing, and occasionally breaking things—these projects are still 
 | Feb, 2024 | [[library/NUHAS\|NUHAS]]                                 | Núcleo de Humanização, Arte e Saúde que realiza as visitas dos Terapeutas da Alegria          | [[Social Project\|Social Project]]         |
 | Nov, 2023 | [[library/Live Loops\|Live Loops]]                       | Mastering expression across instruments and crafting a sound that’s uniquely mine             | [[Music\|Music]]                           |
 | Sep, 2023 | [[library/riakOS (Projeto C004)\|riakOS (Projeto C004)]] | Solução em Software para Controle de Progresso de Atividades                                  | [[AAA Project\|AAA Project]]               |
+| Sep, 2023 | [[library/Visual Poetry\|Visual Poetry]]                 | Creative experiment in weaving words, sound, and visuals into a single, evocative experience. | [[Poetry\|Poetry]]                         |
 | Sep, 2023 | [[library/Projeto C003\|Projeto C003]]                   | Marketing Pessoal e Gerenciamento de Presença Digital                                         | [[AAA Project\|AAA Project]]               |
 | Sep, 2023 | [[library/GAKKO\|GAKKO]]                                 | 2-week summer camp in Burgundy, France                                                        | [[Extracurricular\|Extracurricular]]       |
 | Sep, 2023 | [[library/D.B.W\|D.B.W]]                                 | A collection of my favorite melancholy                                                        | [[Poetry\|Poetry]]                         |
-| Sep, 2023 | [[library/Visual Poetry\|Visual Poetry]]                 | Creative experiment in weaving words, sound, and visuals into a single, evocative experience. | [[Poetry\|Poetry]]                         |
 
 
 # Completed

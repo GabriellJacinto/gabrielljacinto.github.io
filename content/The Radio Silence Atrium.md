@@ -34,3 +34,13 @@ Questions without clear origins or destinations, drifting through the brain stat
 | Sep, 2023 | [[library/Identidade pessoal é definida mais precisamente pelo o que sei ou pelo o que não sei\|Identidade pessoal é definida mais precisamente pelo o que sei ou pelo o que não sei]]          | [[self\|Identity]]             |
 | Jul, 2023 | [[_Tablet/_library/Eu imagino se existe uma forma melhor de mensurar o tempo que não seja por contagem.\|Eu imagino se existe uma forma melhor de mensurar o tempo que não seja por contagem.]] | [[Time\|Time]]                 |
 
+# Data Pulse
+A reservoir of knowledge—facts and references digested over time. Whether a fleeting curiosity or a well-researched study, every entry adds to the signal, cutting through the noise.
+| Date      | Title                                                                                   | Topic                                |
+| --------- | --------------------------------------------------------------------------------------- | ------------------------------------ |
+| Jul, 2024 | [[library/Jungian Archetypes\|Jungian Archetypes]]                                   | [[Carl Jung\|Carl Jung]]             |
+| Jul, 2024 | [[library/Dr. Jacinto Alegria\|Dr. Jacinto Alegria]]                                 | [[library/NUHAS\|NUHAS]]          |
+| Jul, 2024 | [[library/Dr. Capitão\|Dr. Capitão]]                                                 | [[library/NUHAS\|NUHAS]]          |
+| Jul, 2024 | [[library/Character Development Questionnaire\|Character Development Questionnaire]] | [[Storytelling\|Storytelling]]       |
+| Dec, 2023 | [[library/HOML - Chapter 1, 2, and 3\|HOML - Chapter 1, 2, and 3]]                   | [[Machine Learnig\|Machine Learnig]] |
+| Sep, 2023 | [[library/Antigo testamento e eletroestática\|Antigo testamento e eletroestática]]   | [[Religion\|Religion]]               |
