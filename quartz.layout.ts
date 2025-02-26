@@ -7,23 +7,25 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.DesktopOnly(Component.Footer({
+  footer: Component.Footer({
     links: {
-      Email: "mailto:gabriellimajacinto@gmail.com",
-      GitHub: "https://github.com/gabrielljacinto",
-      Kaggle: "https://www.kaggle.com/orion2342",
-      Curriculum_Vitae: "https://gabrielljacinto.com/cv/",
-      ORCID: "https://orcid.org/0000-0002-9258-8045",
-      Lattes: "http://lattes.cnpq.br/7398702131851254",
-      Goodreads: "https://www.goodreads.com/user/show/102268087",
-      Letterboxd: "https://letterboxd.com/gabrielljacinto/",
-      Musescore: "https://musescore.com/user/35849468",
-      LinkedIn: "https://www.linkedin.com/in/gabriel-lima-jacinto/",
-      Instagram: "https://www.instagram.com/gabriellimajacinto/",
+      Email: { url: "mailto:gabriellimajacinto@gmail.com", icon: "fa fa-envelope" },
+      GitHub: { url: "https://github.com/gabrielljacinto", icon: "fab fa-github" },
+      Kaggle: { url: "https://www.kaggle.com/orion2342", icon: "fab fa-kaggle" },
+      Curriculum_Vitae: { url: "https://gabrielljacinto.com/cv/", icon: "fa fa-id-card" },
+      ORCID: { url: "https://orcid.org/0000-0002-9258-8045", icon: "fab fa-orcid" },
+      Lattes: { url: "http://lattes.cnpq.br/7398702131851254", icon: "fa fa-location-dot" },
+      Goodreads: { url: "https://www.goodreads.com/user/show/102268087", icon: "fab fa-goodreads" },
+      Letterboxd: { url: "https://letterboxd.com/gabrielljacinto/", icon: "fab fa-letterboxd" },
+      Musescore: { url: "https://musescore.com/user/35849468", icon: "fa fa-music" },
+      LinkedIn: { url: "https://www.linkedin.com/in/gabriel-lima-jacinto/", icon: "fab fa-linkedin" },
+      Instagram: { url: "https://www.instagram.com/gabriellimajacinto/", icon: "fab fa-instagram" },
+      // Pinterest: { url: "https://br.pinterest.com/gabrielljacinto/", icon: "fab fa-pinterest" },
+      // Codeforces: { url: "https://codeforces.com/profile/gabrielljacinto", icon: "fa fa-code" },
     },
   }),
-  )
-}
+};
+
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {

@@ -37,6 +37,7 @@
   "dependencies": {
     "@clack/prompts": "^0.10.0",
     "@floating-ui/dom": "^1.6.13",
+    "@fortawesome/fontawesome-free": "^6.7.2",
     "@myriaddreamin/rehype-typst": "^0.5.4",
     "@napi-rs/simple-git": "0.1.19",
     "@tweenjs/tween.js": "^25.0.0",
@@ -67,6 +68,7 @@
     "preact-render-to-string": "^6.5.13",
     "pretty-bytes": "^6.1.1",
     "pretty-time": "^1.1.0",
+    "react-icons": "^5.5.0",
     "reading-time": "^1.5.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-citation": "^2.2.2",
@@ -106,6 +108,7 @@
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^22.13.4",
     "@types/pretty-time": "^1.1.5",
+    "@types/react-icons": "^2.2.7",
     "@types/source-map-support": "^0.5.10",
     "@types/ws": "^8.5.14",
     "@types/yargs": "^17.0.33",
