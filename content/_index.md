@@ -16,7 +16,7 @@ Hey there, you little stalker!
 
 I'm a tech-loving, library-dwelling, talkative nerd with a knack for both software and hardware.
 
-<!-- Presently working on (...) @ (...). --> Here is my [[library/Curriculum Vitae\|Curriculum Vitae]].
+Here is my [[library/Curriculum Vitae\|Curriculum Vitae]]. <!-- Presently working on (...) @ (...). --> 
 
 When I’m not buried in books, I’m either making people laugh as a [[library/NUHAS\|Clown Doctor]], jamming on [[library/Live Loops\|multiple instruments]], or chasing my next [[adrenaline rush\|adrenaline rush]].
 
