@@ -1,5 +1,5 @@
 ---
-{"title":"gabriel.","description":"I'm not just a computer scientist; I'm a passionate individual who blends technical expertise with a diverse range of interests and community engagement.","tags":[],"publish":true,"PassFrontmatter":true}
+{"title":"gabriel.","description":"I'm not just a computer scientist; I'm a passionate individual who blends technical expertise with a diverse range of interests and community engagement.","tags":null,"publish":true,"PassFrontmatter":true}
 ---
 
 
@@ -16,7 +16,7 @@ Hey there, you little stalker!
 
 I'm a tech-loving, library-dwelling, talkative nerd with a knack for both software and hardware.
 
-<!-- Presently working on (...) @ (...) -->
+<!-- Presently working on (...) @ (...). --> Here is my [[Curriculum Vitae\|Curriculum Vitae]].
 
 When I’m not buried in books, I’m either making people laugh as a [[library/NUHAS\|Clown Doctor]], jamming on [[library/Live Loops\|multiple instruments]], or chasing my next [[adrenaline rush\|adrenaline rush]].
 
