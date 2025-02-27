@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-14","tags":["poem" ],"topic":"[[Ephemerality]]","publish":true,"sr-due":"2025-02-21","sr-interval":1,"sr-ease":230,"PassFrontmatter":true}
+{"date":"2023-09-14","tags":["poem","done"],"topic":"[[Ephemerality]]","publish":true,"sr-due":"2025-02-21","sr-interval":1,"sr-ease":230,"PassFrontmatter":true}
 ---
 
 ![sand-ship-wreck.webp](../files/sand-ship-wreck.webp)
@@ -22,4 +22,4 @@ But never meant to last
 Let's go for a swim
 For the beach is vast
 ```
-\- [[\|Gabriel Lima Jacinto]], Sand Ship Wreck ([[library/D.B.W\|D.B.W]])
+\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Sand Ship Wreck ([[library/D.B.W\|D.B.W]])

@@ -1,5 +1,5 @@
 ---
-{"date":"2023-11-04","tags":["project/idea" ],"topic":"[[Painting]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-11-04","tags":["project/idea","backlog"],"topic":"[[Painting]]","publish":true,"PassFrontmatter":true}
 ---
 
 > [!info] Description 

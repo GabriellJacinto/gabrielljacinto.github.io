@@ -1,5 +1,5 @@
 ---
-{"date":"2024-09-22","tags":["poem" ],"topic":"[[self|Identity]]","publish":true,"PassFrontmatter":true}
+{"date":"2024-09-22","tags":["poem","done"],"topic":"[[self|Identity]]","publish":true,"PassFrontmatter":true}
 ---
 
 ```elite
@@ -12,4 +12,4 @@ And the windless storm lashes wildly.
 Chest's open. I am not afraid of it anymore.
 ```
 
-\- [[\|Gabriel Lima Jacinto]], Venturi Blossom
+\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Venturi Blossom

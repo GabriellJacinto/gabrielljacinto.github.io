@@ -1,5 +1,5 @@
 ---
-{"date":"2023-11-24","tags":["poem" ],"topic":"[[Human Condition]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-11-24","tags":["poem","done"],"topic":"[[Human Condition]]","publish":true,"PassFrontmatter":true}
 ---
 
 ```elite

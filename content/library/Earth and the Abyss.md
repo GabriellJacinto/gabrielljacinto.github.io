@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["thought" ],"topic":"[[Metaphor]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["thought","done"],"topic":"[[Metaphor]]","publish":true,"PassFrontmatter":true}
 ---
 
 Dear [[Friedrich Nietzsche\|Nietzsche]],

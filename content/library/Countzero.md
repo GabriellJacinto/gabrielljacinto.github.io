@@ -1,5 +1,5 @@
 ---
-{"date":"2023-12-25","tags":["book/fiction" ],"topic":"[[Cyberpunk]]","start":"2023-08-01","finish":"2024-02-19","author":"[[Wiliam Gibson]]","year":1986,"publish":true,"PassFrontmatter":true}
+{"date":"2023-12-25","tags":["book/fiction","done"],"topic":"[[Cyberpunk]]","start":"2023-08-01","finish":"2024-02-19","author":"[[Wiliam Gibson\|Wiliam Gibson]]","year":1986,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How Countzero Changed Me

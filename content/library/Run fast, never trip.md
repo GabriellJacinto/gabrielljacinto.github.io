@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["poem" ],"topic":"[[Ego]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["poem","done"],"topic":"[[Ego]]","publish":true,"PassFrontmatter":true}
 ---
 
 ```elite
@@ -21,4 +21,4 @@ Because even the moon is a
 shooting star when it falls
 after all.
 ```
-\- [[\|Gabriel Lima Jacinto]], Run fast, never trip
+\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Run fast, never trip

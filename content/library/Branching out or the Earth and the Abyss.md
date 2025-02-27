@@ -1,5 +1,5 @@
 ---
-{"date":"2024-07-24","tags":["poem" ],"topic":null,"publish":true,"PassFrontmatter":true}
+{"date":"2024-07-24","tags":["poem","done"],"topic":null,"publish":true,"PassFrontmatter":true}
 ---
 
 ![files/branching-out.jpg](../files/branching-out.jpg)
@@ -24,4 +24,4 @@ Yet what am I to be when roots rot new bright horizons?
 Always,
     DBW.
 ```
-\- [[\|Gabriel Lima Jacinto]], Branching out or the Earth and the Abyss ([[library/D.B.W\|D.B.W]])
+\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Branching out or the Earth and the Abyss ([[library/D.B.W\|D.B.W]])

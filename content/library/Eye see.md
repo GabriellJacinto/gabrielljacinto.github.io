@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["poem" ],"topic":null,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["poem","done"],"topic":null,"publish":true,"PassFrontmatter":true}
 ---
 
 ```elite
@@ -14,4 +14,4 @@ the morning star shines enviously
 
 But this teetering bulb of dread and dream is too busy to notice.
 ```
-\- [[\|Gabriel Lima Jacinto]], Eye see ([[library/D.B.W\|D.B.W]])
+\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Eye see ([[library/D.B.W\|D.B.W]])

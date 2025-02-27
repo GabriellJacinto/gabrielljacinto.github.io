@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["book/nonfiction"],"topic":"[[Philosophy]]","start":"2020-02-22","finish":"2020-03-06","author":"[[Jean-Paul Sartre]]","year":1946,"sr-due":"2024-01-22","sr-interval":25,"sr-ease":270,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book/nonfiction","done"],"topic":"[[Philosophy]]","start":"2020-02-22","finish":"2020-03-06","author":"[[Jean-Paul Sartre\|Jean-Paul Sartre]]","year":1946,"sr-due":"2024-01-22","sr-interval":25,"sr-ease":270,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How L’existentialisme est un Humanisme Changed Me

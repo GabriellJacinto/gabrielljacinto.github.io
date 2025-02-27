@@ -1,5 +1,5 @@
 ---
-{"date":"2025-02-02","tags":["poem", ],"topic":"[[Identity]]","publish":true,"PassFrontmatter":true}
+{"date":"2025-02-02","tags":["poem","done"],"topic":"[[Identity]]","publish":true,"PassFrontmatter":true}
 ---
 
 ```elite
@@ -74,4 +74,4 @@ I call upon independence.
 
 The Phase Equalizer.
 ```
-\- [[\|Gabriel Lima Jacinto]], The Phase Equalizer.
+\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], The Phase Equalizer.

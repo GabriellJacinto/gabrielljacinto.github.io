@@ -1,5 +1,5 @@
 ---
-{"date":"2024-07-09","tags":["info" ],"topic":"[[Storytelling]]","publish":true,"PassFrontmatter":true}
+{"date":"2024-07-09","tags":["info","done"],"topic":"[[Storytelling]]","publish":true,"PassFrontmatter":true}
 ---
 
 ## **Part One: The Basics**  

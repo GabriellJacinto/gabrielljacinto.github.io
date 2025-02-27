@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-20","tags":["poem" ],"topic":"[[self|Identity]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-20","tags":["poem","done"],"topic":"[[self|Identity]]","publish":true,"PassFrontmatter":true}
 ---
 
 ```elite
@@ -15,4 +15,4 @@ Again
 Windless storm
 Mute stir
 ```
-\- [[\|Gabriel Lima Jacinto]], 23 REVOLUTIONS!
+\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], 23 REVOLUTIONS!

@@ -1,5 +1,5 @@
 ---
-{"date":"2024-07-09","tags":["info" ],"topic":"[[NUHAS]]","publish":true,"PassFrontmatter":true}
+{"date":"2024-07-09","tags":["info","done"],"topic":"[[NUHAS]]","publish":true,"PassFrontmatter":true}
 ---
 
 **Descrição:**  
