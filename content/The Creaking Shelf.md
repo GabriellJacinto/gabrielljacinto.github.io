@@ -11,10 +11,10 @@ A (mostly) up-to-date list of books I at some point, have wanted to read, am rea
 | --------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Feb, 2025 | [[library/Zeno's Conscience\|Zeno's Conscience]]                                                                       |
 | Feb, 2025 | [[library/Twilight of Idols and Anti-Christ\|Twilight of Idols and Anti-Christ]]                                       |
+| Feb, 2025 | [[library/The Second Sex\|The Second Sex]]                                                                             |
 | Feb, 2025 | [[library/The Theoretical Minimum\|The Theoretical Minimum]]                                                           |
 | Feb, 2025 | [[library/The Structure of Scientific Revolutions\|The Structure of Scientific Revolutions]]                           |
 | Feb, 2025 | [[library/The Selfish Gene\|The Selfish Gene]]                                                                         |
-| Feb, 2025 | [[library/The Second Sex\|The Second Sex]]                                                                             |
 | Feb, 2025 | [[library/The School of Life - Educação Emocional\|The School of Life - Educação Emocional]]                           |
 | Feb, 2025 | [[library/The Road to Reality\|The Road to Reality]]                                                                   |
 | Feb, 2025 | [[library/The Hidden Life of Trees\|The Hidden Life of Trees]]                                                         |
@@ -46,6 +46,7 @@ A (mostly) up-to-date list of books I at some point, have wanted to read, am rea
 | Feb, 2025 | [[library/Madame Bovary\|Madame Bovary]]                                                                               |
 | Feb, 2025 | [[library/Life 3.0\|Life 3.0]]                                                                                         |
 | Feb, 2025 | [[library/Leonardo da Vinci\|Leonardo da Vinci]]                                                                       |
+| Feb, 2025 | [[library/Justiça\|Justiça]]                                                                                           |
 | Feb, 2025 | [[library/How to Think Like a Roman Emperor\|How to Think Like a Roman Emperor]]                                       |
 | Feb, 2025 | [[library/How Emotions Are Made\|How Emotions Are Made]]                                                               |
 | Feb, 2025 | [[library/House of Leaves\|House of Leaves]]                                                                           |
@@ -70,7 +71,6 @@ A (mostly) up-to-date list of books I at some point, have wanted to read, am rea
 | Feb, 2025 | [[library/A origem das espécies\|A origem das espécies]]                                                               |
 | Feb, 2025 | [[library/A Peste\|A Peste]]                                                                                           |
 | Feb, 2025 | [[library/A Boy and His Dog at the End of the World\|A Boy and His Dog at the End of the World]]                       |
-| Feb, 2025 | [[library/Justiça\|Justiça]]                                                                                           |
 
 # **On the Backpack**
 Books caught in transit—half-read, dog-eared, and carried from place to place. These are the ones keeping me company in the in-between moments, constantly revisited but never quite at rest.
