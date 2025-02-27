@@ -24,7 +24,7 @@ When I’m not buried in books, I’m either making people laugh as a [[library/
 > - `October, 2024` I got a Stereo Mind Game Vinyl!
 > - `August, 2024` I moved to a new apartment!
 
-Feel free to explore the many winding paths of this linked space. If I may suggest, the best way to navigate all the content is through the [tag index](/tags/) or the [recent writing](/library/) index if you prefer a bit of ordered chaos. However, if you truly thrive on entropy - *you mischievous soul* - click on the Graph View!
+Feel free to explore the many winding paths of this linked space. If I may suggest, the best way to navigate all the content is through the [tag index](/tags/) or the [recent writing index](/library/) if you prefer a bit of ordered chaos. However, if you truly thrive on entropy - *you mischievous soul* - click on the Graph View!
 
 Still undecided? Check out these collections:
 - [[The Radio Silence Atrium\|The Radio Silence Atrium]]: a collection of my favorite thoughts and stream-of-consciousness musings, etched into writing;
