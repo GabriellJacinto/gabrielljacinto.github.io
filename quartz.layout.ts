@@ -6,6 +6,7 @@ const socialLinks = {
   Email: { url: "mailto:gabriellimajacinto@gmail.com", icon: "fa fa-envelope" },
   Curriculum_Vitae: { url: "https://gabrielljacinto.com/cv/", icon: "fa fa-id-card" },
   GitHub: { url: "https://github.com/gabrielljacinto", icon: "fab fa-github" },
+  Codeforces: { url: "https://codeforces.com/profile/orion23", icon: "fa fa-chart-simple" },
   Kaggle: { url: "https://www.kaggle.com/orion2342", icon: "fab fa-kaggle" },
   ORCID: { url: "https://orcid.org/0000-0002-9258-8045", icon: "fab fa-orcid" },
   Lattes: { url: "http://lattes.cnpq.br/7398702131851254", icon: "fa fa-location-dot" },
@@ -15,7 +16,6 @@ const socialLinks = {
   LinkedIn: { url: "https://www.linkedin.com/in/gabriel-lima-jacinto/", icon: "fab fa-linkedin" },
   Instagram: { url: "https://www.instagram.com/gabriellimajacinto/", icon: "fab fa-instagram" },
   // Pinterest: { url: "https://br.pinterest.com/gabrielljacinto/", icon: "fab fa-pinterest" },
-  // Codeforces: { url: "https://codeforces.com/profile/gabrielljacinto", icon: "fa fa-code" },
 };
 
 // components shared across all pages

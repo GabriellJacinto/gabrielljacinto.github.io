@@ -1,5 +1,5 @@
 ---
-{"title":"gabriellimajacinto.com","description":"I'm not just a computer scientist; I'm a passionate individual who blends technical expertise with a diverse range of interests and community engagement.","tags":[],"publish":true,"PassFrontmatter":true}
+{"title":"gabriel.","description":"I'm not just a computer scientist; I'm a passionate individual who blends technical expertise with a diverse range of interests and community engagement.","tags":[],"publish":true,"PassFrontmatter":true}
 ---
 
 
