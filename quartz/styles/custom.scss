@@ -8,6 +8,18 @@ body[data-slug="index"] img {
   opacity: 0.85;
 }
 
+.red {
+  color: color-mix(in srgb, var(--dark) 40%, red);
+}
+
+.yellow {
+  color: color-mix(in srgb, var(--dark) 40%, rgb(255, 220, 73)); //rgb(182, 116, 17)
+}
+
+.blue {
+  color: color-mix(in srgb, var(--dark) 40%, rgb(82, 156, 202));
+}
+
 body {
   position: relative;
   min-height: 100vh;
