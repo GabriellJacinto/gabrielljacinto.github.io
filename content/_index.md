@@ -2,6 +2,13 @@
 {"title":"gabriel.","description":"I'm not just a computer scientist; I'm a passionate individual who blends technical expertise with a diverse range of interests and community engagement.","tags":null,"publish":true,"PassFrontmatter":true}
 ---
 
+```poetry
+Hey there, you little stalker!
+```
+
+I'm a tech-loving, library-dwelling, talkative nerd with a knack for both software and hardware.
+
+Here is my [[Curriculum Vitae\|Curriculum Vitae]]. <!-- Presently working on (...) @ (...). --> 
 
 > [!abstract]- Current Fascinations
 > 1. Neuromorphic Systems
@@ -9,14 +16,6 @@
 > 3. Surfing
 > 4. Loop Improvisation
 > 5. Silly dad jokes & Magic tricks
-
-```poetry
-Hey there, you little stalker!
-```
-
-I'm a tech-loving, library-dwelling, talkative nerd with a knack for both software and hardware.
-
-Here is my [[library/Curriculum Vitae\|Curriculum Vitae]]. <!-- Presently working on (...) @ (...). --> 
 
 When I’m not buried in books, I’m either making people laugh as a [[library/NUHAS\|Clown Doctor]], jamming on [[library/Live Loops\|multiple instruments]], or chasing my next [[adrenaline rush\|adrenaline rush]].
 
