@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["book/nonfiction","done"],"topic":"[[Artificial Intelligence]]","start":"2018-06-15","finish":"2020-08-19","author":"[[Brian Christian]]","year":2011,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book/nonfiction" ],"topic":"[[Artificial Intelligence]]","start":"2018-06-15","finish":"2020-08-19","author":"[[Brian Christian]]","year":2011,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How The Most Human Human Changed Me

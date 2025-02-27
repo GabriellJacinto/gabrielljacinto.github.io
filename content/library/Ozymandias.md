@@ -1,5 +1,5 @@
 ---
-{"date":"2023-10-05","tags":["poem","done"],"topic":"[[Death]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-10-05","tags":["poem" ],"topic":"[[Death]]","publish":true,"PassFrontmatter":true}
 ---
 
 ```elite

@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-03","tags":["poem","done"],"topic":"[[Existentialism]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["poem" ],"topic":"[[Existentialism]]","publish":true,"PassFrontmatter":true}
 ---
 
 ![earth-from-saturn.jpg](../files/earth-from-saturn.jpg)
@@ -64,4 +64,4 @@ But I shall **become the abyss** this rock gazes upon!
 huh...
 So this is it.
 ```
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Wicked Condition 
+\- [[\|Gabriel Lima Jacinto]], Wicked Condition 

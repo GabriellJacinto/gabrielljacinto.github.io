@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-29","tags":["thought","done"],"topic":"[[Metaphor]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-09-29","tags":["thought", ],"topic":"[[Metaphor]]","publish":true,"PassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"date":"2024-10-20","tags":["scientific-paper","done"],"topic":"[[PIC]]","author":null,"year":2019,"implemented":false,"publish":true,"PassFrontmatter":true}
+{"date":"2024-10-20","tags":["scientific-paper" ],"topic":"[[PIC]]","author":null,"year":2019,"implemented":false,"publish":true,"PassFrontmatter":true}
 ---
 
 [[A_Highly_Accurate_Machine_Learning_Approach_to_Mod_230815_102713 (1).pdf|source]]

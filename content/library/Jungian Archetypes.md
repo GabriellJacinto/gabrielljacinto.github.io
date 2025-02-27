@@ -1,5 +1,5 @@
 ---
-{"date":"2024-07-10","tags":["info","done"],"topic":"[[Carl Jung]]","sr-due":"2025-02-22","sr-interval":1,"sr-ease":210,"publish":true,"PassFrontmatter":true}
+{"date":"2024-07-10","tags":["info" ],"topic":"[[Carl Jung]]","sr-due":"2025-02-22","sr-interval":1,"sr-ease":210,"publish":true,"PassFrontmatter":true}
 ---
 
 Carl Jung, a Swiss psychiatrist and psychoanalyst, introduced the concept of archetypes, which are universal, archaic symbols and images that derive from the collective unconscious. Here are the 12 Jungian archetypes:

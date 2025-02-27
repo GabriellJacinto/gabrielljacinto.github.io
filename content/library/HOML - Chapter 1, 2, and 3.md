@@ -1,5 +1,5 @@
 ---
-{"date":"2023-12-12","tags":["info/lesson","done"],"topic":"[[Machine Learnig]]","class":"[[Courses#^ddc1b1|Hands-On Machine Learning]]","professor":"Aurélien Géron","place":"Coffee Shop","publish":true,"PassFrontmatter":true}
+{"date":"2023-12-12","tags":["info/lesson"],"topic":"[[Machine Learnig]]","class":"[[Courses#^ddc1b1|Hands-On Machine Learning]]","professor":"Aurélien Géron","place":"Coffee Shop","publish":true,"PassFrontmatter":true}
 ---
 
 # Types of Machine Learning Systems
@@ -111,7 +111,7 @@ There are two other classes of classifiers: the [[Multi-label Classifiers\|multi
 
 ___
 # Questions (by ChatGPT)
-#flashcards/homl
+#homl
 
 Evaluate a classification model using a method suitable for skewed datasets :: Cross-Validation is often used to evaluate classification models on k-folds, but accuracy may be inadequate for skewed datasets. Instead, metrics based on the Confusion Matrix provide a more insightful analysis.
 <!--SR:!2023-12-23,1,210-->

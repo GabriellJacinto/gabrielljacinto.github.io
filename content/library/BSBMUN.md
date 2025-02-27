@@ -1,5 +1,5 @@
 ---
-{"date":"2023-09-08","tags":["project/post-mortem","done"],"topic":"[[Debate]]","publish":true,"description":"Brasília's Model United Nations","PassFrontmatter":true}
+{"date":"2023-09-08","tags":["project/post-mortem"],"topic":"[[Debate]]","publish":true,"description":"Brasília's Model United Nations","PassFrontmatter":true}
 ---
 
 [[2016\|2016]]
@@ -8,7 +8,7 @@ Foi a primeira simulação das nações unidas que eu participei. Fui principalm
 
 O que eu aprendi exatamente dessa experiência? Especificamente sobre MUNs é que é sempre mais fácil de fazer as coisas se você possuir um plano de antemão e um discurso de abertura pronto e decorado (porque é mais desafiante mas dentro dos limites desconfortável, fugindo da improvisação). 
 
-Eu diria que foi uma experiência 4/10. Foi definitivamente mais legal uma vez que terminei. Lembro de ter feito a [[library/Maria Luiza Barreto Côrtes\|Maria Luiza Barreto Côrtes]] rir por arrancar o crachá pelo pescoço, o que arrebentou a cordinha de plástico. Também lembro da sagacidade do [[gabriel.jpeg|Gabriel]] ao perceber duas meninas tirando fotos sozinhas e ele tomou a oportunidade para conversar com elas. 
+Eu diria que foi uma experiência 4/10. Foi definitivamente mais legal uma vez que terminei. Lembro de ter feito a `redacted` rir por arrancar o crachá pelo pescoço, o que arrebentou a cordinha de plástico. Também lembro da sagacidade do `redacted` ao perceber duas meninas tirando fotos sozinhas e ele tomou a oportunidade para conversar com elas. 
 
 No escopo maior, acho que o que realmente pude tirar dessa experiência foi o que aprendi com todas as oportunidades que participei e de alguma forma foi mais frustante do que recompensador: não se envolva em atividades em que você não tem uma objetivo bem definido para ela (nem que seja só "experimentar", pois pelo menos assim você terá motivo para fazer as coisas que estão sendo propostas ao invés de ficar só sentado tomando um chá de cadeira por 10h). 
 

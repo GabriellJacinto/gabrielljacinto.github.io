@@ -1,5 +1,5 @@
 ---
-{"date":"2023-04-26","tags":["thought","done"],"topic":"[[Existentialism]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-04-26","tags":["thought"],"topic":"[[Existentialism]]","publish":true,"PassFrontmatter":true}
 ---
 
 You choose purpose, you don’t find or somebody or the universe has drawn for you in some form of destiny. <span class="red">YOU CHOOSE PURPOSE</span>, I can't stress this enough. Most people just let this be an unconscious decision and so they call it fate, don't be like most people. Just pick and stick to it. 

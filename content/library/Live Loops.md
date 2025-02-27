@@ -1,5 +1,5 @@
 ---
-{"date":"2023-11-04","tags":["project","in-progress"],"topic":"[[Music]]","publish":true,"description":"Mastering expression across instruments and crafting a sound that’s uniquely mine","PassFrontmatter":true}
+{"date":"2023-11-04","tags":["project"],"topic":"[[Music]]","publish":true,"description":"Mastering expression across instruments and crafting a sound that’s uniquely mine","PassFrontmatter":true}
 ---
 
 >[!info] Description 

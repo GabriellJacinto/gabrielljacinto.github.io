@@ -1,5 +1,5 @@
 ---
-{"date":"2023-03-12","tags":["thought","done"],"topic":"[[Consciousness]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-03-12","tags":["thought" ],"topic":"[[Consciousness]]","publish":true,"PassFrontmatter":true}
 ---
 
 The concept of the conscious and unconscious mind was first introduced by Sigmund Freud, the father of psychoanalysis. According to Freud, the unconscious mind is the part of our psyche that contains all of our repressed memories, desires, and fears. The conscious mind, on the other hand, is the part of our psyche that we are aware of and can control.

@@ -1,5 +1,5 @@
 ---
-{"date":"2023-12-13","tags":["poem","done"],"topic":null,"publish":true,"PassFrontmatter":true}
+{"date":"2023-12-13","tags":["poem" ],"topic":null,"publish":true,"PassFrontmatter":true}
 ---
 
 ```elite
@@ -33,4 +33,4 @@ Let the insecurities dissolve
 Because once the path is clear
 You'll reach your goal.
 ```
-\- [[Gabriel Lima Jacinto\|Gabriel Lima Jacinto]], Free fall ([[library/Visual Poetry\|Visual Poetry]])
+\- [[\|Gabriel Lima Jacinto]], Free fall ([[library/Visual Poetry\|Visual Poetry]])
