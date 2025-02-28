@@ -11,10 +11,10 @@ A (mostly) up-to-date list of books I at some point, have wanted to read, am rea
 | --------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Feb, 2025 | [[library/Zeno's Conscience\|Zeno's Conscience]]                                                                       |
 | Feb, 2025 | [[library/Twilight of Idols and Anti-Christ\|Twilight of Idols and Anti-Christ]]                                       |
-| Feb, 2025 | [[library/The Second Sex\|The Second Sex]]                                                                             |
 | Feb, 2025 | [[library/The Theoretical Minimum\|The Theoretical Minimum]]                                                           |
 | Feb, 2025 | [[library/The Structure of Scientific Revolutions\|The Structure of Scientific Revolutions]]                           |
 | Feb, 2025 | [[library/The Selfish Gene\|The Selfish Gene]]                                                                         |
+| Feb, 2025 | [[library/The Second Sex\|The Second Sex]]                                                                             |
 | Feb, 2025 | [[library/The School of Life - Educação Emocional\|The School of Life - Educação Emocional]]                           |
 | Feb, 2025 | [[library/The Road to Reality\|The Road to Reality]]                                                                   |
 | Feb, 2025 | [[library/The Hidden Life of Trees\|The Hidden Life of Trees]]                                                         |
