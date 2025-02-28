@@ -1,5 +1,5 @@
 ---
-{"title":"gabriel.","description":"I'm not just a computer scientist; I'm a passionate individual who blends technical expertise with a diverse range of interests and community engagement.","tags":null,"publish":true,"PassFrontmatter":true}
+{"title":"Gabriel Lima Jacinto","description":"I'm not just a computer scientist; I'm a passionate individual who blends technical expertise with a diverse range of interests and community engagement.","tags":null,"publish":true,"PassFrontmatter":true}
 ---
 
 ```poetry
@@ -8,7 +8,7 @@ Hey there, you little stalker!
 
 I'm a tech-loving, library-dwelling, talkative nerd with a knack for both software and hardware.
 
-Here is my [[Curriculum Vitae\|Curriculum Vitae]]. <!-- Presently working on (...) @ (...). --> 
+Here is my [[Curriculum Vitae\|Curriculum Vitae]]. <!-- Presently working as (...) on (...) @ (...). --> 
 
 > [!abstract]- Current Fascinations
 > 1. Neuromorphic Systems
