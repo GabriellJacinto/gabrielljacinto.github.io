@@ -13,7 +13,6 @@ Tinkering, testing, and occasionally breaking things—these projects are still 
 | Sep, 2023 | [[library/riakOS (Projeto C004)\|riakOS (Projeto C004)]] | Solução em Software para Controle de Progresso de Atividades                                  |
 | Sep, 2023 | [[library/Visual Poetry\|Visual Poetry]]                 | Creative experiment in weaving words, sound, and visuals into a single, evocative experience. |
 | Sep, 2023 | [[library/Projeto C003\|Projeto C003]]                   | Marketing Pessoal e Gerenciamento de Presença Digital                                         |
-| Sep, 2023 | [[library/GAKKO\|GAKKO]]                                 | 2-week summer camp in Burgundy, France                                                        |
 | Sep, 2023 | [[library/D.B.W\|D.B.W]]                                 | A collection of my favorite melancholy                                                        |
 
 
