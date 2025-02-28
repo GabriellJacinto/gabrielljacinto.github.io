@@ -13,8 +13,8 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: 'umami', 
-      host: 'https://umami-rw54.onrender.com/script.js', 
-      websiteId: '451a16d5-84d2-4f4b-8519-cb4032294b10'
+      host: 'https://analytics.gabriellimajacinto.com/script.js', 
+      websiteId: '55d61f42-66df-42c5-8705-15acc8a4007f'
     },
     locale: "en-US",
     baseUrl: "gabriellimajacinto.com",
