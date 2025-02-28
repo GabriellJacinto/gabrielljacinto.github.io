@@ -12,7 +12,9 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: 'umami', 
+      host: 'https://umami-rw54.onrender.com/script.js', 
+      websiteId: '451a16d5-84d2-4f4b-8519-cb4032294b10'
     },
     locale: "en-US",
     baseUrl: "gabriellimajacinto.com",

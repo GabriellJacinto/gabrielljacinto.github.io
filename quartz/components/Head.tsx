@@ -157,6 +157,7 @@ export default (() => {
 
     return (
       <head>
+        <script defer src="https://umami-rw54.onrender.com/script.js" data-website-id="451a16d5-84d2-4f4b-8519-cb4032294b10"></script>
         <link
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
