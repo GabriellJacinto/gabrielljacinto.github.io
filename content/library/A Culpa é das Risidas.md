@@ -1,5 +1,5 @@
 ---
-{"date":null,"tags":["project" ],"topic":"[[Script]]","publish":true,"PassFrontmatter":true}
+{"date":"2023-10-11","tags":["project" ],"topic":"[[Script]]","publish":true,"PassFrontmatter":true}
 ---
 
 >[!info] Descrição
