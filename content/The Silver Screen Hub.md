@@ -68,11 +68,16 @@ An ever-growing list of media waiting to be played, watched, or listened to. Som
 
 # **Now Playing** 
 Content currently being consumed—whether it’s a film I’m dissecting, a game I’m immersed in, or a series I can’t stop watching. Expect shifting genres, unexpected detours, and the occasional deep dive.
-| Date      | Title                               |
-| --------- | ----------------------------------- |
-| Sep, 2023 | [[library/Mr. Robot\|Mr. Robot]] |
+| Date      | Title                                       |
+| --------- | ------------------------------------------- |
+| Feb, 2025 | [[library/Quiet Me Down\|Quiet Me Down]] |
+| Sep, 2023 | [[library/Mr. Robot\|Mr. Robot]]         |
 
 # **The Credits Roll**
 Stories that have run their course, for better or worse. Some left an impact, others faded into the static, but all earned their place in the archive of things I’ve experienced.
-| Date | Title |
-| ---- | ----- |
+| Date      | Title                                                                                 |
+| --------- | ------------------------------------------------------------------------------------- |
+| Feb, 2025 | [[library/Tiro ao Álvaro\|Tiro ao Álvaro]]                                         |
+| Feb, 2025 | [[library/Dorian\|Dorian]]                                                         |
+| Feb, 2025 | [[library/I Love You But I Need Another Year\|I Love You But I Need Another Year]] |
+| Feb, 2025 | [[library/Spies\|Spies]]                                                           |
