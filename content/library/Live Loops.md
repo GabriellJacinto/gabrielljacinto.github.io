@@ -6,7 +6,7 @@
 >Learn sax, guitar, cello and piano to be like [[French Kiwi Juice\|FKJ]] and [[Frank Zappa\|Zappa]].
 
 ## Triad I
-Vou começar com três músicas, que é justamente o limite do pedal de loop. Lembro de ter testado [[Time is Dancing - Ben Howard\|Time is Dancing - Ben Howard]], [[Youth - Daughter\|Youth - Daughter]] e [[Quiet Me Down - Ben Howard\|Quiet Me Down - Ben Howard]]. Essas duas últimas ficaram melhores, apesar de que eu ainda tinha que acertar o tom e o tempo delas. Mas uma vez que pensei melhor sobre a logística de gravação, decidi que é mais produtivo testar essa vez como uma produção musical e depois adaptar para um live loop, a razão principal sendo as limitações do meu equipamento já que só tenho um pedal que faz o loop e outro que faz os efeitos, além de uma caixa de som muito ruim que seria péssimo para gravar o som. 
+Vou começar com três músicas, que é justamente o limite do pedal de loop. Lembro de ter testado [[Time is Dancing - Ben Howard\|Time is Dancing - Ben Howard]], [[Youth - Daughter\|Youth - Daughter]] e [[library/Quiet Me Down|Quiet Me Down - Ben Howard]]. Essas duas últimas ficaram melhores, apesar de que eu ainda tinha que acertar o tom e o tempo delas. Mas uma vez que pensei melhor sobre a logística de gravação, decidi que é mais produtivo testar essa vez como uma produção musical e depois adaptar para um live loop, a razão principal sendo as limitações do meu equipamento já que só tenho um pedal que faz o loop e outro que faz os efeitos, além de uma caixa de som muito ruim que seria péssimo para gravar o som. 
 
 Então como consigo já salvar os loops em .wav no pedal, vou gravar ali dentro o áudio primeiramente e depois penso na filmagem. Assim consigo até "masterizar" os covers e colocar backing tracks. De forma geral, todo cover live loop tem que ter percussão, melodia e harmonia. 
 
@@ -29,7 +29,7 @@ Essa estratégia de editar as gravações dos instrumentos das músicas e vender
 
 ## Triad II
 
-### [[Quiet Me Down - Ben Howard\|Quiet Me Down - Ben Howard]]
+### [[library/Quiet Me Down|Quiet Me Down - Ben Howard]]
 
 ### [[Sparks - Coldplay\|Sparks - Coldplay]]
 

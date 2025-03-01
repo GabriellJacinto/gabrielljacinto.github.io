@@ -1,5 +1,5 @@
 ---
-{"date":"2025-02-28","tags":["media/music","done"],"topic":"[[Samba]]","author":"[[Elis Regina]]","year":1960,"publish":true,"PassFrontmatter":true}
+{"date":"2025-02-28","tags":["media/music"],"topic":"[[Samba]]","author":"[[Elis Regina]]","year":1960,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done] How Tiro ao Álvaro Changed Me
@@ -8,7 +8,7 @@
 # Transcription
 A samba classic filled with playful wordplay, humor, and that unmistakable Elis Regina charm. It’s a song that winks at you while tapping its feet.
 
-![[score-tiro-ao-alvaro.pdf]]
+![[files/score-tiro-ao-alvaro.pdf]]
 
 # Notes
 Feels so fresh to play the theme of this song on the [[Saxophone\|Saxophone]], I love the range between the [[Octave\|octaves]]. 

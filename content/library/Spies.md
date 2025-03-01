@@ -1,5 +1,5 @@
 ---
-{"date":"2025-02-28","tags":["media/music","done"],"topic":"[[Indie]]","author":"[[Coldplay\|Coldplay]]","year":2000,"publish":true,"PassFrontmatter":true}
+{"date":"2025-02-28","tags":["media/music"],"topic":"[[Indie]]","author":"[[Coldplay|Coldplay]]","year":2000,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How Spies Changed Me
@@ -8,7 +8,7 @@
 # Transcription
 Part of [[Parachutes\|Parachutes]], this song combines eerie melodies with cryptic lyrics, making you feel like you’re being watched—but in a poetic way, not a creepy way, I promise.
 
-![[score-spies.pdf]]
+![[files/score-spies.pdf]]
 
 # Notes
 I didn't really have a good time executing this one on the [[Saxophone\|Saxophone]] to be frank. This made me realize that some songs are just inevitably better with some improvised notes to spice things up. I think songs that tend to repeat a lot the theme are more prone to this dissatisfaction. 

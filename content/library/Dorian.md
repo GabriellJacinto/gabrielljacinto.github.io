@@ -1,5 +1,5 @@
 ---
-{"date":"2025-02-28","tags":["media/music","done"],"topic":"[[Indie]]","author":"[[Agnes Obel\|Agnes Obel]]","year":2013,"publish":true,"PassFrontmatter":true}
+{"date":"2025-02-28","tags":["media/music"],"topic":"[[Indie]]","author":"[[Agnes Obel|Agnes Obel]]","year":2013,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How Dorian Changed Me
@@ -8,7 +8,7 @@
 # Transcription
 A song that sounds like it was plucked straight from a dream—elegant, haunting, and mesmerizing.
 
-![[score-dorian.pdf]]
+![[files/score-dorian.pdf]]
 
 # Notes
 Another one with some great [[Octave\|octave]] range play. Just delightful to play on the [[Saxophone\|Saxophone]], even though I have a hard time to remember it fully.
