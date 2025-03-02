@@ -35,12 +35,18 @@ Questions without clear origins or destinations, drifting through the brain stat
 | Jul, 2023 | [[_Tablet/_library/Eu imagino se existe uma forma melhor de mensurar o tempo que não seja por contagem.\|Eu imagino se existe uma forma melhor de mensurar o tempo que não seja por contagem.]] |
 
 # Data Pulse
-A reservoir of knowledge—facts and references digested over time. Whether a fleeting curiosity or a well-researched study, every entry adds to the signal, cutting through the noise.
-| Date      | Title                                                                                   |
-| --------- | --------------------------------------------------------------------------------------- |
-| Jul, 2024 | [[library/Jungian Archetypes\|Jungian Archetypes]]                                   |
-| Jul, 2024 | [[library/Dr. Jacinto Alegria\|Dr. Jacinto Alegria]]                                 |
-| Jul, 2024 | [[library/Dr. Capitão\|Dr. Capitão]]                                                 |
-| Jul, 2024 | [[library/Character Development Questionnaire\|Character Development Questionnaire]] |
-| Dec, 2023 | [[library/HOML - Chapter 1, 2, and 3\|HOML - Chapter 1, 2, and 3]]                   |
-| Sep, 2023 | [[library/Antigo testamento e eletroestática\|Antigo testamento e eletroestática]]   |
+A reservoir of knowledge—facts and references digested over time. Whether a fleeting curiosity, insightful quote or a well-researched study, every entry adds to the signal, cutting through the noise.
+| Date      | Title                                                                                                         |
+| --------- | ------------------------------------------------------------------------------------------------------------- |
+| Mar, 2025 | [[library/Hemingway on The Old Man and The Sea Symbolism\|Hemingway on The Old Man and The Sea Symbolism]] |
+| Feb, 2025 | [[library/Virginia's Wandering Restlessness\|Virginia's Wandering Restlessness]]                           |
+| Feb, 2025 | [[library/Between Love, Liquor, and the Abyss\|Between Love, Liquor, and the Abyss]]                       |
+| Jul, 2024 | [[library/Jungian Archetypes\|Jungian Archetypes]]                                                         |
+| Jul, 2024 | [[library/Dr. Jacinto Alegria\|Dr. Jacinto Alegria]]                                                       |
+| Jul, 2024 | [[library/Dr. Capitão\|Dr. Capitão]]                                                                       |
+| Jul, 2024 | [[library/Character Development Questionnaire\|Character Development Questionnaire]]                       |
+| Dec, 2023 | [[library/HOML - Chapter 1, 2, and 3\|HOML - Chapter 1, 2, and 3]]                                         |
+| Sep, 2023 | [[library/O Céu do Sprawl\|O Céu do Sprawl]]                                                               |
+| Sep, 2023 | [[library/Meursault, Esperando Godot e árvore morta\|Meursault, Esperando Godot e árvore morta]]           |
+| Sep, 2023 | [[library/Antigo testamento e eletroestática\|Antigo testamento e eletroestática]]                         |
+
