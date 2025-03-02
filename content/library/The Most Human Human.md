@@ -1,11 +1,16 @@
 ---
-{"date":"2023-09-03","tags":["book/nonfiction" ],"topic":"[[Artificial Intelligence]]","start":"2018-06-15","finish":"2020-08-19","author":"[[Brian Christian]]","year":2011,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book/nonfiction","done"],"topic":"[[Artificial Intelligence]]","start":"2018-06-15","finish":"2020-08-19","author":"[[Brian Christian]]","year":2011,"publish":true,"PassFrontmatter":true}
 ---
 
->[!done]+ How The Most Human Human Changed Me
->Foi o primeiro livro de não ficção sobre inteligência artificial que li. Foi fundamental para entender um pouco sobre as consequências filosóficas por trás da criação de sistemas inteligentes, além de outros conhecimentos gerais bem enriquecedores, por mais que não muito coesos com a estruturação do livro. Deu-me uma primeira definição de [[library/Ser humano é ser emulsão\|o que é ser humano]]
+>[!done]+ How *The Most Human Human* Changed Me
+>This was my first dive into non-fiction AI, and let me tell you, it was a wild ride. The book’s attempt to tackle the philosophical consequences of creating intelligent systems was as ambitious as it was... loosely structured. It gave me a first glimpse into [[library/Ser humano é ser emulsão\|what it might mean to be human]]—though not in any way I’d call clear or definitive. But hey, at least it tried to give us something more profound than "just be yourself."
 
->[!done]+ Three-Sentence Summary {Feynman's Technique}
->1. Homem decide participar em uma competição que realiza o [[Teste de Turing\|Teste de Turing]] para ganhar o prêmio de humano mais humano
->2. Ele decide documentar sua estratégia e sua pesquisa de como realizar tal objetivo
->3. No caminho ele compartilha o que o processo de se provar mais humano que uma inteligência artificial o ensinou sobre o que significa ser humano.
+>[!done]+ eli5.txt
+> \> guy enters this ridiculous competition 
+> \> you’re supposed to prove you’re more human than a robot
+> \> if successful, win the title: "Most Human Human"
+> \> spends the whole book obsessing over how to out-human a bunch of AI 
+> \> documents his quest like it’s the most important thing ever
+> \> somehow discovers that being human isn’t about winning arbitrary awards
+> \> it is about being... well, a mess with feelings and wide range of interests 
+> \> who would thought.jpeg

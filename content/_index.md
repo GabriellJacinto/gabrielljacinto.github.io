@@ -19,7 +19,7 @@ Here is my [[Curriculum Vitae\|Curriculum Vitae]]. <!-- Presently working as (..
 
 When I’m not buried in books, I’m either making people laugh as a [[library/NUHAS\|Clown Doctor]], jamming on [[library/Live Loops\|multiple instruments]], or chasing my next [[adrenaline rush\|adrenaline rush]].
 
-> [!tip] [[Kernel Logs\|Latest Kernel Developments]]
+> [!tip] [[The Kernel Logs\|Latest Kernel Developments]]
 > - `December, 2024` I travalled to Salvador, Bahia!
 > - `October, 2024` I got a Stereo Mind Game Vinyl!
 > - `August, 2024` I moved to a new apartment!

@@ -1,14 +1,18 @@
 ---
-{"date":"2023-09-03","tags":["book/fiction"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book/fiction","done"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
 ---
 
->[!done]+ How L'Étranger Changed Me
->Esquecer da morte é recorrente durante a vida, esse livro é um ótimo refresco da inevitabilidade e indiferença do fato. Em certo sentido esse livro me indicou a simplicidade que é viver uma vida sem um propósito, focada apenas no prazer de atividades rotineiras como [[library/Meursault sobre felicidade\|tomar sorvete e ver transeuntes]]. Não me convenceu a aderir a filosofia absurda, mas mostrou um ideal não longe da praticidade.
+>[!done]+ How *L'Étranger* Changed Me
+>Forgetting about death is a recurring theme in life, and this book is a refreshing reminder of the inevitability and indifference of it. In a sense, it showed me the simplicity of living a life without purpose, focusing only on the pleasure of routine activities like [[library/Meursault sobre felicidade\|eating ice cream and watching passersby]]. It didn't convince me to adopt [[Absurdism\|Absurdism]], but it presented an ideal that’s not too far from practicality.
 
->[!done]+ Three-Sentence Summary
->1. Um homem descobre que a mãe morreu. Durante o funeral se sente mal e diz que a culpa era do sol, mas de forma geral percebe que o falecimento não mudou muito sua vida. 
->2. Segue-se uma rotina normal até que em uma viagem com amigos a uma casa de praia, o homem se envolve em uma confusão com árabes e acaba matando com cinco tiros um deles. Culpa-se o sol forte da praia.
->3. O homem é preso e julgado em um tribunal absurdo que leva em consideração sua indiferença sobre a morte da mãe e é condenado a guilhotina. 
+>[!done]+ eli5.txt
+> \> guy finds out his mom died, doesn't feel much
+> \> during the funeral, he blames the sun for making him uncomfortable
+> \> keeps living his life like it’s nothing new
+> \> goes to a beach with friends, gets in a fight with some Arabs
+> \> shoots one of them five times, blames the sun again
+> \> gets arrested and put on trial for being indifferent about his mom’s death
+> \> sentenced to the guillotine because he doesn’t play the "right" emotional game
 
 # Notes
 
@@ -180,7 +184,7 @@ Já que Meursault está preso, ele reflete bastante sobre liberdade individual e
 Gostei muito dessa ilustração que me lembrou de “[[Esperando Godot\|Esperando Godot]]”, que muito provavelmente tirou a inspiração do cenário daqui:
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/Meursault-Esperando-Godot-e-arvore-morta" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

@@ -87,27 +87,33 @@ Books caught in transit—half-read, dog-eared, and carried from place to place.
 
 # **On the Past**
 Stories that have left their mark, lessons learned, and worlds explored. Now they rest quietly among the [[The Radio Silence Atrium\|echoes of my mind]].
-| Date      | Title                                                                                 |
-| --------- | ------------------------------------------------------------------------------------- |
-| Feb, 2024 | [[library/Countzero\|Countzero]]                                                   |
-| Mar, 2023 | [[library/Neuromancer\|Neuromancer]]                                               |
-| Jan, 2021 | [[library/Dune\|Dune]]                                                             |
-| Aug, 2020 | [[library/The Most Human Human\|The Most Human Human]]                             |
-| Apr, 2020 | [[library/Recursão\|Recursão]]                                                     |
-| Mar, 2020 | [[library/Dark Matter\|Dark Matter]]                                               |
-| Mar, 2020 | [[library/L’existentialisme est un Humanisme\|L’existentialisme est un Humanisme]] |
-| Jan, 2020 | [[library/L'Étranger\|L'Étranger]]                                                 |
-| Dec, 2019 | [[library/Aniquilação\|Aniquilação]]                                               |
-| Mar, 2019 | [[library/A Máquina do Tempo\|A Máquina do Tempo]]                                 |
-| Mar, 2017 | [[library/Do amor e outros demônios\|Do amor e outros demônios]]                   |
-| Aug, 2016 | [[library/O Cavaleiro Inexistente\|O Cavaleiro Inexistente]]                       |
-| Jul, 2016 | [[library/Vidas secas\|Vidas secas]]                                               |
-| Jul, 2015 | [[library/Memórias Póstumas de Brás Cubas\|Memórias Póstumas de Brás Cubas]]       |
-| Mar, 2015 | [[library/Os miseráveis\|Os miseráveis]]                                           |
-| Feb, 2015 | [[library/A Metamorfose\|A Metamorfose]]                                           |
-| Jul, 2014 | [[library/O menino do pijama listrado\|O menino do pijama listrado]]               |
-| Dec, 2013 | [[library/A Study in Scarlet\|A Study in Scarlet]]                                 |
-| Mar, 2013 | [[library/O Conde de Monte Cristo\|O Conde de Monte Cristo]]                       |
-| Apr, 2012 | [[library/20000 Leagues Under the Sea\|20,000 Leagues Under the Sea]]              |
-| Jun, 2010 | [[library/The old man and the sea\|The old man and the sea]]                       |
+| Date      | Title                                                                                                  |
+| --------- | ------------------------------------------------------------------------------------------------------ |
+| Feb, 2024 | [[library/Count Zero\|Count Zero]]                                                                  |
+| Mar, 2023 | [[library/Neuromancer\|Neuromancer]]                                                                |
+| Jan, 2021 | [[library/Dune\|Dune]]                                                                              |
+| Aug, 2020 | [[library/The Most Human Human\|The Most Human Human]]                                              |
+| Apr, 2020 | [[library/Recursion\|Recursion]]                                                                    |
+| Mar, 2020 | [[library/Dark Matter\|Dark Matter]]                                                                |
+| Mar, 2020 | [[library/L’existentialisme est un Humanisme\|L’existentialisme est un Humanisme]]                  |
+| Jan, 2020 | [[library/L'Étranger\|L'Étranger]]                                                                  |
+| Dec, 2019 | [[library/Annihilation\|Annihilation]]                                                              |
+| Mar, 2019 | [[library/The Time Machine\|The Time Machine]]                                                      |
+| Mar, 2017 | [[library/Del amor y otros demonios\|Del amor y otros demonios]]                                    |
+| Aug, 2016 | [[library/Il cavaliere inesistente\|Il cavaliere inesistente]]                                      |
+| Jul, 2016 | [[library/Vidas secas\|Vidas secas]]                                                                |
+| Dec, 2015 | [[library/Eragon\|Eragon]]                                                                          |
+| Jul, 2015 | [[library/Memórias Póstumas de Brás Cubas\|Memórias Póstumas de Brás Cubas]]                        |
+| Mar, 2015 | [[library/Les Misérables\|Les Misérables]]                                                          |
+| Feb, 2015 | [[library/Die Verwandlung\|Die Verwandlung]]                                                        |
+| Jul, 2014 | [[library/The Boy in the Striped Pyjamas\|The Boy in the Striped Pyjamas]]                          |
+| Mar, 2014 | [[library/The Fault in Our Stars\|The Fault in Our Stars]]                                          |
+| Dec, 2013 | [[library/A Study in Scarlet\|A Study in Scarlet]]                                                  |
+| Aug, 2013 | [[library/Stoneheart\|Stoneheart]]                                                                  |
+| Mar, 2013 | [[library/Le Comte de Monte-Cristo\|Le Comte de Monte-Cristo]]                                      |
+| Aug, 2012 | [[library/The Maze of Bones\|The Maze of Bones]]                                                    |
+| Apr, 2012 | [[library/Vingt mille lieues sous les mers\|Vingt mille lieues sous les mers]]                      |
+| Mar, 2012 | [[library/The Lightning Thief\|The Lightning Thief]]                                                |
+| Dec, 2011 | [[library/Harry Potter The Complete Collection (1-7)\|Harry Potter: The Complete Collection (1-7)]] |
+| Jun, 2009 | [[library/The old man and the sea\|The old man and the sea]]                                        |
 

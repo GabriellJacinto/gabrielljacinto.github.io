@@ -1,14 +1,15 @@
 ---
-{"date":"2023-09-03","tags":["book/nonfiction"],"topic":"[[Philosophy]]","start":"2020-02-22","finish":"2020-03-06","author":"[[Jean-Paul Sartre]]","year":1946,"sr-due":"2024-01-22","sr-interval":25,"sr-ease":270,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book/nonfiction","done"],"topic":"[[Philosophy]]","start":"2020-02-22","finish":"2020-03-06","author":"[[Jean-Paul Sartre\|Jean-Paul Sartre]]","year":1946,"sr-due":"2024-01-22","sr-interval":25,"sr-ease":270,"publish":true,"PassFrontmatter":true}
 ---
 
->[!done]+ How L’existentialisme est un Humanisme Changed Me
->Obras literárias não possuem o poder de nos transformar, o que nos transforma é o que decidimos fazer com as informações que nos deparamos. No meu caso, a principal ideia que me ajudou a resolver questionamentos religiosos foi a necessidade humana de crer em um deus, que não passa mais dessa ação de querer atribuir significado aos fenômenos experienciados. Além disso, a consolidação da ideia de construções sociais e como o cogito pessoal e o cogito de terceiros é indispensável para a identidade e ação individual foram concreto para os alicerces que já havia construindo. 
-
+>[!done]+ How *L’existentialisme est un Humanisme* Changed Me
+> Literary works themselves don’t change us, it’s what we choose to do with the ideas they present that has the real impact. For me, one of the key takeaways was understanding humanity’s need to believe in a god—not as a truth, but as a way of creating meaning out of the chaos we experience. Furthermore, the idea that identity and action are shaped by both our own cognition and the perceptions of others strengthened the foundation of thought I had already been building about the interconnectedness of personal and social constructs.
+ 
 >[!done]+ Three-Sentence Summary
->1. Filósofo defende suas ideias por meio de um seminário após ter causado uma comoção entre a classe intelectual francesa com sua obra densa [[O Ser e o Nada\|O Ser e o Nada]].
->2. Suas ideias se baseiam na imperatividade da subjetividade humana e como isso mostra que não há essência para a experiência humana, apenas definições e construções pessoais, o que não as fazem menos reais. 
->3. Outras consequências incluem: inutilidade divina, desamparo e angústia, inexistência a priori de sentido para vida e grande responsabilidade individual e coletiva
+> \> be french philosopher
+> \> does a TED talk after his book [[library/Being and Nothingness\|Being and Nothingness]] made the French intellectuals and wannabes lose their minds
+> \> basically says "life has no built-in meaning, we just make up stuff to feel special"
+> \> concludes life has no divine meaning, we're all lost, but also completely responsible for our actions and choices
 
 # Notes
 

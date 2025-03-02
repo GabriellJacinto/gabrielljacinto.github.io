@@ -1,21 +1,25 @@
 ---
-{"date":"2023-09-03","tags":["book/fiction"],"topic":"[[Cyberpunk]]","start":"2022-08-01","finish":"2023-03-04","author":"[[Wiliam Gibson]]","year":"1983","sr-due":"2023-12-29","sr-interval":1,"sr-ease":210,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book/fiction","done"],"topic":"[[Cyberpunk]]","start":"2022-08-01","finish":"2023-03-04","author":"[[Wiliam Gibson\|Wiliam Gibson]]","year":1983,"sr-due":"2023-12-29","sr-interval":1,"sr-ease":210,"publish":true,"PassFrontmatter":true}
 ---
 
->[!done]+ How Neuromancer Changed Me
->Deixar a narrativa sem muita explicação até o ponto de inflexão dramática pode ser uma estratégia interessante desde que não se estenda muito a história a ponto de desinteressar o leitor e as informações inicialmente apresentadas sejam reutilizadas com propósito. Acho engraçado como é possível resumir algumas obras de ficção a uma página.
+>[!done]+ How _Neuromancer_ Changed Me
+> Reading this felt like getting dropped into a cyberpunk fever dream where the core plot is behind a paywall where you have to watch numerous ads to get to the bottom of it. But once I got past the cryptic jargon and William Gibson's refusal to hold my hand, I started appreciating the raw aesthetic of it all. It taught me that sometimes style matters more than clarity—and that the internet was always destined to be a dystopian mess. Another case of [[Delayed Gratification\|Delayed Gratification]], but this book could have be an email, don't you think edge master Gibson?
 
->[!done]+ Three-Sentence Summary 
->1. Em uma sociedade onde a tecnologia regula as relações, um cowboy cibernético é contratado de forma forçada para invadir uma IA com um grupo de criminosos. 
->2. Descobre-se que quem contratou essa missão foi a própria IA (Wintermute) que iria ser invadida. Ela tinha uma outra versão que estava presa (Neuromancer).
->3. No fim elas se fundem em uma só e desaparecem na Matrix.
+>[!done]+ ELI5.greentxt Summary 
+> \> depressed hacker gets hired by a mysterious employer
+> \> gets enslaved and has poison sacks put in organs
+> \> job is basically “go hack this AI (Neuromancer)”
+> \> turns out the AI itself (Wintermute) hired him to free his counterpart
+> \> AI merges with its other half and peaces out into the matrix
+> \> poison sacks were cap fr fr
+> \> still broke, still depressed, still bitchless
 
 # Notes
 
 ## 🔖 Page 311
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/library/O-Ceu-do-Sprawl" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -27,7 +31,7 @@
 </div></div>
 
 
-Esse livro foi uma montanha russa de entretenimento. Entre descrições confusas muito provavelmente devido a uma tradução um pouco inexata e outros instrumentos narrativos que agravam a desordem do domínio da história, posso dizer que no final vale a pena. É definitivamente um livro que mantém sua reputação pela criatividade, mas eu não consigo mensurar o quão impactante foi sua influência porque a maioria das invenções e bugigangas tecnológicas apresentadas eu já havia sido introduzido em outras histórias, as quais muito provavelmente tenham derivado justamente do Neuromancer. Logo, para mim, a criatividade da obra não foi algo muito surpreendente já que já espera esses elementos dentro de uma obra cyberpunk. É algo similar que tive com [[library/Dune\|Dune]] e [[A máquina do tempo\|A máquina do tempo]], dois clássicos da literatura de ficção, mas que não senti o impacto que esperava ter. Acho que preciso regular minhas expectativas quantos aos clássicos, não que sejam ruins, de forma alguma, mas sempre espero sair com o sentimento de "uau, agora entendo o quão revolucionário esse livro foi". Tenho quase certeza que tem algum nome para esse efeito psicológico, todo mundo que acompanha o Oscar anualmente para saber qual será o melhor filme sabe do que estou falando. 
+Esse livro foi uma montanha russa de entretenimento. Entre descrições confusas muito provavelmente devido a uma tradução um pouco inexata e outros instrumentos narrativos que agravam a desordem do domínio da história, posso dizer que no final vale a pena. É definitivamente um livro que mantém sua reputação pela criatividade, mas eu não consigo mensurar o quão impactante foi sua influência porque a maioria das invenções e bugigangas tecnológicas apresentadas eu já havia sido introduzido em outras histórias, as quais muito provavelmente tenham derivado justamente do Neuromancer. Logo, para mim, a criatividade da obra não foi algo muito surpreendente já que já espera esses elementos dentro de uma obra cyberpunk. É algo similar que tive com [[library/Dune\|Dune]] e [[library/The Time Machine\|The Time Machine]], dois clássicos da literatura de ficção, mas que não senti o impacto que esperava ter. Acho que preciso regular minhas expectativas quantos aos clássicos, não que sejam ruins, de forma alguma, mas sempre espero sair com o sentimento de "uau, agora entendo o quão revolucionário esse livro foi". Tenho quase certeza que tem algum nome para esse efeito psicológico, todo mundo que acompanha o Oscar anualmente para saber qual será o melhor filme sabe do que estou falando. 
 
 O mais cômico desse livro é que o autor decidiu contar a história a partir do ponto de vista do personagem principal chamado Case, que é um tipo de hacker, quero dizer, cowboy, porque hacker não era uma palavra que existia ainda em 1983. A questão é que durante boa parte do livro Case não sabe o que exatamente está acontecendo e quem está por trás da missão que ele foi contratado para realizar e assim o leitor também fica, sem saber o que exatamente é o ponto da história. É um instrumento narrativo comum para manter os leitores engajados e interessados na narrativa para saber o que está acontecendo, mas, não sei o porquê, para mim muitas vezes me pareceu monótono demais e teve definitivamente momentos em que não estava prestando atenção nas informações só porque queria acabar com o livro logo, o que é triste porque a partir do momento que ler um livro por entretenimento se torna algo como um incômodo que você faz por obrigação, perde-se o sentido de ler o livro em primeiro lugar. Não é à toa que a maioria das minhas marcações de ideias interessantes se restringiram ao primeiro capítulo.
 
