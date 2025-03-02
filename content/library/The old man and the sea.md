@@ -1,5 +1,5 @@
 ---
-{"date":"2025-02-25","tags":["book/fiction","done"],"title":"The old man and the sea","subtitle":"","author":"[[Ernest Hemingway]]","description":null,"publisher":"Hueber Verlag","publishDate":1975,"totalPage":96,"isbn10":3190001502,"isbn13":9783190001507,"topic":"[[Adventure]]","start":"2009-01-25","finish":"2009-06-25","publish":true,"PassFrontmatter":true}
+{"date":"2025-02-25","tags":["book/fiction", ],"title":"The old man and the sea","subtitle":"","author":"[[Ernest Hemingway]]","description":null,"publisher":"Hueber Verlag","publishDate":1975,"totalPage":96,"isbn10":3190001502,"isbn13":9783190001507,"topic":"[[Adventure]]","start":"2009-01-25","finish":"2009-06-25","publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How The old man and the sea Changed Me
@@ -10,7 +10,7 @@
 >Turns out, that quote is not even on the book.
 
 >[!done]+ eli5.txt
->\> be old fisherman 
+>\> be old fisherman <br>
 >\> wants to catch the village’s legendary fish and prove he's still got it  
 >\> problem: he's ancient, body falling apart  
 >\> keeps going anyway, hooks the **biggest fish ever** (longer than his boat)  
@@ -18,5 +18,5 @@
 >\> *sharks has entered the chat*: “nom nom free sushi nom nom”  
 >\> eat his prize while he helplessly fights them off  
 >\> drags the **fish skeleton** back to shore. Not all villagers are impressed.  
->\> sleeps. 
+>\> sleeps. <br>
 >\> dreams of lions. 

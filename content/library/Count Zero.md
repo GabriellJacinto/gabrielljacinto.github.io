@@ -1,5 +1,5 @@
 ---
-{"date":"2023-12-25","tags":["book/fiction","done"],"topic":"[[Cyberpunk]]","start":"2023-08-01","finish":"2024-02-19","author":"[[Wiliam Gibson\|Wiliam Gibson]]","year":1986,"publish":true,"PassFrontmatter":true}
+{"date":"2023-12-25","tags":["book/fiction", ],"topic":"[[Cyberpunk]]","start":"2023-08-01","finish":"2024-02-19","author":"[[Wiliam Gibson|Wiliam Gibson]]","year":1986,"publish":true,"PassFrontmatter":true}
 ---
 
 
@@ -11,13 +11,13 @@
 > Not everything that glows is gold. Could be a black ICE ready to flatline you.
 
 >[!done]+ eli5.txt
-> \> AI overlords from [[library/Neuromancer\|Neuromancer]] now manipulate humans through cults
-> \> rich white collar guy in a cryo tank wants to live forever as a digital mind
-> \> hires a merc and an art dealer to find the secret to AI reincarnation
-> \> omniscient AIs are omniscient
-> \> play 4D chess to ruin him
-> \> everyone scrambles to survive while the corps get pwned
-> \> some cool voodoo stuff and a dude named Count Zero are in there as well
+> \> AI overlords from [[library/Neuromancer\|Neuromancer]] now manipulate humans through cults<br>
+> \> rich white collar guy in a cryo tank wants to live forever as a digital mind<br>
+> \> hires a merc and an art dealer to find the secret to AI reincarnation<br>
+> \> omniscient AIs are omniscient<br>
+> \> play 4D chess to ruin him<br>
+> \> everyone scrambles to survive while the corps get pwned<br>
+> \> some cool voodoo stuff and a dude named Count Zero are in there as well<br>
 
 # Notes
 

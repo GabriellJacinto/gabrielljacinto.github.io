@@ -1,21 +1,21 @@
 ---
-{"date":"2023-09-03","tags":["book/fiction","done"],"topic":"[[Science Fiction]]","start":"2020-01-16","finish":"2021-01-18","author":"[[Frank Herbert]]","year":1965,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book/fiction", ],"topic":"[[Science Fiction]]","start":"2020-01-16","finish":"2021-01-18","author":"[[Frank Herbert]]","year":1965,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How *Dune* Changed Me
 > It really made me think about what might happen if society one day decided to abolish digital machines because of rogue [[Artificial Intelligence\|AI]]'s. It’s a weird thought, but considering the mess we’re making with tech, it doesn't seem all that far-fetched. Also, the whole "spice" thing is just a metaphor for oil isn't it?
 
 >[!done]+ eli5.txt
-> \> futuristic feudal society where no one uses computers because AIs are too dangerous (apparently)
-> \> a royal family is sent to a desert planet 
-> \> immediately gets stabbed in the back by the emperor because he’s a scared bitch
-> \> the only survivors, the Duke's son, and his witchy mom escape 
-> \> sietchDreamin'.mp4
-> \> learn survival from desert nomads
-> \> giant sandworms riding.gif
-> \> become messianic leaders because of magic-y religious mumbo jumbo
-> \> gets revenge on the emperor and everyone else who wronged him
-> \> starts an interplanetary jihad 
+> \> futuristic feudal society where no one uses computers because AIs are too dangerous (apparently)<br>
+> \> a royal family is sent to a desert planet <br>
+> \> immediately gets stabbed in the back by the emperor because he’s a scared bitch<br>
+> \> the only survivors, the Duke's son, and his witchy mom escape <br>
+> \> sietchDreamin'.mp4<br>
+> \> learn survival from desert nomads<br>
+> \> giant sandworms riding.gif<br>
+> \> become messianic leaders because of magic-y religious mumbo jumbo<br>
+> \> gets revenge on the emperor and everyone else who wronged him<br>
+> \> starts an interplanetary jihad <br>
 
 # Notes
 

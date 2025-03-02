@@ -1,5 +1,5 @@
 ---
-{"date":"2025-02-25","tags":["book/fiction","done"],"title":"Dark Matter","subtitle":"","author":"[[Blake Crouch]]","description":null,"publisher":null,"publishDate":"2024-05-02","totalPage":0,"isbn10":2404080636,"isbn13":9782404080635,"topic":"[[Science Fiction]]","start":"2020-03-01","finish":"2020-03-31","publish":true,"PassFrontmatter":true}
+{"date":"2025-02-25","tags":["book/fiction", ],"title":"Dark Matter","subtitle":"","author":"[[Blake Crouch]]","description":null,"publisher":null,"publishDate":"2024-05-02","totalPage":0,"isbn10":2404080636,"isbn13":9782404080635,"topic":"[[Science Fiction]]","start":"2020-03-01","finish":"2020-03-31","publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How *Dark Matter* Changed Me 
@@ -11,17 +11,17 @@
 >Thanks for the existential crisis, Blake. Appreciate it. I'm turning this into my personality now.
 
 >[!done]+ eli5.txt
-> \> be a mediocre physics professor
-> \> have hot wife at least
-> \> gets abducted
-> \> wakes up in an alternate universe
-> \> somehow not a failure anymore, actually a world-renowned physicist 
-> \> realizes is bitchless
-> \> discovers his parallel counterpart invented a box that can hop between parallel worlds just to fuck his wife
-> \> existential crisis.jpg
-> \> wants to go back immediatly
-> \> quantum physics mumbo jumbo.txt
-> \> enters box, has to deal with a bunch of versions of himself from different “what if” scenarios. 
-> \> regret purgatory ensues
-> \> welcome to the multiverse, where nothing matters, and everything’s your fault
-> \> should just stayed home and rewatched [[Back to the Future\|Back to the Future]] instead
+> \> be a mediocre physics professor<br>
+> \> have hot wife at least<br>
+> \> gets abducted<br>
+> \> wakes up in an alternate universe<br>
+> \> somehow not a failure anymore, actually a world-renowned physicist<br> 
+> \> realizes is bitchless<br>
+> \> discovers his parallel counterpart invented a box that can hop between parallel worlds just to fuck his wife<br>
+> \> existential crisis.jpg<br>
+> \> wants to go back immediatly<br>
+> \> quantum physics mumbo jumbo.txt<br>
+> \> enters box, has to deal with a bunch of versions of himself from different “what if” scenarios. <br>
+> \> regret purgatory ensues<br>
+> \> welcome to the multiverse, where nothing matters, and everything’s your fault<br>
+> \> should just stayed home and rewatched [[Back to the Future\|Back to the Future]] instead<br>

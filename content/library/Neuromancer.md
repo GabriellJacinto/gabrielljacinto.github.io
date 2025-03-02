@@ -1,18 +1,18 @@
 ---
-{"date":"2023-09-03","tags":["book/fiction","done"],"topic":"[[Cyberpunk]]","start":"2022-08-01","finish":"2023-03-04","author":"[[Wiliam Gibson\|Wiliam Gibson]]","year":1983,"sr-due":"2023-12-29","sr-interval":1,"sr-ease":210,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book/fiction", ],"topic":"[[Cyberpunk]]","start":"2022-08-01","finish":"2023-03-04","author":"[[Wiliam Gibson|Wiliam Gibson]]","year":1983,"sr-due":"2023-12-29","sr-interval":1,"sr-ease":210,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How _Neuromancer_ Changed Me
 > Reading this felt like getting dropped into a cyberpunk fever dream where the core plot is behind a paywall where you have to watch numerous ads to get to the bottom of it. But once I got past the cryptic jargon and William Gibson's refusal to hold my hand, I started appreciating the raw aesthetic of it all. It taught me that sometimes style matters more than clarity—and that the internet was always destined to be a dystopian mess. Another case of [[Delayed Gratification\|Delayed Gratification]], but this book could have be an email, don't you think edge master Gibson?
 
 >[!done]+ ELI5.greentxt Summary 
-> \> depressed hacker gets hired by a mysterious employer
-> \> gets enslaved and has poison sacks put in organs
-> \> job is basically “go hack this AI (Neuromancer)”
-> \> turns out the AI itself (Wintermute) hired him to free his counterpart
-> \> AI merges with its other half and peaces out into the matrix
-> \> poison sacks were cap fr fr
-> \> still broke, still depressed, still bitchless
+> \> depressed hacker gets hired by a mysterious employer<br>
+> \> gets enslaved and has poison sacks put in organs<br>
+> \> job is basically “go hack this AI (Neuromancer)”<br>
+> \> turns out the AI itself (Wintermute) hired him to free his counterpart<br>
+> \> AI merges with its other half and peaces out into the matrix<br>
+> \> poison sacks were cap fr fr<br>
+> \> still broke, still depressed, still bitchless<br>
 
 # Notes
 

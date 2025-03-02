@@ -1,18 +1,18 @@
 ---
-{"date":"2023-09-03","tags":["book/fiction","done"],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
+{"date":"2023-09-03","tags":["book/fiction", ],"topic":"[[Philosophy]]","start":"2020-01-20","finish":"2020-01-26","author":"[[Albert Camus]]","year":"1942","sr-due":"2023-12-25","sr-interval":4,"sr-ease":270,"publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How *L'Étranger* Changed Me
 >Forgetting about death is a recurring theme in life, and this book is a refreshing reminder of the inevitability and indifference of it. In a sense, it showed me the simplicity of living a life without purpose, focusing only on the pleasure of routine activities like [[library/Meursault sobre felicidade\|eating ice cream and watching passersby]]. It didn't convince me to adopt [[Absurdism\|Absurdism]], but it presented an ideal that’s not too far from practicality.
 
 >[!done]+ eli5.txt
-> \> guy finds out his mom died, doesn't feel much
-> \> during the funeral, he blames the sun for making him uncomfortable
-> \> keeps living his life like it’s nothing new
-> \> goes to a beach with friends, gets in a fight with some Arabs
-> \> shoots one of them five times, blames the sun again
-> \> gets arrested and put on trial for being indifferent about his mom’s death
-> \> sentenced to the guillotine because he doesn’t play the "right" emotional game
+> \> guy finds out his mom died, doesn't feel much<br>
+> \> during the funeral, he blames the sun for making him uncomfortable<br>
+> \> keeps living his life like it’s nothing new<br>
+> \> goes to a beach with friends, gets in a fight with some Arabs<br>
+> \> shoots one of them five times, blames the sun again<br>
+> \> gets arrested and put on trial for being indifferent about his mom’s death<br>
+> \> sentenced to the guillotine because he doesn’t play the "right" emotional game<br>
 
 # Notes
 

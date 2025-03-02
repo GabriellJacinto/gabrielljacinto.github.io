@@ -1,5 +1,5 @@
 ---
-{"date":"2025-03-01","tags":["book/fiction","done"],"title":"Harry Potter: The Complete Collection (1-7)","subtitle":"","author":"[[J.K. Rowling]]","description":"Quando Harry Potter é deixado em uma porta ainda bebê, ele não faz ideia de que é o Menino Que Sobreviveu, ou de que é famoso em todo o mundo bruxo. Anos depois, ele fica surpreso ao receber uma carta de admissão da Escola de Magia e Bruxaria de Hogwarts e é rapidamente levado em uma aventura mágica como nenhuma outra. Junte-se a Harry e seus amigos leais, Hermione e Ron, nesta história sobre o poder da verdade, amor e esperança. Clássicos do nosso tempo, os ebooks de Harry Potter nunca deixam de oferecer conforto e escapismo. Com sua mensagem de esperança, pertencimento e o poder duradouro da verdade e do amor, a história do Menino Que Sobreviveu continua a encantar gerações de novos leitores.","publisher":"Pottermore Publishing","publishDate":"2016-01-28","totalPage":4172,"isbn10":1781106584,"isbn13":9781781106587,"topic":"[[Adventure]]","start":"2010-01-01","finish":"2011-12-01","publish":true,"PassFrontmatter":true}
+{"date":"2025-03-01","tags":["book/fiction", ],"title":"Harry Potter: The Complete Collection (1-7)","subtitle":"","author":"[[J.K. Rowling]]","description":"Quando Harry Potter é deixado em uma porta ainda bebê, ele não faz ideia de que é o Menino Que Sobreviveu, ou de que é famoso em todo o mundo bruxo. Anos depois, ele fica surpreso ao receber uma carta de admissão da Escola de Magia e Bruxaria de Hogwarts e é rapidamente levado em uma aventura mágica como nenhuma outra. Junte-se a Harry e seus amigos leais, Hermione e Ron, nesta história sobre o poder da verdade, amor e esperança. Clássicos do nosso tempo, os ebooks de Harry Potter nunca deixam de oferecer conforto e escapismo. Com sua mensagem de esperança, pertencimento e o poder duradouro da verdade e do amor, a história do Menino Que Sobreviveu continua a encantar gerações de novos leitores.","publisher":"Pottermore Publishing","publishDate":"2016-01-28","totalPage":4172,"isbn10":1781106584,"isbn13":9781781106587,"topic":"[[Adventure]]","start":"2010-01-01","finish":"2011-12-01","publish":true,"PassFrontmatter":true}
 ---
 
 >[!done]+ How _Harry Potter: The Complete Collection (1-7)_* Changed Me
@@ -15,5 +15,5 @@
 >\> villain with no nose really, really wants him dead  
 >\> friendship, trauma, and near-death experiences every school year  
 >\> final boss fight, magic wands, and some questionable plot armor  
->\> _(heavy sight)_ power of love wins
+>\> _(heavy sight)_ power of love wins<br>
 \> capitalism ensures sequels for every future generation
