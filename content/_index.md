@@ -27,10 +27,10 @@ When I’m not buried in books, I’m either making people laugh as a [[library/
 Feel free to explore the many winding paths of this linked space. If I may suggest, the best way to navigate all the content is through the [tag index](/tags/) or the [recent writing index](/library/) if you prefer a bit of ordered chaos. However, if you truly thrive on entropy - *you mischievous soul* - click on the Graph View!
 
 Still undecided? Check out these collections:
-- [[The Radio Silence Atrium\|The Radio Silence Atrium]]: a collection of my favorite thoughts and stream-of-consciousness musings, etched into writing;
-- [[The Fool's Workbench\|The Fool's Workbench]]: a collection of projects and ideas I've worked on or am currently tinkering with;
-- [[The Creaking Shelf\|The Creaking Shelf]]: a peek into my ever-growing book collection.
-- [[The Silver Screen Hub\|The Silver Screen Hub]]: a curated space for all things visual and audible—movies, music, series, podcasts, and games.
+- [[The Radio Silence Atrium\|The Radio Silence Atrium]]: a collection of my favorite **thoughts** and stream-of-consciousness musings, etched into writing;
+- [[The Fool's Workbench\|The Fool's Workbench]]: a collection of **projects** and ideas I've worked on or am currently tinkering with;
+- [[The Creaking Shelf\|The Creaking Shelf]]: a peek into my ever-growing **book** collection.
+- [[The Silver Screen Hub\|The Silver Screen Hub]]: a curated space for all things **visual and audible**—movies, music, series, podcasts, and games.
 
 ```poetry
 - Gabe :)
